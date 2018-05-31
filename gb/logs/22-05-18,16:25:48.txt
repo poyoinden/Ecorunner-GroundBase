@@ -1,0 +1,4806 @@
+1, throttle, 4, 16:18:26.182
+2, throttle, 4, 16:18:26.182
+3, throttle, 4, 16:18:26.182
+4, throttle, 4, 16:18:26.182
+5, throttle, 4, 16:18:26.182
+6, throttle, 4, 16:18:26.182
+7, throttle, -1, -1
+8, throttle, -1, -1
+9, throttle, -1, -1
+10, throttle, -1, -1
+11, throttle, -1, -1
+12, throttle, -1, -1
+13, throttle, -1, -1
+14, throttle, -1, -1
+15, throttle, -1, -1
+16, throttle, 4, 16:18:26.182
+17, throttle, -1, -1
+18, throttle, -1, -1
+19, throttle, -1, -1
+20, throttle, -1, -1
+21, throttle, -1, -1
+22, throttle, -1, -1
+23, throttle, -1, -1
+24, throttle, -1, -1
+25, throttle, -1, -1
+26, throttle, -1, -1
+27, throttle, -1, -1
+28, throttle, -1, -1
+29, throttle, -1, -1
+30, throttle, -1, -1
+31, throttle, -1, -1
+32, throttle, -1, -1
+33, throttle, -1, -1
+34, throttle, -1, -1
+35, throttle, -1, -1
+36, throttle, -1, -1
+37, throttle, -1, -1
+38, throttle, -1, -1
+39, throttle, -1, -1
+40, throttle, -1, -1
+41, throttle, -1, -1
+42, throttle, -1, -1
+43, throttle, -1, -1
+44, throttle, -1, -1
+45, throttle, -1, -1
+46, throttle, -1, -1
+47, throttle, -1, -1
+48, throttle, -1, -1
+49, throttle, -1, -1
+50, throttle, -1, -1
+51, throttle, -1, -1
+52, throttle, -1, -1
+53, throttle, -1, -1
+54, throttle, -1, -1
+55, throttle, -1, -1
+56, throttle, -1, -1
+57, throttle, -1, -1
+58, throttle, -1, -1
+59, throttle, -1, -1
+60, throttle, -1, -1
+61, throttle, -1, -1
+62, throttle, -1, -1
+63, throttle, -1, -1
+64, throttle, -1, -1
+65, throttle, -1, -1
+66, throttle, -1, -1
+67, throttle, -1, -1
+68, throttle, -1, -1
+69, throttle, -1, -1
+70, throttle, -1, -1
+71, throttle, -1, -1
+72, throttle, -1, -1
+73, throttle, -1, -1
+74, throttle, -1, -1
+75, throttle, -1, -1
+76, throttle, -1, -1
+77, throttle, -1, -1
+78, throttle, -1, -1
+79, throttle, -1, -1
+80, throttle, -1, -1
+81, throttle, -1, -1
+82, throttle, -1, -1
+83, throttle, -1, -1
+84, throttle, -1, -1
+85, throttle, -1, -1
+86, throttle, -1, -1
+87, throttle, -1, -1
+88, throttle, -1, -1
+89, throttle, -1, -1
+90, throttle, -1, -1
+91, throttle, -1, -1
+92, throttle, -1, -1
+93, throttle, -1, -1
+94, throttle, -1, -1
+95, throttle, -1, -1
+96, throttle, -1, -1
+97, throttle, -1, -1
+98, throttle, -1, -1
+99, throttle, -1, -1
+100, throttle, -1, -1
+101, throttle, -1, -1
+102, throttle, -1, -1
+103, throttle, -1, -1
+104, throttle, -1, -1
+105, throttle, -1, -1
+106, throttle, -1, -1
+107, throttle, -1, -1
+108, throttle, -1, -1
+109, throttle, -1, -1
+110, throttle, -1, -1
+111, throttle, -1, -1
+112, throttle, -1, -1
+113, throttle, -1, -1
+114, throttle, -1, -1
+115, throttle, -1, -1
+116, throttle, -1, -1
+117, throttle, -1, -1
+118, throttle, -1, -1
+119, throttle, -1, -1
+120, throttle, -1, -1
+121, throttle, -1, -1
+122, throttle, -1, -1
+123, throttle, -1, -1
+124, throttle, -1, -1
+125, throttle, -1, -1
+126, throttle, -1, -1
+127, throttle, -1, -1
+128, throttle, -1, -1
+129, throttle, -1, -1
+130, throttle, -1, -1
+131, throttle, -1, -1
+132, throttle, -1, -1
+133, throttle, -1, -1
+134, throttle, -1, -1
+135, throttle, -1, -1
+136, throttle, -1, -1
+137, throttle, -1, -1
+138, throttle, -1, -1
+139, throttle, -1, -1
+140, throttle, -1, -1
+141, throttle, -1, -1
+142, throttle, -1, -1
+143, throttle, -1, -1
+144, throttle, -1, -1
+145, throttle, -1, -1
+146, throttle, -1, -1
+147, throttle, -1, -1
+148, throttle, -1, -1
+149, throttle, -1, -1
+150, throttle, -1, -1
+151, throttle, -1, -1
+152, throttle, -1, -1
+153, throttle, -1, -1
+154, throttle, -1, -1
+155, throttle, -1, -1
+156, throttle, -1, -1
+157, throttle, -1, -1
+158, throttle, -1, -1
+159, throttle, -1, -1
+160, throttle, -1, -1
+161, throttle, -1, -1
+162, throttle, -1, -1
+163, throttle, -1, -1
+164, throttle, -1, -1
+165, throttle, -1, -1
+166, throttle, -1, -1
+167, throttle, -1, -1
+168, throttle, -1, -1
+169, throttle, -1, -1
+170, throttle, -1, -1
+171, throttle, -1, -1
+172, throttle, -1, -1
+173, throttle, -1, -1
+174, throttle, -1, -1
+175, throttle, -1, -1
+176, throttle, -1, -1
+177, throttle, -1, -1
+178, throttle, -1, -1
+179, throttle, -1, -1
+180, throttle, -1, -1
+181, throttle, -1, -1
+182, throttle, -1, -1
+183, throttle, -1, -1
+184, throttle, -1, -1
+185, throttle, -1, -1
+186, throttle, -1, -1
+187, throttle, -1, -1
+188, throttle, -1, -1
+189, throttle, -1, -1
+190, throttle, -1, -1
+191, throttle, -1, -1
+192, throttle, -1, -1
+193, throttle, -1, -1
+194, throttle, -1, -1
+195, throttle, -1, -1
+196, throttle, -1, -1
+197, throttle, -1, -1
+198, throttle, -1, -1
+199, throttle, -1, -1
+200, throttle, -1, -1
+201, throttle, -1, -1
+202, throttle, -1, -1
+203, throttle, -1, -1
+204, throttle, -1, -1
+205, throttle, -1, -1
+206, throttle, -1, -1
+207, throttle, -1, -1
+208, throttle, -1, -1
+209, throttle, -1, -1
+210, throttle, -1, -1
+211, throttle, -1, -1
+212, throttle, -1, -1
+213, throttle, -1, -1
+214, throttle, -1, -1
+215, throttle, -1, -1
+216, throttle, -1, -1
+217, throttle, -1, -1
+218, throttle, -1, -1
+219, throttle, -1, -1
+220, throttle, -1, -1
+221, throttle, -1, -1
+222, throttle, -1, -1
+223, throttle, -1, -1
+224, throttle, -1, -1
+225, throttle, -1, -1
+226, throttle, -1, -1
+227, throttle, -1, -1
+228, throttle, -1, -1
+229, throttle, -1, -1
+230, throttle, -1, -1
+231, throttle, -1, -1
+232, throttle, -1, -1
+233, throttle, -1, -1
+234, throttle, -1, -1
+235, throttle, -1, -1
+236, throttle, -1, -1
+237, throttle, -1, -1
+238, throttle, -1, -1
+239, throttle, -1, -1
+240, throttle, -1, -1
+241, throttle, -1, -1
+242, throttle, -1, -1
+243, throttle, -1, -1
+244, throttle, -1, -1
+245, throttle, -1, -1
+246, throttle, -1, -1
+247, throttle, -1, -1
+248, throttle, -1, -1
+249, throttle, -1, -1
+250, throttle, -1, -1
+251, throttle, -1, -1
+252, throttle, -1, -1
+253, throttle, -1, -1
+254, throttle, -1, -1
+255, throttle, -1, -1
+256, throttle, -1, -1
+257, throttle, -1, -1
+258, throttle, -1, -1
+259, throttle, -1, -1
+260, throttle, -1, -1
+261, throttle, -1, -1
+262, throttle, -1, -1
+263, throttle, -1, -1
+264, throttle, -1, -1
+265, throttle, -1, -1
+266, throttle, -1, -1
+267, throttle, -1, -1
+268, throttle, -1, -1
+269, throttle, -1, -1
+270, throttle, -1, -1
+271, throttle, -1, -1
+272, throttle, -1, -1
+273, throttle, -1, -1
+274, throttle, -1, -1
+275, throttle, -1, -1
+276, throttle, -1, -1
+277, throttle, -1, -1
+278, throttle, -1, -1
+279, throttle, -1, -1
+280, throttle, -1, -1
+281, throttle, -1, -1
+282, throttle, -1, -1
+283, throttle, -1, -1
+284, throttle, -1, -1
+285, throttle, -1, -1
+286, throttle, -1, -1
+287, throttle, -1, -1
+288, throttle, -1, -1
+289, throttle, -1, -1
+290, throttle, -1, -1
+291, throttle, -1, -1
+292, throttle, -1, -1
+293, throttle, -1, -1
+294, throttle, -1, -1
+295, throttle, -1, -1
+296, throttle, -1, -1
+297, throttle, -1, -1
+298, throttle, -1, -1
+299, throttle, -1, -1
+300, throttle, -1, -1
+301, throttle, -1, -1
+302, throttle, -1, -1
+303, throttle, -1, -1
+304, throttle, -1, -1
+305, throttle, -1, -1
+306, throttle, -1, -1
+307, throttle, -1, -1
+308, throttle, -1, -1
+309, throttle, -1, -1
+310, throttle, -1, -1
+311, throttle, -1, -1
+312, throttle, -1, -1
+313, throttle, -1, -1
+314, throttle, -1, -1
+315, throttle, -1, -1
+316, throttle, -1, -1
+317, throttle, -1, -1
+318, throttle, -1, -1
+319, throttle, -1, -1
+320, throttle, -1, -1
+321, throttle, -1, -1
+322, throttle, -1, -1
+323, throttle, -1, -1
+324, throttle, -1, -1
+325, throttle, -1, -1
+326, throttle, -1, -1
+327, throttle, -1, -1
+328, throttle, -1, -1
+329, throttle, -1, -1
+330, throttle, -1, -1
+331, throttle, -1, -1
+332, throttle, -1, -1
+333, throttle, -1, -1
+334, throttle, -1, -1
+335, throttle, -1, -1
+336, throttle, -1, -1
+337, throttle, -1, -1
+338, throttle, -1, -1
+339, throttle, -1, -1
+340, throttle, -1, -1
+341, throttle, -1, -1
+342, throttle, -1, -1
+343, throttle, -1, -1
+344, throttle, -1, -1
+345, throttle, -1, -1
+346, throttle, -1, -1
+347, throttle, -1, -1
+348, throttle, -1, -1
+349, throttle, -1, -1
+350, throttle, -1, -1
+351, throttle, -1, -1
+352, throttle, -1, -1
+353, throttle, -1, -1
+354, throttle, -1, -1
+355, throttle, -1, -1
+356, throttle, -1, -1
+357, throttle, -1, -1
+358, throttle, -1, -1
+359, throttle, -1, -1
+360, throttle, -1, -1
+361, throttle, -1, -1
+362, throttle, -1, -1
+363, throttle, -1, -1
+364, throttle, -1, -1
+365, throttle, -1, -1
+366, throttle, -1, -1
+367, throttle, -1, -1
+368, throttle, -1, -1
+369, throttle, -1, -1
+370, throttle, -1, -1
+371, throttle, -1, -1
+372, throttle, -1, -1
+373, throttle, -1, -1
+374, throttle, -1, -1
+375, throttle, -1, -1
+376, throttle, -1, -1
+377, throttle, -1, -1
+378, throttle, -1, -1
+379, throttle, -1, -1
+380, throttle, -1, -1
+381, throttle, -1, -1
+382, throttle, -1, -1
+383, throttle, -1, -1
+384, throttle, -1, -1
+385, throttle, -1, -1
+386, throttle, -1, -1
+387, throttle, -1, -1
+388, throttle, -1, -1
+389, throttle, -1, -1
+390, throttle, -1, -1
+391, throttle, -1, -1
+392, throttle, -1, -1
+393, throttle, -1, -1
+394, throttle, -1, -1
+395, throttle, -1, -1
+396, throttle, -1, -1
+397, throttle, -1, -1
+398, throttle, -1, -1
+399, throttle, -1, -1
+400, throttle, -1, -1
+401, throttle, -1, -1
+402, throttle, -1, -1
+403, throttle, -1, -1
+404, throttle, -1, -1
+405, throttle, -1, -1
+406, throttle, -1, -1
+407, throttle, -1, -1
+408, throttle, -1, -1
+409, throttle, -1, -1
+410, throttle, -1, -1
+411, throttle, -1, -1
+412, throttle, -1, -1
+413, throttle, -1, -1
+414, throttle, -1, -1
+415, throttle, -1, -1
+416, throttle, -1, -1
+417, throttle, -1, -1
+418, throttle, -1, -1
+419, throttle, -1, -1
+420, throttle, -1, -1
+421, throttle, -1, -1
+422, throttle, -1, -1
+423, throttle, -1, -1
+424, throttle, -1, -1
+425, throttle, -1, -1
+426, throttle, -1, -1
+427, throttle, -1, -1
+428, throttle, -1, -1
+429, throttle, -1, -1
+430, throttle, -1, -1
+431, throttle, -1, -1
+432, throttle, -1, -1
+433, throttle, -1, -1
+434, throttle, -1, -1
+435, throttle, -1, -1
+436, throttle, -1, -1
+437, throttle, -1, -1
+438, throttle, -1, -1
+439, throttle, -1, -1
+440, throttle, -1, -1
+441, throttle, -1, -1
+442, throttle, -1, -1
+443, throttle, -1, -1
+444, throttle, -1, -1
+445, throttle, -1, -1
+446, throttle, -1, -1
+447, throttle, -1, -1
+448, throttle, -1, -1
+449, throttle, -1, -1
+450, throttle, -1, -1
+451, throttle, -1, -1
+452, throttle, -1, -1
+453, throttle, -1, -1
+454, throttle, -1, -1
+455, throttle, -1, -1
+456, throttle, -1, -1
+457, throttle, -1, -1
+458, throttle, -1, -1
+459, throttle, -1, -1
+460, throttle, -1, -1
+461, throttle, -1, -1
+462, throttle, -1, -1
+463, throttle, -1, -1
+464, throttle, -1, -1
+465, throttle, -1, -1
+466, throttle, -1, -1
+467, throttle, -1, -1
+468, throttle, -1, -1
+469, throttle, -1, -1
+470, throttle, -1, -1
+471, throttle, -1, -1
+472, throttle, -1, -1
+473, throttle, -1, -1
+474, throttle, -1, -1
+475, throttle, -1, -1
+476, throttle, -1, -1
+477, throttle, -1, -1
+478, throttle, -1, -1
+479, throttle, -1, -1
+480, throttle, -1, -1
+481, throttle, -1, -1
+482, throttle, -1, -1
+483, throttle, -1, -1
+484, throttle, -1, -1
+485, throttle, -1, -1
+486, throttle, -1, -1
+487, throttle, -1, -1
+488, throttle, -1, -1
+489, throttle, -1, -1
+490, throttle, -1, -1
+491, throttle, -1, -1
+492, throttle, -1, -1
+493, throttle, -1, -1
+494, throttle, -1, -1
+495, throttle, -1, -1
+496, throttle, -1, -1
+497, throttle, -1, -1
+498, throttle, -1, -1
+499, throttle, -1, -1
+500, throttle, -1, -1
+501, throttle, -1, -1
+502, throttle, -1, -1
+503, throttle, -1, -1
+504, throttle, -1, -1
+505, throttle, -1, -1
+506, throttle, -1, -1
+507, throttle, -1, -1
+508, throttle, -1, -1
+509, throttle, -1, -1
+510, throttle, -1, -1
+511, throttle, -1, -1
+512, throttle, -1, -1
+513, throttle, -1, -1
+514, throttle, -1, -1
+515, throttle, -1, -1
+516, throttle, -1, -1
+517, throttle, -1, -1
+518, throttle, -1, -1
+519, throttle, -1, -1
+520, throttle, -1, -1
+521, throttle, -1, -1
+522, throttle, -1, -1
+523, throttle, -1, -1
+524, throttle, -1, -1
+525, throttle, -1, -1
+526, throttle, -1, -1
+527, throttle, -1, -1
+528, throttle, -1, -1
+529, throttle, -1, -1
+530, throttle, -1, -1
+531, throttle, -1, -1
+532, throttle, -1, -1
+533, throttle, -1, -1
+534, throttle, -1, -1
+535, throttle, -1, -1
+536, throttle, -1, -1
+537, throttle, -1, -1
+538, throttle, -1, -1
+539, throttle, -1, -1
+540, throttle, -1, -1
+541, throttle, -1, -1
+542, throttle, -1, -1
+543, throttle, -1, -1
+544, throttle, -1, -1
+545, throttle, -1, -1
+546, throttle, -1, -1
+547, throttle, -1, -1
+548, throttle, -1, -1
+549, throttle, -1, -1
+550, throttle, -1, -1
+551, throttle, -1, -1
+552, throttle, -1, -1
+553, throttle, -1, -1
+554, throttle, -1, -1
+555, throttle, -1, -1
+556, throttle, -1, -1
+557, throttle, -1, -1
+558, throttle, -1, -1
+559, throttle, -1, -1
+560, throttle, -1, -1
+561, throttle, -1, -1
+562, throttle, -1, -1
+563, throttle, -1, -1
+564, throttle, -1, -1
+565, throttle, -1, -1
+566, throttle, -1, -1
+567, throttle, -1, -1
+568, throttle, -1, -1
+569, throttle, -1, -1
+570, throttle, -1, -1
+571, throttle, -1, -1
+572, throttle, -1, -1
+573, throttle, -1, -1
+574, throttle, -1, -1
+575, throttle, -1, -1
+576, throttle, -1, -1
+577, throttle, -1, -1
+578, throttle, -1, -1
+579, throttle, -1, -1
+580, throttle, -1, -1
+581, throttle, -1, -1
+582, throttle, -1, -1
+583, throttle, -1, -1
+584, throttle, -1, -1
+585, throttle, -1, -1
+586, throttle, -1, -1
+587, throttle, -1, -1
+588, throttle, -1, -1
+589, throttle, -1, -1
+590, throttle, -1, -1
+591, throttle, -1, -1
+592, throttle, -1, -1
+593, throttle, -1, -1
+594, throttle, -1, -1
+595, throttle, -1, -1
+596, throttle, -1, -1
+597, throttle, -1, -1
+598, throttle, -1, -1
+599, throttle, -1, -1
+600, throttle, -1, -1
+601, throttle, -1, -1
+602, throttle, -1, -1
+603, throttle, -1, -1
+604, throttle, -1, -1
+605, throttle, -1, -1
+606, throttle, -1, -1
+607, throttle, -1, -1
+608, throttle, -1, -1
+609, throttle, -1, -1
+610, throttle, -1, -1
+611, throttle, -1, -1
+612, throttle, -1, -1
+613, throttle, -1, -1
+614, throttle, -1, -1
+615, throttle, -1, -1
+616, throttle, -1, -1
+617, throttle, -1, -1
+618, throttle, -1, -1
+619, throttle, -1, -1
+620, throttle, -1, -1
+621, throttle, -1, -1
+622, throttle, -1, -1
+623, throttle, -1, -1
+624, throttle, -1, -1
+625, throttle, -1, -1
+626, throttle, -1, -1
+627, throttle, -1, -1
+628, throttle, -1, -1
+629, throttle, -1, -1
+630, throttle, -1, -1
+631, throttle, -1, -1
+632, throttle, -1, -1
+633, throttle, -1, -1
+634, throttle, -1, -1
+635, throttle, -1, -1
+636, throttle, -1, -1
+637, throttle, -1, -1
+638, throttle, -1, -1
+639, throttle, -1, -1
+640, throttle, -1, -1
+641, throttle, -1, -1
+642, throttle, -1, -1
+643, throttle, -1, -1
+644, throttle, -1, -1
+645, throttle, -1, -1
+646, throttle, -1, -1
+647, throttle, -1, -1
+648, throttle, -1, -1
+649, throttle, -1, -1
+650, throttle, -1, -1
+651, throttle, -1, -1
+652, throttle, -1, -1
+653, throttle, -1, -1
+654, throttle, -1, -1
+655, throttle, -1, -1
+656, throttle, -1, -1
+657, throttle, -1, -1
+658, throttle, -1, -1
+659, throttle, -1, -1
+660, throttle, -1, -1
+661, throttle, -1, -1
+662, throttle, -1, -1
+663, throttle, -1, -1
+664, throttle, -1, -1
+665, throttle, -1, -1
+666, throttle, -1, -1
+667, throttle, -1, -1
+668, throttle, -1, -1
+669, throttle, -1, -1
+670, throttle, -1, -1
+671, throttle, -1, -1
+672, throttle, -1, -1
+673, throttle, -1, -1
+674, throttle, -1, -1
+675, throttle, -1, -1
+676, throttle, -1, -1
+677, throttle, -1, -1
+678, throttle, -1, -1
+679, throttle, -1, -1
+680, throttle, -1, -1
+681, throttle, -1, -1
+682, throttle, -1, -1
+683, throttle, -1, -1
+684, throttle, -1, -1
+685, throttle, -1, -1
+686, throttle, -1, -1
+687, throttle, -1, -1
+688, throttle, -1, -1
+689, throttle, -1, -1
+690, throttle, -1, -1
+691, throttle, -1, -1
+692, throttle, -1, -1
+693, throttle, -1, -1
+694, throttle, -1, -1
+695, throttle, -1, -1
+696, throttle, -1, -1
+697, throttle, -1, -1
+698, throttle, -1, -1
+699, throttle, -1, -1
+700, throttle, -1, -1
+701, throttle, -1, -1
+702, throttle, -1, -1
+703, throttle, -1, -1
+704, throttle, -1, -1
+705, throttle, -1, -1
+706, throttle, -1, -1
+707, throttle, -1, -1
+708, throttle, -1, -1
+709, throttle, -1, -1
+710, throttle, -1, -1
+711, throttle, -1, -1
+712, throttle, -1, -1
+713, throttle, -1, -1
+714, throttle, -1, -1
+715, throttle, -1, -1
+716, throttle, -1, -1
+717, throttle, -1, -1
+718, throttle, -1, -1
+719, throttle, -1, -1
+720, throttle, -1, -1
+721, throttle, -1, -1
+722, throttle, -1, -1
+723, throttle, -1, -1
+724, throttle, -1, -1
+725, throttle, -1, -1
+726, throttle, -1, -1
+727, throttle, -1, -1
+728, throttle, -1, -1
+729, throttle, -1, -1
+730, throttle, -1, -1
+731, throttle, -1, -1
+732, throttle, -1, -1
+733, throttle, -1, -1
+734, throttle, -1, -1
+735, throttle, -1, -1
+736, throttle, -1, -1
+737, throttle, -1, -1
+738, throttle, -1, -1
+739, throttle, -1, -1
+740, throttle, -1, -1
+741, throttle, -1, -1
+742, throttle, -1, -1
+743, throttle, -1, -1
+744, throttle, -1, -1
+745, throttle, -1, -1
+746, throttle, -1, -1
+747, throttle, -1, -1
+748, throttle, -1, -1
+749, throttle, -1, -1
+750, throttle, -1, -1
+751, throttle, -1, -1
+752, throttle, -1, -1
+753, throttle, -1, -1
+754, throttle, -1, -1
+755, throttle, -1, -1
+756, throttle, -1, -1
+757, throttle, -1, -1
+758, throttle, -1, -1
+759, throttle, -1, -1
+760, throttle, -1, -1
+761, throttle, -1, -1
+762, throttle, -1, -1
+763, throttle, -1, -1
+764, throttle, -1, -1
+765, throttle, -1, -1
+766, throttle, -1, -1
+767, throttle, -1, -1
+768, throttle, -1, -1
+769, throttle, -1, -1
+770, throttle, -1, -1
+771, throttle, -1, -1
+772, throttle, -1, -1
+773, throttle, -1, -1
+774, throttle, -1, -1
+775, throttle, -1, -1
+776, throttle, -1, -1
+777, throttle, -1, -1
+778, throttle, -1, -1
+779, throttle, -1, -1
+780, throttle, -1, -1
+781, throttle, -1, -1
+782, throttle, -1, -1
+783, throttle, -1, -1
+784, throttle, -1, -1
+785, throttle, -1, -1
+786, throttle, -1, -1
+787, throttle, -1, -1
+788, throttle, -1, -1
+789, throttle, -1, -1
+790, throttle, -1, -1
+791, throttle, -1, -1
+792, throttle, -1, -1
+793, throttle, -1, -1
+794, throttle, -1, -1
+795, throttle, -1, -1
+796, throttle, -1, -1
+797, throttle, -1, -1
+798, throttle, -1, -1
+799, throttle, -1, -1
+800, throttle, -1, -1
+801, throttle, -1, -1
+802, throttle, -1, -1
+803, throttle, -1, -1
+804, throttle, -1, -1
+805, throttle, -1, -1
+806, throttle, -1, -1
+807, throttle, -1, -1
+808, throttle, -1, -1
+809, throttle, -1, -1
+810, throttle, -1, -1
+811, throttle, -1, -1
+812, throttle, -1, -1
+813, throttle, -1, -1
+814, throttle, -1, -1
+815, throttle, -1, -1
+816, throttle, -1, -1
+817, throttle, -1, -1
+818, throttle, -1, -1
+819, throttle, -1, -1
+820, throttle, -1, -1
+821, throttle, -1, -1
+822, throttle, -1, -1
+823, throttle, -1, -1
+824, throttle, -1, -1
+825, throttle, -1, -1
+826, throttle, -1, -1
+827, throttle, -1, -1
+828, throttle, -1, -1
+829, throttle, -1, -1
+830, throttle, -1, -1
+831, throttle, -1, -1
+832, throttle, -1, -1
+833, throttle, -1, -1
+834, throttle, -1, -1
+835, throttle, -1, -1
+836, throttle, -1, -1
+837, throttle, -1, -1
+838, throttle, -1, -1
+839, throttle, -1, -1
+840, throttle, -1, -1
+841, throttle, -1, -1
+842, throttle, -1, -1
+843, throttle, -1, -1
+844, throttle, -1, -1
+845, throttle, -1, -1
+846, throttle, -1, -1
+847, throttle, -1, -1
+848, throttle, -1, -1
+849, throttle, -1, -1
+850, throttle, -1, -1
+851, throttle, -1, -1
+852, throttle, -1, -1
+853, throttle, -1, -1
+854, throttle, -1, -1
+855, throttle, -1, -1
+856, throttle, -1, -1
+857, throttle, -1, -1
+858, throttle, -1, -1
+859, throttle, -1, -1
+860, throttle, -1, -1
+861, throttle, -1, -1
+862, throttle, -1, -1
+863, throttle, -1, -1
+864, throttle, -1, -1
+865, throttle, -1, -1
+866, throttle, -1, -1
+867, throttle, -1, -1
+868, throttle, -1, -1
+869, throttle, -1, -1
+870, throttle, -1, -1
+871, throttle, -1, -1
+872, throttle, -1, -1
+873, throttle, -1, -1
+874, throttle, -1, -1
+875, throttle, -1, -1
+876, throttle, -1, -1
+877, throttle, -1, -1
+878, throttle, -1, -1
+879, throttle, -1, -1
+880, throttle, -1, -1
+881, throttle, -1, -1
+882, throttle, -1, -1
+883, throttle, -1, -1
+884, throttle, -1, -1
+885, throttle, -1, -1
+886, throttle, -1, -1
+887, throttle, -1, -1
+888, throttle, -1, -1
+889, throttle, -1, -1
+890, throttle, -1, -1
+891, throttle, -1, -1
+892, throttle, -1, -1
+893, throttle, -1, -1
+894, throttle, -1, -1
+895, throttle, -1, -1
+896, throttle, -1, -1
+897, throttle, -1, -1
+898, throttle, -1, -1
+899, throttle, -1, -1
+900, throttle, -1, -1
+901, throttle, -1, -1
+902, throttle, -1, -1
+903, throttle, -1, -1
+904, throttle, -1, -1
+905, throttle, -1, -1
+906, throttle, -1, -1
+907, throttle, -1, -1
+908, throttle, -1, -1
+909, throttle, -1, -1
+910, throttle, -1, -1
+911, throttle, -1, -1
+912, throttle, -1, -1
+913, throttle, -1, -1
+914, throttle, -1, -1
+915, throttle, -1, -1
+916, throttle, -1, -1
+917, throttle, -1, -1
+918, throttle, -1, -1
+919, throttle, -1, -1
+920, throttle, -1, -1
+921, throttle, -1, -1
+922, throttle, -1, -1
+923, throttle, -1, -1
+924, throttle, -1, -1
+925, throttle, -1, -1
+926, throttle, -1, -1
+927, throttle, -1, -1
+928, throttle, -1, -1
+929, throttle, -1, -1
+930, throttle, -1, -1
+931, throttle, -1, -1
+932, throttle, -1, -1
+933, throttle, -1, -1
+934, throttle, -1, -1
+935, throttle, -1, -1
+936, throttle, -1, -1
+937, throttle, -1, -1
+938, throttle, -1, -1
+939, throttle, -1, -1
+940, throttle, -1, -1
+941, throttle, -1, -1
+942, throttle, -1, -1
+943, throttle, -1, -1
+944, throttle, -1, -1
+945, throttle, -1, -1
+946, throttle, -1, -1
+947, throttle, -1, -1
+948, throttle, -1, -1
+949, throttle, -1, -1
+950, throttle, -1, -1
+951, throttle, -1, -1
+952, throttle, -1, -1
+953, throttle, -1, -1
+954, throttle, -1, -1
+955, throttle, -1, -1
+956, throttle, -1, -1
+957, throttle, -1, -1
+958, throttle, -1, -1
+959, throttle, -1, -1
+960, throttle, -1, -1
+961, throttle, -1, -1
+962, throttle, -1, -1
+1, rpm, 0, 16:18:26.182
+2, rpm, 0, 16:18:26.182
+3, rpm, 0, 16:18:26.182
+4, rpm, 0, 16:18:26.182
+5, rpm, 0, 16:18:26.182
+6, rpm, -1, -1
+7, rpm, -1, -1
+8, rpm, -1, -1
+9, rpm, 0, 16:18:26.182
+10, rpm, -1, -1
+11, rpm, -1, -1
+12, rpm, -1, -1
+13, rpm, 0, 16:18:26.182
+14, rpm, -1, -1
+15, rpm, -1, -1
+16, rpm, -1, -1
+17, rpm, -1, -1
+18, rpm, -1, -1
+19, rpm, -1, -1
+20, rpm, -1, -1
+21, rpm, -1, -1
+22, rpm, -1, -1
+23, rpm, -1, -1
+24, rpm, -1, -1
+25, rpm, -1, -1
+26, rpm, -1, -1
+27, rpm, -1, -1
+28, rpm, -1, -1
+29, rpm, -1, -1
+30, rpm, -1, -1
+31, rpm, -1, -1
+32, rpm, -1, -1
+33, rpm, -1, -1
+34, rpm, -1, -1
+35, rpm, -1, -1
+36, rpm, -1, -1
+37, rpm, -1, -1
+38, rpm, -1, -1
+39, rpm, -1, -1
+40, rpm, -1, -1
+41, rpm, -1, -1
+42, rpm, -1, -1
+43, rpm, -1, -1
+44, rpm, -1, -1
+45, rpm, -1, -1
+46, rpm, -1, -1
+47, rpm, -1, -1
+48, rpm, -1, -1
+49, rpm, -1, -1
+50, rpm, -1, -1
+51, rpm, -1, -1
+52, rpm, -1, -1
+53, rpm, -1, -1
+54, rpm, -1, -1
+55, rpm, -1, -1
+56, rpm, -1, -1
+57, rpm, -1, -1
+58, rpm, -1, -1
+59, rpm, -1, -1
+60, rpm, -1, -1
+61, rpm, -1, -1
+62, rpm, -1, -1
+63, rpm, -1, -1
+64, rpm, -1, -1
+65, rpm, -1, -1
+66, rpm, -1, -1
+67, rpm, -1, -1
+68, rpm, -1, -1
+69, rpm, -1, -1
+70, rpm, -1, -1
+71, rpm, -1, -1
+72, rpm, -1, -1
+73, rpm, -1, -1
+74, rpm, -1, -1
+75, rpm, -1, -1
+76, rpm, -1, -1
+77, rpm, -1, -1
+78, rpm, -1, -1
+79, rpm, -1, -1
+80, rpm, -1, -1
+81, rpm, -1, -1
+82, rpm, -1, -1
+83, rpm, -1, -1
+84, rpm, -1, -1
+85, rpm, -1, -1
+86, rpm, -1, -1
+87, rpm, -1, -1
+88, rpm, -1, -1
+89, rpm, -1, -1
+90, rpm, -1, -1
+91, rpm, -1, -1
+92, rpm, -1, -1
+93, rpm, -1, -1
+94, rpm, -1, -1
+95, rpm, -1, -1
+96, rpm, -1, -1
+97, rpm, -1, -1
+98, rpm, -1, -1
+99, rpm, -1, -1
+100, rpm, -1, -1
+101, rpm, -1, -1
+102, rpm, -1, -1
+103, rpm, -1, -1
+104, rpm, -1, -1
+105, rpm, -1, -1
+106, rpm, -1, -1
+107, rpm, -1, -1
+108, rpm, -1, -1
+109, rpm, -1, -1
+110, rpm, -1, -1
+111, rpm, -1, -1
+112, rpm, -1, -1
+113, rpm, -1, -1
+114, rpm, -1, -1
+115, rpm, -1, -1
+116, rpm, -1, -1
+117, rpm, -1, -1
+118, rpm, -1, -1
+119, rpm, -1, -1
+120, rpm, -1, -1
+121, rpm, -1, -1
+122, rpm, -1, -1
+123, rpm, -1, -1
+124, rpm, -1, -1
+125, rpm, -1, -1
+126, rpm, -1, -1
+127, rpm, -1, -1
+128, rpm, -1, -1
+129, rpm, -1, -1
+130, rpm, -1, -1
+131, rpm, -1, -1
+132, rpm, -1, -1
+133, rpm, -1, -1
+134, rpm, -1, -1
+135, rpm, -1, -1
+136, rpm, -1, -1
+137, rpm, -1, -1
+138, rpm, -1, -1
+139, rpm, -1, -1
+140, rpm, -1, -1
+141, rpm, -1, -1
+142, rpm, -1, -1
+143, rpm, -1, -1
+144, rpm, -1, -1
+145, rpm, -1, -1
+146, rpm, -1, -1
+147, rpm, -1, -1
+148, rpm, -1, -1
+149, rpm, -1, -1
+150, rpm, -1, -1
+151, rpm, -1, -1
+152, rpm, -1, -1
+153, rpm, -1, -1
+154, rpm, -1, -1
+155, rpm, -1, -1
+156, rpm, -1, -1
+157, rpm, -1, -1
+158, rpm, -1, -1
+159, rpm, -1, -1
+160, rpm, -1, -1
+161, rpm, -1, -1
+162, rpm, -1, -1
+163, rpm, -1, -1
+164, rpm, -1, -1
+165, rpm, -1, -1
+166, rpm, -1, -1
+167, rpm, -1, -1
+168, rpm, -1, -1
+169, rpm, -1, -1
+170, rpm, -1, -1
+171, rpm, -1, -1
+172, rpm, -1, -1
+173, rpm, -1, -1
+174, rpm, -1, -1
+175, rpm, -1, -1
+176, rpm, -1, -1
+177, rpm, -1, -1
+178, rpm, -1, -1
+179, rpm, -1, -1
+180, rpm, -1, -1
+181, rpm, -1, -1
+182, rpm, -1, -1
+183, rpm, -1, -1
+184, rpm, -1, -1
+185, rpm, -1, -1
+186, rpm, -1, -1
+187, rpm, -1, -1
+188, rpm, -1, -1
+189, rpm, -1, -1
+190, rpm, -1, -1
+191, rpm, -1, -1
+192, rpm, -1, -1
+193, rpm, -1, -1
+194, rpm, -1, -1
+195, rpm, -1, -1
+196, rpm, -1, -1
+197, rpm, -1, -1
+198, rpm, -1, -1
+199, rpm, -1, -1
+200, rpm, -1, -1
+201, rpm, -1, -1
+202, rpm, -1, -1
+203, rpm, -1, -1
+204, rpm, -1, -1
+205, rpm, -1, -1
+206, rpm, -1, -1
+207, rpm, -1, -1
+208, rpm, -1, -1
+209, rpm, -1, -1
+210, rpm, -1, -1
+211, rpm, -1, -1
+212, rpm, -1, -1
+213, rpm, -1, -1
+214, rpm, -1, -1
+215, rpm, -1, -1
+216, rpm, -1, -1
+217, rpm, -1, -1
+218, rpm, -1, -1
+219, rpm, -1, -1
+220, rpm, -1, -1
+221, rpm, -1, -1
+222, rpm, -1, -1
+223, rpm, -1, -1
+224, rpm, -1, -1
+225, rpm, -1, -1
+226, rpm, -1, -1
+227, rpm, -1, -1
+228, rpm, -1, -1
+229, rpm, -1, -1
+230, rpm, -1, -1
+231, rpm, -1, -1
+232, rpm, -1, -1
+233, rpm, -1, -1
+234, rpm, -1, -1
+235, rpm, -1, -1
+236, rpm, -1, -1
+237, rpm, -1, -1
+238, rpm, -1, -1
+239, rpm, -1, -1
+240, rpm, -1, -1
+241, rpm, -1, -1
+242, rpm, -1, -1
+243, rpm, -1, -1
+244, rpm, -1, -1
+245, rpm, -1, -1
+246, rpm, -1, -1
+247, rpm, -1, -1
+248, rpm, -1, -1
+249, rpm, -1, -1
+250, rpm, -1, -1
+251, rpm, -1, -1
+252, rpm, -1, -1
+253, rpm, -1, -1
+254, rpm, -1, -1
+255, rpm, -1, -1
+256, rpm, -1, -1
+257, rpm, -1, -1
+258, rpm, -1, -1
+259, rpm, -1, -1
+260, rpm, -1, -1
+261, rpm, -1, -1
+262, rpm, -1, -1
+263, rpm, -1, -1
+264, rpm, -1, -1
+265, rpm, -1, -1
+266, rpm, -1, -1
+267, rpm, -1, -1
+268, rpm, -1, -1
+269, rpm, -1, -1
+270, rpm, -1, -1
+271, rpm, -1, -1
+272, rpm, -1, -1
+273, rpm, -1, -1
+274, rpm, -1, -1
+275, rpm, -1, -1
+276, rpm, -1, -1
+277, rpm, -1, -1
+278, rpm, -1, -1
+279, rpm, -1, -1
+280, rpm, -1, -1
+281, rpm, -1, -1
+282, rpm, -1, -1
+283, rpm, -1, -1
+284, rpm, -1, -1
+285, rpm, -1, -1
+286, rpm, -1, -1
+287, rpm, -1, -1
+288, rpm, -1, -1
+289, rpm, -1, -1
+290, rpm, -1, -1
+291, rpm, -1, -1
+292, rpm, -1, -1
+293, rpm, -1, -1
+294, rpm, -1, -1
+295, rpm, -1, -1
+296, rpm, -1, -1
+297, rpm, -1, -1
+298, rpm, -1, -1
+299, rpm, -1, -1
+300, rpm, -1, -1
+301, rpm, -1, -1
+302, rpm, -1, -1
+303, rpm, -1, -1
+304, rpm, -1, -1
+305, rpm, -1, -1
+306, rpm, -1, -1
+307, rpm, -1, -1
+308, rpm, -1, -1
+309, rpm, -1, -1
+310, rpm, -1, -1
+311, rpm, -1, -1
+312, rpm, -1, -1
+313, rpm, -1, -1
+314, rpm, -1, -1
+315, rpm, -1, -1
+316, rpm, -1, -1
+317, rpm, -1, -1
+318, rpm, -1, -1
+319, rpm, -1, -1
+320, rpm, -1, -1
+321, rpm, -1, -1
+322, rpm, -1, -1
+323, rpm, -1, -1
+324, rpm, -1, -1
+325, rpm, -1, -1
+326, rpm, -1, -1
+327, rpm, -1, -1
+328, rpm, -1, -1
+329, rpm, -1, -1
+330, rpm, -1, -1
+331, rpm, -1, -1
+332, rpm, -1, -1
+333, rpm, -1, -1
+334, rpm, -1, -1
+335, rpm, -1, -1
+336, rpm, -1, -1
+337, rpm, -1, -1
+338, rpm, -1, -1
+339, rpm, -1, -1
+340, rpm, -1, -1
+341, rpm, -1, -1
+342, rpm, -1, -1
+343, rpm, -1, -1
+344, rpm, -1, -1
+345, rpm, -1, -1
+346, rpm, -1, -1
+347, rpm, -1, -1
+348, rpm, -1, -1
+349, rpm, -1, -1
+350, rpm, -1, -1
+351, rpm, -1, -1
+352, rpm, -1, -1
+353, rpm, -1, -1
+354, rpm, -1, -1
+355, rpm, -1, -1
+356, rpm, -1, -1
+357, rpm, -1, -1
+358, rpm, -1, -1
+359, rpm, -1, -1
+360, rpm, -1, -1
+361, rpm, -1, -1
+362, rpm, -1, -1
+363, rpm, -1, -1
+364, rpm, -1, -1
+365, rpm, -1, -1
+366, rpm, -1, -1
+367, rpm, -1, -1
+368, rpm, -1, -1
+369, rpm, -1, -1
+370, rpm, -1, -1
+371, rpm, -1, -1
+372, rpm, -1, -1
+373, rpm, -1, -1
+374, rpm, -1, -1
+375, rpm, -1, -1
+376, rpm, -1, -1
+377, rpm, -1, -1
+378, rpm, -1, -1
+379, rpm, -1, -1
+380, rpm, -1, -1
+381, rpm, -1, -1
+382, rpm, -1, -1
+383, rpm, -1, -1
+384, rpm, -1, -1
+385, rpm, -1, -1
+386, rpm, -1, -1
+387, rpm, -1, -1
+388, rpm, -1, -1
+389, rpm, -1, -1
+390, rpm, -1, -1
+391, rpm, -1, -1
+392, rpm, -1, -1
+393, rpm, -1, -1
+394, rpm, -1, -1
+395, rpm, -1, -1
+396, rpm, -1, -1
+397, rpm, -1, -1
+398, rpm, -1, -1
+399, rpm, -1, -1
+400, rpm, -1, -1
+401, rpm, -1, -1
+402, rpm, -1, -1
+403, rpm, -1, -1
+404, rpm, -1, -1
+405, rpm, -1, -1
+406, rpm, -1, -1
+407, rpm, -1, -1
+408, rpm, -1, -1
+409, rpm, -1, -1
+410, rpm, -1, -1
+411, rpm, -1, -1
+412, rpm, -1, -1
+413, rpm, -1, -1
+414, rpm, -1, -1
+415, rpm, -1, -1
+416, rpm, -1, -1
+417, rpm, -1, -1
+418, rpm, -1, -1
+419, rpm, -1, -1
+420, rpm, -1, -1
+421, rpm, -1, -1
+422, rpm, -1, -1
+423, rpm, -1, -1
+424, rpm, -1, -1
+425, rpm, -1, -1
+426, rpm, -1, -1
+427, rpm, -1, -1
+428, rpm, -1, -1
+429, rpm, -1, -1
+430, rpm, -1, -1
+431, rpm, -1, -1
+432, rpm, -1, -1
+433, rpm, -1, -1
+434, rpm, -1, -1
+435, rpm, -1, -1
+436, rpm, -1, -1
+437, rpm, -1, -1
+438, rpm, -1, -1
+439, rpm, -1, -1
+440, rpm, -1, -1
+441, rpm, -1, -1
+442, rpm, -1, -1
+443, rpm, -1, -1
+444, rpm, -1, -1
+445, rpm, -1, -1
+446, rpm, -1, -1
+447, rpm, -1, -1
+448, rpm, -1, -1
+449, rpm, -1, -1
+450, rpm, -1, -1
+451, rpm, -1, -1
+452, rpm, -1, -1
+453, rpm, -1, -1
+454, rpm, -1, -1
+455, rpm, -1, -1
+456, rpm, -1, -1
+457, rpm, -1, -1
+458, rpm, -1, -1
+459, rpm, -1, -1
+460, rpm, -1, -1
+461, rpm, -1, -1
+462, rpm, -1, -1
+463, rpm, -1, -1
+464, rpm, -1, -1
+465, rpm, -1, -1
+466, rpm, -1, -1
+467, rpm, -1, -1
+468, rpm, -1, -1
+469, rpm, -1, -1
+470, rpm, -1, -1
+471, rpm, -1, -1
+472, rpm, -1, -1
+473, rpm, -1, -1
+474, rpm, -1, -1
+475, rpm, -1, -1
+476, rpm, -1, -1
+477, rpm, -1, -1
+478, rpm, -1, -1
+479, rpm, -1, -1
+480, rpm, -1, -1
+481, rpm, -1, -1
+482, rpm, -1, -1
+483, rpm, -1, -1
+484, rpm, -1, -1
+485, rpm, -1, -1
+486, rpm, -1, -1
+487, rpm, -1, -1
+488, rpm, -1, -1
+489, rpm, -1, -1
+490, rpm, -1, -1
+491, rpm, -1, -1
+492, rpm, -1, -1
+493, rpm, -1, -1
+494, rpm, -1, -1
+495, rpm, -1, -1
+496, rpm, -1, -1
+497, rpm, -1, -1
+498, rpm, -1, -1
+499, rpm, -1, -1
+500, rpm, -1, -1
+501, rpm, -1, -1
+502, rpm, -1, -1
+503, rpm, -1, -1
+504, rpm, -1, -1
+505, rpm, -1, -1
+506, rpm, -1, -1
+507, rpm, -1, -1
+508, rpm, -1, -1
+509, rpm, -1, -1
+510, rpm, -1, -1
+511, rpm, -1, -1
+512, rpm, -1, -1
+513, rpm, -1, -1
+514, rpm, -1, -1
+515, rpm, -1, -1
+516, rpm, -1, -1
+517, rpm, -1, -1
+518, rpm, -1, -1
+519, rpm, -1, -1
+520, rpm, -1, -1
+521, rpm, -1, -1
+522, rpm, -1, -1
+523, rpm, -1, -1
+524, rpm, -1, -1
+525, rpm, -1, -1
+526, rpm, -1, -1
+527, rpm, -1, -1
+528, rpm, -1, -1
+529, rpm, -1, -1
+530, rpm, -1, -1
+531, rpm, -1, -1
+532, rpm, -1, -1
+533, rpm, -1, -1
+534, rpm, -1, -1
+535, rpm, -1, -1
+536, rpm, -1, -1
+537, rpm, -1, -1
+538, rpm, -1, -1
+539, rpm, -1, -1
+540, rpm, -1, -1
+541, rpm, -1, -1
+542, rpm, -1, -1
+543, rpm, -1, -1
+544, rpm, -1, -1
+545, rpm, -1, -1
+546, rpm, -1, -1
+547, rpm, -1, -1
+548, rpm, -1, -1
+549, rpm, -1, -1
+550, rpm, -1, -1
+551, rpm, -1, -1
+552, rpm, -1, -1
+553, rpm, -1, -1
+554, rpm, -1, -1
+555, rpm, -1, -1
+556, rpm, -1, -1
+557, rpm, -1, -1
+558, rpm, -1, -1
+559, rpm, -1, -1
+560, rpm, -1, -1
+561, rpm, -1, -1
+562, rpm, -1, -1
+563, rpm, -1, -1
+564, rpm, -1, -1
+565, rpm, -1, -1
+566, rpm, -1, -1
+567, rpm, -1, -1
+568, rpm, -1, -1
+569, rpm, -1, -1
+570, rpm, -1, -1
+571, rpm, -1, -1
+572, rpm, -1, -1
+573, rpm, -1, -1
+574, rpm, -1, -1
+575, rpm, -1, -1
+576, rpm, -1, -1
+577, rpm, -1, -1
+578, rpm, -1, -1
+579, rpm, -1, -1
+580, rpm, -1, -1
+581, rpm, -1, -1
+582, rpm, -1, -1
+583, rpm, -1, -1
+584, rpm, -1, -1
+585, rpm, -1, -1
+586, rpm, -1, -1
+587, rpm, -1, -1
+588, rpm, -1, -1
+589, rpm, -1, -1
+590, rpm, -1, -1
+591, rpm, -1, -1
+592, rpm, -1, -1
+593, rpm, -1, -1
+594, rpm, -1, -1
+595, rpm, -1, -1
+596, rpm, -1, -1
+597, rpm, -1, -1
+598, rpm, -1, -1
+599, rpm, -1, -1
+600, rpm, -1, -1
+601, rpm, -1, -1
+602, rpm, -1, -1
+603, rpm, -1, -1
+604, rpm, -1, -1
+605, rpm, -1, -1
+606, rpm, -1, -1
+607, rpm, -1, -1
+608, rpm, -1, -1
+609, rpm, -1, -1
+610, rpm, -1, -1
+611, rpm, -1, -1
+612, rpm, -1, -1
+613, rpm, -1, -1
+614, rpm, -1, -1
+615, rpm, -1, -1
+616, rpm, -1, -1
+617, rpm, -1, -1
+618, rpm, -1, -1
+619, rpm, -1, -1
+620, rpm, -1, -1
+621, rpm, -1, -1
+622, rpm, -1, -1
+623, rpm, -1, -1
+624, rpm, -1, -1
+625, rpm, -1, -1
+626, rpm, -1, -1
+627, rpm, -1, -1
+628, rpm, -1, -1
+629, rpm, -1, -1
+630, rpm, -1, -1
+631, rpm, -1, -1
+632, rpm, -1, -1
+633, rpm, -1, -1
+634, rpm, -1, -1
+635, rpm, -1, -1
+636, rpm, -1, -1
+637, rpm, -1, -1
+638, rpm, -1, -1
+639, rpm, -1, -1
+640, rpm, -1, -1
+641, rpm, -1, -1
+642, rpm, -1, -1
+643, rpm, -1, -1
+644, rpm, -1, -1
+645, rpm, -1, -1
+646, rpm, -1, -1
+647, rpm, -1, -1
+648, rpm, -1, -1
+649, rpm, -1, -1
+650, rpm, -1, -1
+651, rpm, -1, -1
+652, rpm, -1, -1
+653, rpm, -1, -1
+654, rpm, -1, -1
+655, rpm, -1, -1
+656, rpm, -1, -1
+657, rpm, -1, -1
+658, rpm, -1, -1
+659, rpm, -1, -1
+660, rpm, -1, -1
+661, rpm, -1, -1
+662, rpm, -1, -1
+663, rpm, -1, -1
+664, rpm, -1, -1
+665, rpm, -1, -1
+666, rpm, -1, -1
+667, rpm, -1, -1
+668, rpm, -1, -1
+669, rpm, -1, -1
+670, rpm, -1, -1
+671, rpm, -1, -1
+672, rpm, -1, -1
+673, rpm, -1, -1
+674, rpm, -1, -1
+675, rpm, -1, -1
+676, rpm, -1, -1
+677, rpm, -1, -1
+678, rpm, -1, -1
+679, rpm, -1, -1
+680, rpm, -1, -1
+681, rpm, -1, -1
+682, rpm, -1, -1
+683, rpm, -1, -1
+684, rpm, -1, -1
+685, rpm, -1, -1
+686, rpm, -1, -1
+687, rpm, -1, -1
+688, rpm, -1, -1
+689, rpm, -1, -1
+690, rpm, -1, -1
+691, rpm, -1, -1
+692, rpm, -1, -1
+693, rpm, -1, -1
+694, rpm, -1, -1
+695, rpm, -1, -1
+696, rpm, -1, -1
+697, rpm, -1, -1
+698, rpm, -1, -1
+699, rpm, -1, -1
+700, rpm, -1, -1
+701, rpm, -1, -1
+702, rpm, -1, -1
+703, rpm, -1, -1
+704, rpm, -1, -1
+705, rpm, -1, -1
+706, rpm, -1, -1
+707, rpm, -1, -1
+708, rpm, -1, -1
+709, rpm, -1, -1
+710, rpm, -1, -1
+711, rpm, -1, -1
+712, rpm, -1, -1
+713, rpm, -1, -1
+714, rpm, -1, -1
+715, rpm, -1, -1
+716, rpm, -1, -1
+717, rpm, -1, -1
+718, rpm, -1, -1
+719, rpm, -1, -1
+720, rpm, -1, -1
+721, rpm, -1, -1
+722, rpm, -1, -1
+723, rpm, -1, -1
+724, rpm, -1, -1
+725, rpm, -1, -1
+726, rpm, -1, -1
+727, rpm, -1, -1
+728, rpm, -1, -1
+729, rpm, -1, -1
+730, rpm, -1, -1
+731, rpm, -1, -1
+732, rpm, -1, -1
+733, rpm, -1, -1
+734, rpm, -1, -1
+735, rpm, -1, -1
+736, rpm, -1, -1
+737, rpm, -1, -1
+738, rpm, -1, -1
+739, rpm, -1, -1
+740, rpm, -1, -1
+741, rpm, -1, -1
+742, rpm, -1, -1
+743, rpm, -1, -1
+744, rpm, -1, -1
+745, rpm, -1, -1
+746, rpm, -1, -1
+747, rpm, -1, -1
+748, rpm, -1, -1
+749, rpm, -1, -1
+750, rpm, -1, -1
+751, rpm, -1, -1
+752, rpm, -1, -1
+753, rpm, -1, -1
+754, rpm, -1, -1
+755, rpm, -1, -1
+756, rpm, -1, -1
+757, rpm, -1, -1
+758, rpm, -1, -1
+759, rpm, -1, -1
+760, rpm, -1, -1
+761, rpm, -1, -1
+762, rpm, -1, -1
+763, rpm, -1, -1
+764, rpm, -1, -1
+765, rpm, -1, -1
+766, rpm, -1, -1
+767, rpm, -1, -1
+768, rpm, -1, -1
+769, rpm, -1, -1
+770, rpm, -1, -1
+771, rpm, -1, -1
+772, rpm, -1, -1
+773, rpm, -1, -1
+774, rpm, -1, -1
+775, rpm, -1, -1
+776, rpm, -1, -1
+777, rpm, -1, -1
+778, rpm, -1, -1
+779, rpm, -1, -1
+780, rpm, -1, -1
+781, rpm, -1, -1
+782, rpm, -1, -1
+783, rpm, -1, -1
+784, rpm, -1, -1
+785, rpm, -1, -1
+786, rpm, -1, -1
+787, rpm, -1, -1
+788, rpm, -1, -1
+789, rpm, -1, -1
+790, rpm, -1, -1
+791, rpm, -1, -1
+792, rpm, -1, -1
+793, rpm, -1, -1
+794, rpm, -1, -1
+795, rpm, -1, -1
+796, rpm, -1, -1
+797, rpm, -1, -1
+798, rpm, -1, -1
+799, rpm, -1, -1
+800, rpm, -1, -1
+801, rpm, -1, -1
+802, rpm, -1, -1
+803, rpm, -1, -1
+804, rpm, -1, -1
+805, rpm, -1, -1
+806, rpm, -1, -1
+807, rpm, -1, -1
+808, rpm, -1, -1
+809, rpm, -1, -1
+810, rpm, -1, -1
+811, rpm, -1, -1
+812, rpm, -1, -1
+813, rpm, -1, -1
+814, rpm, -1, -1
+815, rpm, -1, -1
+816, rpm, -1, -1
+817, rpm, -1, -1
+818, rpm, -1, -1
+819, rpm, -1, -1
+820, rpm, -1, -1
+821, rpm, -1, -1
+822, rpm, -1, -1
+823, rpm, -1, -1
+824, rpm, -1, -1
+825, rpm, -1, -1
+826, rpm, -1, -1
+827, rpm, -1, -1
+828, rpm, -1, -1
+829, rpm, -1, -1
+830, rpm, -1, -1
+831, rpm, -1, -1
+832, rpm, -1, -1
+833, rpm, -1, -1
+834, rpm, -1, -1
+835, rpm, -1, -1
+836, rpm, -1, -1
+837, rpm, -1, -1
+838, rpm, -1, -1
+839, rpm, -1, -1
+840, rpm, -1, -1
+841, rpm, -1, -1
+842, rpm, -1, -1
+843, rpm, -1, -1
+844, rpm, -1, -1
+845, rpm, -1, -1
+846, rpm, -1, -1
+847, rpm, -1, -1
+848, rpm, -1, -1
+849, rpm, -1, -1
+850, rpm, -1, -1
+851, rpm, -1, -1
+852, rpm, -1, -1
+853, rpm, -1, -1
+854, rpm, -1, -1
+855, rpm, -1, -1
+856, rpm, -1, -1
+857, rpm, -1, -1
+858, rpm, -1, -1
+859, rpm, -1, -1
+860, rpm, -1, -1
+861, rpm, -1, -1
+862, rpm, -1, -1
+863, rpm, -1, -1
+864, rpm, -1, -1
+865, rpm, -1, -1
+866, rpm, -1, -1
+867, rpm, -1, -1
+868, rpm, -1, -1
+869, rpm, -1, -1
+870, rpm, -1, -1
+871, rpm, -1, -1
+872, rpm, -1, -1
+873, rpm, -1, -1
+874, rpm, -1, -1
+875, rpm, -1, -1
+876, rpm, -1, -1
+877, rpm, -1, -1
+878, rpm, -1, -1
+879, rpm, -1, -1
+880, rpm, -1, -1
+881, rpm, -1, -1
+882, rpm, -1, -1
+883, rpm, -1, -1
+884, rpm, -1, -1
+885, rpm, -1, -1
+886, rpm, -1, -1
+887, rpm, -1, -1
+888, rpm, -1, -1
+889, rpm, -1, -1
+890, rpm, -1, -1
+891, rpm, -1, -1
+892, rpm, -1, -1
+893, rpm, -1, -1
+894, rpm, -1, -1
+895, rpm, -1, -1
+896, rpm, -1, -1
+897, rpm, -1, -1
+898, rpm, -1, -1
+899, rpm, -1, -1
+900, rpm, -1, -1
+901, rpm, -1, -1
+902, rpm, -1, -1
+903, rpm, -1, -1
+904, rpm, -1, -1
+905, rpm, -1, -1
+906, rpm, -1, -1
+907, rpm, -1, -1
+908, rpm, -1, -1
+909, rpm, -1, -1
+910, rpm, -1, -1
+911, rpm, -1, -1
+912, rpm, -1, -1
+913, rpm, -1, -1
+914, rpm, -1, -1
+915, rpm, -1, -1
+916, rpm, -1, -1
+917, rpm, -1, -1
+918, rpm, -1, -1
+919, rpm, -1, -1
+920, rpm, -1, -1
+921, rpm, -1, -1
+922, rpm, -1, -1
+923, rpm, -1, -1
+924, rpm, -1, -1
+925, rpm, -1, -1
+926, rpm, -1, -1
+927, rpm, -1, -1
+928, rpm, -1, -1
+929, rpm, -1, -1
+930, rpm, -1, -1
+931, rpm, -1, -1
+932, rpm, -1, -1
+933, rpm, -1, -1
+934, rpm, -1, -1
+935, rpm, -1, -1
+936, rpm, -1, -1
+937, rpm, -1, -1
+938, rpm, -1, -1
+939, rpm, -1, -1
+940, rpm, -1, -1
+941, rpm, -1, -1
+942, rpm, -1, -1
+943, rpm, -1, -1
+944, rpm, -1, -1
+945, rpm, -1, -1
+946, rpm, -1, -1
+947, rpm, -1, -1
+948, rpm, -1, -1
+949, rpm, -1, -1
+950, rpm, -1, -1
+951, rpm, -1, -1
+952, rpm, -1, -1
+953, rpm, -1, -1
+954, rpm, -1, -1
+955, rpm, -1, -1
+956, rpm, -1, -1
+957, rpm, -1, -1
+958, rpm, -1, -1
+959, rpm, -1, -1
+960, rpm, -1, -1
+961, rpm, -1, -1
+962, rpm, -1, -1
+963, rpm, -1, -1
+964, rpm, -1, -1
+1, current, 0.0, 16:18:26.182
+2, current, 0.0, 16:18:26.182
+3, current, 0.0, 16:18:26.182
+4, current, 0.0, 16:18:26.182
+5, current, 0.0, 16:18:26.182
+6, current, -1, -1
+7, current, 0.0, 16:18:26.182
+8, current, -1, -1
+9, current, -1, -1
+10, current, -1, -1
+11, current, -1, -1
+12, current, 0.0, 16:18:26.182
+13, current, -1, -1
+14, current, -1, -1
+15, current, -1, -1
+16, current, -1, -1
+17, current, -1, -1
+18, current, -1, -1
+19, current, -1, -1
+20, current, -1, -1
+21, current, -1, -1
+22, current, -1, -1
+23, current, -1, -1
+24, current, -1, -1
+25, current, -1, -1
+26, current, -1, -1
+27, current, -1, -1
+28, current, -1, -1
+29, current, -1, -1
+30, current, -1, -1
+31, current, -1, -1
+32, current, -1, -1
+33, current, -1, -1
+34, current, -1, -1
+35, current, -1, -1
+36, current, -1, -1
+37, current, -1, -1
+38, current, -1, -1
+39, current, -1, -1
+40, current, -1, -1
+41, current, -1, -1
+42, current, -1, -1
+43, current, -1, -1
+44, current, -1, -1
+45, current, -1, -1
+46, current, -1, -1
+47, current, -1, -1
+48, current, -1, -1
+49, current, -1, -1
+50, current, -1, -1
+51, current, -1, -1
+52, current, -1, -1
+53, current, -1, -1
+54, current, -1, -1
+55, current, -1, -1
+56, current, -1, -1
+57, current, -1, -1
+58, current, -1, -1
+59, current, -1, -1
+60, current, -1, -1
+61, current, -1, -1
+62, current, -1, -1
+63, current, -1, -1
+64, current, -1, -1
+65, current, -1, -1
+66, current, -1, -1
+67, current, -1, -1
+68, current, -1, -1
+69, current, -1, -1
+70, current, -1, -1
+71, current, -1, -1
+72, current, -1, -1
+73, current, -1, -1
+74, current, -1, -1
+75, current, -1, -1
+76, current, -1, -1
+77, current, -1, -1
+78, current, -1, -1
+79, current, -1, -1
+80, current, -1, -1
+81, current, -1, -1
+82, current, -1, -1
+83, current, -1, -1
+84, current, -1, -1
+85, current, -1, -1
+86, current, -1, -1
+87, current, -1, -1
+88, current, -1, -1
+89, current, -1, -1
+90, current, -1, -1
+91, current, -1, -1
+92, current, -1, -1
+93, current, -1, -1
+94, current, -1, -1
+95, current, -1, -1
+96, current, -1, -1
+97, current, -1, -1
+98, current, -1, -1
+99, current, -1, -1
+100, current, -1, -1
+101, current, -1, -1
+102, current, -1, -1
+103, current, -1, -1
+104, current, -1, -1
+105, current, -1, -1
+106, current, -1, -1
+107, current, -1, -1
+108, current, -1, -1
+109, current, -1, -1
+110, current, -1, -1
+111, current, -1, -1
+112, current, -1, -1
+113, current, -1, -1
+114, current, -1, -1
+115, current, -1, -1
+116, current, -1, -1
+117, current, -1, -1
+118, current, -1, -1
+119, current, -1, -1
+120, current, -1, -1
+121, current, -1, -1
+122, current, -1, -1
+123, current, -1, -1
+124, current, -1, -1
+125, current, -1, -1
+126, current, -1, -1
+127, current, -1, -1
+128, current, -1, -1
+129, current, -1, -1
+130, current, -1, -1
+131, current, -1, -1
+132, current, -1, -1
+133, current, -1, -1
+134, current, -1, -1
+135, current, -1, -1
+136, current, -1, -1
+137, current, -1, -1
+138, current, -1, -1
+139, current, -1, -1
+140, current, -1, -1
+141, current, -1, -1
+142, current, -1, -1
+143, current, -1, -1
+144, current, -1, -1
+145, current, -1, -1
+146, current, -1, -1
+147, current, -1, -1
+148, current, -1, -1
+149, current, -1, -1
+150, current, -1, -1
+151, current, -1, -1
+152, current, -1, -1
+153, current, -1, -1
+154, current, -1, -1
+155, current, -1, -1
+156, current, -1, -1
+157, current, -1, -1
+158, current, -1, -1
+159, current, -1, -1
+160, current, -1, -1
+161, current, -1, -1
+162, current, -1, -1
+163, current, -1, -1
+164, current, -1, -1
+165, current, -1, -1
+166, current, -1, -1
+167, current, -1, -1
+168, current, -1, -1
+169, current, -1, -1
+170, current, -1, -1
+171, current, -1, -1
+172, current, -1, -1
+173, current, -1, -1
+174, current, -1, -1
+175, current, -1, -1
+176, current, -1, -1
+177, current, -1, -1
+178, current, -1, -1
+179, current, -1, -1
+180, current, -1, -1
+181, current, -1, -1
+182, current, -1, -1
+183, current, -1, -1
+184, current, -1, -1
+185, current, -1, -1
+186, current, -1, -1
+187, current, -1, -1
+188, current, -1, -1
+189, current, -1, -1
+190, current, -1, -1
+191, current, -1, -1
+192, current, -1, -1
+193, current, -1, -1
+194, current, -1, -1
+195, current, -1, -1
+196, current, -1, -1
+197, current, -1, -1
+198, current, -1, -1
+199, current, -1, -1
+200, current, -1, -1
+201, current, -1, -1
+202, current, -1, -1
+203, current, -1, -1
+204, current, -1, -1
+205, current, -1, -1
+206, current, -1, -1
+207, current, -1, -1
+208, current, -1, -1
+209, current, -1, -1
+210, current, -1, -1
+211, current, -1, -1
+212, current, -1, -1
+213, current, -1, -1
+214, current, -1, -1
+215, current, -1, -1
+216, current, -1, -1
+217, current, -1, -1
+218, current, -1, -1
+219, current, -1, -1
+220, current, -1, -1
+221, current, -1, -1
+222, current, -1, -1
+223, current, -1, -1
+224, current, -1, -1
+225, current, -1, -1
+226, current, -1, -1
+227, current, -1, -1
+228, current, -1, -1
+229, current, -1, -1
+230, current, -1, -1
+231, current, -1, -1
+232, current, -1, -1
+233, current, -1, -1
+234, current, -1, -1
+235, current, -1, -1
+236, current, -1, -1
+237, current, -1, -1
+238, current, -1, -1
+239, current, -1, -1
+240, current, -1, -1
+241, current, -1, -1
+242, current, -1, -1
+243, current, -1, -1
+244, current, -1, -1
+245, current, -1, -1
+246, current, -1, -1
+247, current, -1, -1
+248, current, -1, -1
+249, current, -1, -1
+250, current, -1, -1
+251, current, -1, -1
+252, current, -1, -1
+253, current, -1, -1
+254, current, -1, -1
+255, current, -1, -1
+256, current, -1, -1
+257, current, -1, -1
+258, current, -1, -1
+259, current, -1, -1
+260, current, -1, -1
+261, current, -1, -1
+262, current, -1, -1
+263, current, -1, -1
+264, current, -1, -1
+265, current, -1, -1
+266, current, -1, -1
+267, current, -1, -1
+268, current, -1, -1
+269, current, -1, -1
+270, current, -1, -1
+271, current, -1, -1
+272, current, -1, -1
+273, current, -1, -1
+274, current, -1, -1
+275, current, -1, -1
+276, current, -1, -1
+277, current, -1, -1
+278, current, -1, -1
+279, current, -1, -1
+280, current, -1, -1
+281, current, -1, -1
+282, current, -1, -1
+283, current, -1, -1
+284, current, -1, -1
+285, current, -1, -1
+286, current, -1, -1
+287, current, -1, -1
+288, current, -1, -1
+289, current, -1, -1
+290, current, -1, -1
+291, current, -1, -1
+292, current, -1, -1
+293, current, -1, -1
+294, current, -1, -1
+295, current, -1, -1
+296, current, -1, -1
+297, current, -1, -1
+298, current, -1, -1
+299, current, -1, -1
+300, current, -1, -1
+301, current, -1, -1
+302, current, -1, -1
+303, current, -1, -1
+304, current, -1, -1
+305, current, -1, -1
+306, current, -1, -1
+307, current, -1, -1
+308, current, -1, -1
+309, current, -1, -1
+310, current, -1, -1
+311, current, -1, -1
+312, current, -1, -1
+313, current, -1, -1
+314, current, -1, -1
+315, current, -1, -1
+316, current, -1, -1
+317, current, -1, -1
+318, current, -1, -1
+319, current, -1, -1
+320, current, -1, -1
+321, current, -1, -1
+322, current, -1, -1
+323, current, -1, -1
+324, current, -1, -1
+325, current, -1, -1
+326, current, -1, -1
+327, current, -1, -1
+328, current, -1, -1
+329, current, -1, -1
+330, current, -1, -1
+331, current, -1, -1
+332, current, -1, -1
+333, current, -1, -1
+334, current, -1, -1
+335, current, -1, -1
+336, current, -1, -1
+337, current, -1, -1
+338, current, -1, -1
+339, current, -1, -1
+340, current, -1, -1
+341, current, -1, -1
+342, current, -1, -1
+343, current, -1, -1
+344, current, -1, -1
+345, current, -1, -1
+346, current, -1, -1
+347, current, -1, -1
+348, current, -1, -1
+349, current, -1, -1
+350, current, -1, -1
+351, current, -1, -1
+352, current, -1, -1
+353, current, -1, -1
+354, current, -1, -1
+355, current, -1, -1
+356, current, -1, -1
+357, current, -1, -1
+358, current, -1, -1
+359, current, -1, -1
+360, current, -1, -1
+361, current, -1, -1
+362, current, -1, -1
+363, current, -1, -1
+364, current, -1, -1
+365, current, -1, -1
+366, current, -1, -1
+367, current, -1, -1
+368, current, -1, -1
+369, current, -1, -1
+370, current, -1, -1
+371, current, -1, -1
+372, current, -1, -1
+373, current, -1, -1
+374, current, -1, -1
+375, current, -1, -1
+376, current, -1, -1
+377, current, -1, -1
+378, current, -1, -1
+379, current, -1, -1
+380, current, -1, -1
+381, current, -1, -1
+382, current, -1, -1
+383, current, -1, -1
+384, current, -1, -1
+385, current, -1, -1
+386, current, -1, -1
+387, current, -1, -1
+388, current, -1, -1
+389, current, -1, -1
+390, current, -1, -1
+391, current, -1, -1
+392, current, -1, -1
+393, current, -1, -1
+394, current, -1, -1
+395, current, -1, -1
+396, current, -1, -1
+397, current, -1, -1
+398, current, -1, -1
+399, current, -1, -1
+400, current, -1, -1
+401, current, -1, -1
+402, current, -1, -1
+403, current, -1, -1
+404, current, -1, -1
+405, current, -1, -1
+406, current, -1, -1
+407, current, -1, -1
+408, current, -1, -1
+409, current, -1, -1
+410, current, -1, -1
+411, current, -1, -1
+412, current, -1, -1
+413, current, -1, -1
+414, current, -1, -1
+415, current, -1, -1
+416, current, -1, -1
+417, current, -1, -1
+418, current, -1, -1
+419, current, -1, -1
+420, current, -1, -1
+421, current, -1, -1
+422, current, -1, -1
+423, current, -1, -1
+424, current, -1, -1
+425, current, -1, -1
+426, current, -1, -1
+427, current, -1, -1
+428, current, -1, -1
+429, current, -1, -1
+430, current, -1, -1
+431, current, -1, -1
+432, current, -1, -1
+433, current, -1, -1
+434, current, -1, -1
+435, current, -1, -1
+436, current, -1, -1
+437, current, -1, -1
+438, current, -1, -1
+439, current, -1, -1
+440, current, -1, -1
+441, current, -1, -1
+442, current, -1, -1
+443, current, -1, -1
+444, current, -1, -1
+445, current, -1, -1
+446, current, -1, -1
+447, current, -1, -1
+448, current, -1, -1
+449, current, -1, -1
+450, current, -1, -1
+451, current, -1, -1
+452, current, -1, -1
+453, current, -1, -1
+454, current, -1, -1
+455, current, -1, -1
+456, current, -1, -1
+457, current, -1, -1
+458, current, -1, -1
+459, current, -1, -1
+460, current, -1, -1
+461, current, -1, -1
+462, current, -1, -1
+463, current, -1, -1
+464, current, -1, -1
+465, current, -1, -1
+466, current, -1, -1
+467, current, -1, -1
+468, current, -1, -1
+469, current, -1, -1
+470, current, -1, -1
+471, current, -1, -1
+472, current, -1, -1
+473, current, -1, -1
+474, current, -1, -1
+475, current, -1, -1
+476, current, -1, -1
+477, current, -1, -1
+478, current, -1, -1
+479, current, -1, -1
+480, current, -1, -1
+481, current, -1, -1
+482, current, -1, -1
+483, current, -1, -1
+484, current, -1, -1
+485, current, -1, -1
+486, current, -1, -1
+487, current, -1, -1
+488, current, -1, -1
+489, current, -1, -1
+490, current, -1, -1
+491, current, -1, -1
+492, current, -1, -1
+493, current, -1, -1
+494, current, -1, -1
+495, current, -1, -1
+496, current, -1, -1
+497, current, -1, -1
+498, current, -1, -1
+499, current, -1, -1
+500, current, -1, -1
+501, current, -1, -1
+502, current, -1, -1
+503, current, -1, -1
+504, current, -1, -1
+505, current, -1, -1
+506, current, -1, -1
+507, current, -1, -1
+508, current, -1, -1
+509, current, -1, -1
+510, current, -1, -1
+511, current, -1, -1
+512, current, -1, -1
+513, current, -1, -1
+514, current, -1, -1
+515, current, -1, -1
+516, current, -1, -1
+517, current, -1, -1
+518, current, -1, -1
+519, current, -1, -1
+520, current, -1, -1
+521, current, -1, -1
+522, current, -1, -1
+523, current, -1, -1
+524, current, -1, -1
+525, current, -1, -1
+526, current, -1, -1
+527, current, -1, -1
+528, current, -1, -1
+529, current, -1, -1
+530, current, -1, -1
+531, current, -1, -1
+532, current, -1, -1
+533, current, -1, -1
+534, current, -1, -1
+535, current, -1, -1
+536, current, -1, -1
+537, current, -1, -1
+538, current, -1, -1
+539, current, -1, -1
+540, current, -1, -1
+541, current, -1, -1
+542, current, -1, -1
+543, current, -1, -1
+544, current, -1, -1
+545, current, -1, -1
+546, current, -1, -1
+547, current, -1, -1
+548, current, -1, -1
+549, current, -1, -1
+550, current, -1, -1
+551, current, -1, -1
+552, current, -1, -1
+553, current, -1, -1
+554, current, -1, -1
+555, current, -1, -1
+556, current, -1, -1
+557, current, -1, -1
+558, current, -1, -1
+559, current, -1, -1
+560, current, -1, -1
+561, current, -1, -1
+562, current, -1, -1
+563, current, -1, -1
+564, current, -1, -1
+565, current, -1, -1
+566, current, -1, -1
+567, current, -1, -1
+568, current, -1, -1
+569, current, -1, -1
+570, current, -1, -1
+571, current, -1, -1
+572, current, -1, -1
+573, current, -1, -1
+574, current, -1, -1
+575, current, -1, -1
+576, current, -1, -1
+577, current, -1, -1
+578, current, -1, -1
+579, current, -1, -1
+580, current, -1, -1
+581, current, -1, -1
+582, current, -1, -1
+583, current, -1, -1
+584, current, -1, -1
+585, current, -1, -1
+586, current, -1, -1
+587, current, -1, -1
+588, current, -1, -1
+589, current, -1, -1
+590, current, -1, -1
+591, current, -1, -1
+592, current, -1, -1
+593, current, -1, -1
+594, current, -1, -1
+595, current, -1, -1
+596, current, -1, -1
+597, current, -1, -1
+598, current, -1, -1
+599, current, -1, -1
+600, current, -1, -1
+601, current, -1, -1
+602, current, -1, -1
+603, current, -1, -1
+604, current, -1, -1
+605, current, -1, -1
+606, current, -1, -1
+607, current, -1, -1
+608, current, -1, -1
+609, current, -1, -1
+610, current, -1, -1
+611, current, -1, -1
+612, current, -1, -1
+613, current, -1, -1
+614, current, -1, -1
+615, current, -1, -1
+616, current, -1, -1
+617, current, -1, -1
+618, current, -1, -1
+619, current, -1, -1
+620, current, -1, -1
+621, current, -1, -1
+622, current, -1, -1
+623, current, -1, -1
+624, current, -1, -1
+625, current, -1, -1
+626, current, -1, -1
+627, current, -1, -1
+628, current, -1, -1
+629, current, -1, -1
+630, current, -1, -1
+631, current, -1, -1
+632, current, -1, -1
+633, current, -1, -1
+634, current, -1, -1
+635, current, -1, -1
+636, current, -1, -1
+637, current, -1, -1
+638, current, -1, -1
+639, current, -1, -1
+640, current, -1, -1
+641, current, -1, -1
+642, current, -1, -1
+643, current, -1, -1
+644, current, -1, -1
+645, current, -1, -1
+646, current, -1, -1
+647, current, -1, -1
+648, current, -1, -1
+649, current, -1, -1
+650, current, -1, -1
+651, current, -1, -1
+652, current, -1, -1
+653, current, -1, -1
+654, current, -1, -1
+655, current, -1, -1
+656, current, -1, -1
+657, current, -1, -1
+658, current, -1, -1
+659, current, -1, -1
+660, current, -1, -1
+661, current, -1, -1
+662, current, -1, -1
+663, current, -1, -1
+664, current, -1, -1
+665, current, -1, -1
+666, current, -1, -1
+667, current, -1, -1
+668, current, -1, -1
+669, current, -1, -1
+670, current, -1, -1
+671, current, -1, -1
+672, current, -1, -1
+673, current, -1, -1
+674, current, -1, -1
+675, current, -1, -1
+676, current, -1, -1
+677, current, -1, -1
+678, current, -1, -1
+679, current, -1, -1
+680, current, -1, -1
+681, current, -1, -1
+682, current, -1, -1
+683, current, -1, -1
+684, current, -1, -1
+685, current, -1, -1
+686, current, -1, -1
+687, current, -1, -1
+688, current, -1, -1
+689, current, -1, -1
+690, current, -1, -1
+691, current, -1, -1
+692, current, -1, -1
+693, current, -1, -1
+694, current, -1, -1
+695, current, -1, -1
+696, current, -1, -1
+697, current, -1, -1
+698, current, -1, -1
+699, current, -1, -1
+700, current, -1, -1
+701, current, -1, -1
+702, current, -1, -1
+703, current, -1, -1
+704, current, -1, -1
+705, current, -1, -1
+706, current, -1, -1
+707, current, -1, -1
+708, current, -1, -1
+709, current, -1, -1
+710, current, -1, -1
+711, current, -1, -1
+712, current, -1, -1
+713, current, -1, -1
+714, current, -1, -1
+715, current, -1, -1
+716, current, -1, -1
+717, current, -1, -1
+718, current, -1, -1
+719, current, -1, -1
+720, current, -1, -1
+721, current, -1, -1
+722, current, -1, -1
+723, current, -1, -1
+724, current, -1, -1
+725, current, -1, -1
+726, current, -1, -1
+727, current, -1, -1
+728, current, -1, -1
+729, current, -1, -1
+730, current, -1, -1
+731, current, -1, -1
+732, current, -1, -1
+733, current, -1, -1
+734, current, -1, -1
+735, current, -1, -1
+736, current, -1, -1
+737, current, -1, -1
+738, current, -1, -1
+739, current, -1, -1
+740, current, -1, -1
+741, current, -1, -1
+742, current, -1, -1
+743, current, -1, -1
+744, current, -1, -1
+745, current, -1, -1
+746, current, -1, -1
+747, current, -1, -1
+748, current, -1, -1
+749, current, -1, -1
+750, current, -1, -1
+751, current, -1, -1
+752, current, -1, -1
+753, current, -1, -1
+754, current, -1, -1
+755, current, -1, -1
+756, current, -1, -1
+757, current, -1, -1
+758, current, -1, -1
+759, current, -1, -1
+760, current, -1, -1
+761, current, -1, -1
+762, current, -1, -1
+763, current, -1, -1
+764, current, -1, -1
+765, current, -1, -1
+766, current, -1, -1
+767, current, -1, -1
+768, current, -1, -1
+769, current, -1, -1
+770, current, -1, -1
+771, current, -1, -1
+772, current, -1, -1
+773, current, -1, -1
+774, current, -1, -1
+775, current, -1, -1
+776, current, -1, -1
+777, current, -1, -1
+778, current, -1, -1
+779, current, -1, -1
+780, current, -1, -1
+781, current, -1, -1
+782, current, -1, -1
+783, current, -1, -1
+784, current, -1, -1
+785, current, -1, -1
+786, current, -1, -1
+787, current, -1, -1
+788, current, -1, -1
+789, current, -1, -1
+790, current, -1, -1
+791, current, -1, -1
+792, current, -1, -1
+793, current, -1, -1
+794, current, -1, -1
+795, current, -1, -1
+796, current, -1, -1
+797, current, -1, -1
+798, current, -1, -1
+799, current, -1, -1
+800, current, -1, -1
+801, current, -1, -1
+802, current, -1, -1
+803, current, -1, -1
+804, current, -1, -1
+805, current, -1, -1
+806, current, -1, -1
+807, current, -1, -1
+808, current, -1, -1
+809, current, -1, -1
+810, current, -1, -1
+811, current, -1, -1
+812, current, -1, -1
+813, current, -1, -1
+814, current, -1, -1
+815, current, -1, -1
+816, current, -1, -1
+817, current, -1, -1
+818, current, -1, -1
+819, current, -1, -1
+820, current, -1, -1
+821, current, -1, -1
+822, current, -1, -1
+823, current, -1, -1
+824, current, -1, -1
+825, current, -1, -1
+826, current, -1, -1
+827, current, -1, -1
+828, current, -1, -1
+829, current, -1, -1
+830, current, -1, -1
+831, current, -1, -1
+832, current, -1, -1
+833, current, -1, -1
+834, current, -1, -1
+835, current, -1, -1
+836, current, -1, -1
+837, current, -1, -1
+838, current, -1, -1
+839, current, -1, -1
+840, current, -1, -1
+841, current, -1, -1
+842, current, -1, -1
+843, current, -1, -1
+844, current, -1, -1
+845, current, -1, -1
+846, current, -1, -1
+847, current, -1, -1
+848, current, -1, -1
+849, current, -1, -1
+850, current, -1, -1
+851, current, -1, -1
+852, current, -1, -1
+853, current, -1, -1
+854, current, -1, -1
+855, current, -1, -1
+856, current, -1, -1
+857, current, -1, -1
+858, current, -1, -1
+859, current, -1, -1
+860, current, -1, -1
+861, current, -1, -1
+862, current, -1, -1
+863, current, -1, -1
+864, current, -1, -1
+865, current, -1, -1
+866, current, -1, -1
+867, current, -1, -1
+868, current, -1, -1
+869, current, -1, -1
+870, current, -1, -1
+871, current, -1, -1
+872, current, -1, -1
+873, current, -1, -1
+874, current, -1, -1
+875, current, -1, -1
+876, current, -1, -1
+877, current, -1, -1
+878, current, -1, -1
+879, current, -1, -1
+880, current, -1, -1
+881, current, -1, -1
+882, current, -1, -1
+883, current, -1, -1
+884, current, -1, -1
+885, current, -1, -1
+886, current, -1, -1
+887, current, -1, -1
+888, current, -1, -1
+889, current, -1, -1
+890, current, -1, -1
+891, current, -1, -1
+892, current, -1, -1
+893, current, -1, -1
+894, current, -1, -1
+895, current, -1, -1
+896, current, -1, -1
+897, current, -1, -1
+898, current, -1, -1
+899, current, -1, -1
+900, current, -1, -1
+901, current, -1, -1
+902, current, -1, -1
+903, current, -1, -1
+904, current, -1, -1
+905, current, -1, -1
+906, current, -1, -1
+907, current, -1, -1
+908, current, -1, -1
+909, current, -1, -1
+910, current, -1, -1
+911, current, -1, -1
+912, current, -1, -1
+913, current, -1, -1
+914, current, -1, -1
+915, current, -1, -1
+916, current, -1, -1
+917, current, -1, -1
+918, current, -1, -1
+919, current, -1, -1
+920, current, -1, -1
+921, current, -1, -1
+922, current, -1, -1
+923, current, -1, -1
+924, current, -1, -1
+925, current, -1, -1
+926, current, -1, -1
+927, current, -1, -1
+928, current, -1, -1
+929, current, -1, -1
+930, current, -1, -1
+931, current, -1, -1
+932, current, -1, -1
+933, current, -1, -1
+934, current, -1, -1
+935, current, -1, -1
+936, current, -1, -1
+937, current, -1, -1
+938, current, -1, -1
+939, current, -1, -1
+940, current, -1, -1
+941, current, -1, -1
+942, current, -1, -1
+943, current, -1, -1
+944, current, -1, -1
+945, current, -1, -1
+946, current, -1, -1
+947, current, -1, -1
+948, current, -1, -1
+949, current, -1, -1
+950, current, -1, -1
+951, current, -1, -1
+952, current, -1, -1
+953, current, -1, -1
+954, current, -1, -1
+955, current, -1, -1
+956, current, -1, -1
+957, current, -1, -1
+958, current, -1, -1
+959, current, -1, -1
+960, current, -1, -1
+1, votlage, -0.0, 16:18:26.182
+2, votlage, -0.0, 16:18:26.182
+3, votlage, -0.0, 16:18:26.182
+4, votlage, -0.0, 16:18:26.182
+5, votlage, -0.0, 16:18:26.182
+6, votlage, -0.0, 16:18:26.182
+7, votlage, -1, -1
+8, votlage, -1, -1
+9, votlage, -1, -1
+10, votlage, -1, -1
+11, votlage, -1, -1
+12, votlage, -1, -1
+13, votlage, -1, -1
+14, votlage, -1, -1
+15, votlage, -1, -1
+16, votlage, -1, -1
+17, votlage, -1, -1
+18, votlage, -1, -1
+19, votlage, -1, -1
+20, votlage, -1, -1
+21, votlage, -1, -1
+22, votlage, -1, -1
+23, votlage, -1, -1
+24, votlage, -1, -1
+25, votlage, -1, -1
+26, votlage, -1, -1
+27, votlage, -1, -1
+28, votlage, -1, -1
+29, votlage, -1, -1
+30, votlage, -1, -1
+31, votlage, -1, -1
+32, votlage, -1, -1
+33, votlage, -1, -1
+34, votlage, -1, -1
+35, votlage, -1, -1
+36, votlage, -1, -1
+37, votlage, -1, -1
+38, votlage, -1, -1
+39, votlage, -1, -1
+40, votlage, -1, -1
+41, votlage, -1, -1
+42, votlage, -1, -1
+43, votlage, -1, -1
+44, votlage, -1, -1
+45, votlage, -1, -1
+46, votlage, -1, -1
+47, votlage, -1, -1
+48, votlage, -1, -1
+49, votlage, -1, -1
+50, votlage, -1, -1
+51, votlage, -1, -1
+52, votlage, -1, -1
+53, votlage, -1, -1
+54, votlage, -1, -1
+55, votlage, -1, -1
+56, votlage, -1, -1
+57, votlage, -1, -1
+58, votlage, -1, -1
+59, votlage, -1, -1
+60, votlage, -1, -1
+61, votlage, -1, -1
+62, votlage, -1, -1
+63, votlage, -1, -1
+64, votlage, -1, -1
+65, votlage, -1, -1
+66, votlage, -1, -1
+67, votlage, -1, -1
+68, votlage, -1, -1
+69, votlage, -1, -1
+70, votlage, -1, -1
+71, votlage, -1, -1
+72, votlage, -1, -1
+73, votlage, -1, -1
+74, votlage, -1, -1
+75, votlage, -1, -1
+76, votlage, -1, -1
+77, votlage, -1, -1
+78, votlage, -1, -1
+79, votlage, -1, -1
+80, votlage, -1, -1
+81, votlage, -1, -1
+82, votlage, -1, -1
+83, votlage, -1, -1
+84, votlage, -1, -1
+85, votlage, -1, -1
+86, votlage, -1, -1
+87, votlage, -1, -1
+88, votlage, -1, -1
+89, votlage, -1, -1
+90, votlage, -1, -1
+91, votlage, -1, -1
+92, votlage, -1, -1
+93, votlage, -1, -1
+94, votlage, -1, -1
+95, votlage, -1, -1
+96, votlage, -1, -1
+97, votlage, -1, -1
+98, votlage, -1, -1
+99, votlage, -1, -1
+100, votlage, -1, -1
+101, votlage, -1, -1
+102, votlage, -1, -1
+103, votlage, -1, -1
+104, votlage, -1, -1
+105, votlage, -1, -1
+106, votlage, -1, -1
+107, votlage, -1, -1
+108, votlage, -1, -1
+109, votlage, -1, -1
+110, votlage, -1, -1
+111, votlage, -1, -1
+112, votlage, -1, -1
+113, votlage, -1, -1
+114, votlage, -1, -1
+115, votlage, -1, -1
+116, votlage, -1, -1
+117, votlage, -1, -1
+118, votlage, -1, -1
+119, votlage, -1, -1
+120, votlage, -1, -1
+121, votlage, -1, -1
+122, votlage, -1, -1
+123, votlage, -1, -1
+124, votlage, -1, -1
+125, votlage, -1, -1
+126, votlage, -1, -1
+127, votlage, -1, -1
+128, votlage, -1, -1
+129, votlage, -1, -1
+130, votlage, -1, -1
+131, votlage, -1, -1
+132, votlage, -1, -1
+133, votlage, -1, -1
+134, votlage, -1, -1
+135, votlage, -1, -1
+136, votlage, -1, -1
+137, votlage, -1, -1
+138, votlage, -1, -1
+139, votlage, -1, -1
+140, votlage, -1, -1
+141, votlage, -1, -1
+142, votlage, -1, -1
+143, votlage, -1, -1
+144, votlage, -1, -1
+145, votlage, -1, -1
+146, votlage, -1, -1
+147, votlage, -1, -1
+148, votlage, -1, -1
+149, votlage, -1, -1
+150, votlage, -1, -1
+151, votlage, -1, -1
+152, votlage, -1, -1
+153, votlage, -1, -1
+154, votlage, -1, -1
+155, votlage, -1, -1
+156, votlage, -1, -1
+157, votlage, -1, -1
+158, votlage, -1, -1
+159, votlage, -1, -1
+160, votlage, -1, -1
+161, votlage, -1, -1
+162, votlage, -1, -1
+163, votlage, -1, -1
+164, votlage, -1, -1
+165, votlage, -1, -1
+166, votlage, -1, -1
+167, votlage, -1, -1
+168, votlage, -1, -1
+169, votlage, -1, -1
+170, votlage, -1, -1
+171, votlage, -1, -1
+172, votlage, -1, -1
+173, votlage, -1, -1
+174, votlage, -1, -1
+175, votlage, -1, -1
+176, votlage, -1, -1
+177, votlage, -1, -1
+178, votlage, -1, -1
+179, votlage, -1, -1
+180, votlage, -1, -1
+181, votlage, -1, -1
+182, votlage, -1, -1
+183, votlage, -1, -1
+184, votlage, -1, -1
+185, votlage, -1, -1
+186, votlage, -1, -1
+187, votlage, -1, -1
+188, votlage, -1, -1
+189, votlage, -1, -1
+190, votlage, -1, -1
+191, votlage, -1, -1
+192, votlage, -1, -1
+193, votlage, -1, -1
+194, votlage, -1, -1
+195, votlage, -1, -1
+196, votlage, -1, -1
+197, votlage, -1, -1
+198, votlage, -1, -1
+199, votlage, -1, -1
+200, votlage, -1, -1
+201, votlage, -1, -1
+202, votlage, -1, -1
+203, votlage, -1, -1
+204, votlage, -1, -1
+205, votlage, -1, -1
+206, votlage, -1, -1
+207, votlage, -1, -1
+208, votlage, -1, -1
+209, votlage, -1, -1
+210, votlage, -1, -1
+211, votlage, -1, -1
+212, votlage, -1, -1
+213, votlage, -1, -1
+214, votlage, -1, -1
+215, votlage, -1, -1
+216, votlage, -1, -1
+217, votlage, -1, -1
+218, votlage, -1, -1
+219, votlage, -1, -1
+220, votlage, -1, -1
+221, votlage, -1, -1
+222, votlage, -1, -1
+223, votlage, -1, -1
+224, votlage, -1, -1
+225, votlage, -1, -1
+226, votlage, -1, -1
+227, votlage, -1, -1
+228, votlage, -1, -1
+229, votlage, -1, -1
+230, votlage, -1, -1
+231, votlage, -1, -1
+232, votlage, -1, -1
+233, votlage, -1, -1
+234, votlage, -1, -1
+235, votlage, -1, -1
+236, votlage, -1, -1
+237, votlage, -1, -1
+238, votlage, -1, -1
+239, votlage, -1, -1
+240, votlage, -1, -1
+241, votlage, -1, -1
+242, votlage, -1, -1
+243, votlage, -1, -1
+244, votlage, -1, -1
+245, votlage, -1, -1
+246, votlage, -1, -1
+247, votlage, -1, -1
+248, votlage, -1, -1
+249, votlage, -1, -1
+250, votlage, -1, -1
+251, votlage, -1, -1
+252, votlage, -1, -1
+253, votlage, -1, -1
+254, votlage, -1, -1
+255, votlage, -1, -1
+256, votlage, -1, -1
+257, votlage, -1, -1
+258, votlage, -1, -1
+259, votlage, -1, -1
+260, votlage, -1, -1
+261, votlage, -1, -1
+262, votlage, -1, -1
+263, votlage, -1, -1
+264, votlage, -1, -1
+265, votlage, -1, -1
+266, votlage, -1, -1
+267, votlage, -1, -1
+268, votlage, -1, -1
+269, votlage, -1, -1
+270, votlage, -1, -1
+271, votlage, -1, -1
+272, votlage, -1, -1
+273, votlage, -1, -1
+274, votlage, -1, -1
+275, votlage, -1, -1
+276, votlage, -1, -1
+277, votlage, -1, -1
+278, votlage, -1, -1
+279, votlage, -1, -1
+280, votlage, -1, -1
+281, votlage, -1, -1
+282, votlage, -1, -1
+283, votlage, -1, -1
+284, votlage, -1, -1
+285, votlage, -1, -1
+286, votlage, -1, -1
+287, votlage, -1, -1
+288, votlage, -1, -1
+289, votlage, -1, -1
+290, votlage, -1, -1
+291, votlage, -1, -1
+292, votlage, -1, -1
+293, votlage, -1, -1
+294, votlage, -1, -1
+295, votlage, -1, -1
+296, votlage, -1, -1
+297, votlage, -1, -1
+298, votlage, -1, -1
+299, votlage, -1, -1
+300, votlage, -1, -1
+301, votlage, -1, -1
+302, votlage, -1, -1
+303, votlage, -1, -1
+304, votlage, -1, -1
+305, votlage, -1, -1
+306, votlage, -1, -1
+307, votlage, -1, -1
+308, votlage, -1, -1
+309, votlage, -1, -1
+310, votlage, -1, -1
+311, votlage, -1, -1
+312, votlage, -1, -1
+313, votlage, -1, -1
+314, votlage, -1, -1
+315, votlage, -1, -1
+316, votlage, -1, -1
+317, votlage, -1, -1
+318, votlage, -1, -1
+319, votlage, -1, -1
+320, votlage, -1, -1
+321, votlage, -1, -1
+322, votlage, -1, -1
+323, votlage, -1, -1
+324, votlage, -1, -1
+325, votlage, -1, -1
+326, votlage, -1, -1
+327, votlage, -1, -1
+328, votlage, -1, -1
+329, votlage, -1, -1
+330, votlage, -1, -1
+331, votlage, -1, -1
+332, votlage, -1, -1
+333, votlage, -1, -1
+334, votlage, -1, -1
+335, votlage, -1, -1
+336, votlage, -1, -1
+337, votlage, -1, -1
+338, votlage, -1, -1
+339, votlage, -1, -1
+340, votlage, -1, -1
+341, votlage, -1, -1
+342, votlage, -1, -1
+343, votlage, -1, -1
+344, votlage, -1, -1
+345, votlage, -1, -1
+346, votlage, -1, -1
+347, votlage, -1, -1
+348, votlage, -1, -1
+349, votlage, -1, -1
+350, votlage, -1, -1
+351, votlage, -1, -1
+352, votlage, -1, -1
+353, votlage, -1, -1
+354, votlage, -1, -1
+355, votlage, -1, -1
+356, votlage, -1, -1
+357, votlage, -1, -1
+358, votlage, -1, -1
+359, votlage, -1, -1
+360, votlage, -1, -1
+361, votlage, -1, -1
+362, votlage, -1, -1
+363, votlage, -1, -1
+364, votlage, -1, -1
+365, votlage, -1, -1
+366, votlage, -1, -1
+367, votlage, -1, -1
+368, votlage, -1, -1
+369, votlage, -1, -1
+370, votlage, -1, -1
+371, votlage, -1, -1
+372, votlage, -1, -1
+373, votlage, -1, -1
+374, votlage, -1, -1
+375, votlage, -1, -1
+376, votlage, -1, -1
+377, votlage, -1, -1
+378, votlage, -1, -1
+379, votlage, -1, -1
+380, votlage, -1, -1
+381, votlage, -1, -1
+382, votlage, -1, -1
+383, votlage, -1, -1
+384, votlage, -1, -1
+385, votlage, -1, -1
+386, votlage, -1, -1
+387, votlage, -1, -1
+388, votlage, -1, -1
+389, votlage, -1, -1
+390, votlage, -1, -1
+391, votlage, -1, -1
+392, votlage, -1, -1
+393, votlage, -1, -1
+394, votlage, -1, -1
+395, votlage, -1, -1
+396, votlage, -1, -1
+397, votlage, -1, -1
+398, votlage, -1, -1
+399, votlage, -1, -1
+400, votlage, -1, -1
+401, votlage, -1, -1
+402, votlage, -1, -1
+403, votlage, -1, -1
+404, votlage, -1, -1
+405, votlage, -1, -1
+406, votlage, -1, -1
+407, votlage, -1, -1
+408, votlage, -1, -1
+409, votlage, -1, -1
+410, votlage, -1, -1
+411, votlage, -1, -1
+412, votlage, -1, -1
+413, votlage, -1, -1
+414, votlage, -1, -1
+415, votlage, -1, -1
+416, votlage, -1, -1
+417, votlage, -1, -1
+418, votlage, -1, -1
+419, votlage, -1, -1
+420, votlage, -1, -1
+421, votlage, -1, -1
+422, votlage, -1, -1
+423, votlage, -1, -1
+424, votlage, -1, -1
+425, votlage, -1, -1
+426, votlage, -1, -1
+427, votlage, -1, -1
+428, votlage, -1, -1
+429, votlage, -1, -1
+430, votlage, -1, -1
+431, votlage, -1, -1
+432, votlage, -1, -1
+433, votlage, -1, -1
+434, votlage, -1, -1
+435, votlage, -1, -1
+436, votlage, -1, -1
+437, votlage, -1, -1
+438, votlage, -1, -1
+439, votlage, -1, -1
+440, votlage, -1, -1
+441, votlage, -1, -1
+442, votlage, -1, -1
+443, votlage, -1, -1
+444, votlage, -1, -1
+445, votlage, -1, -1
+446, votlage, -1, -1
+447, votlage, -1, -1
+448, votlage, -1, -1
+449, votlage, -1, -1
+450, votlage, -1, -1
+451, votlage, -1, -1
+452, votlage, -1, -1
+453, votlage, -1, -1
+454, votlage, -1, -1
+455, votlage, -1, -1
+456, votlage, -1, -1
+457, votlage, -1, -1
+458, votlage, -1, -1
+459, votlage, -1, -1
+460, votlage, -1, -1
+461, votlage, -1, -1
+462, votlage, -1, -1
+463, votlage, -1, -1
+464, votlage, -1, -1
+465, votlage, -1, -1
+466, votlage, -1, -1
+467, votlage, -1, -1
+468, votlage, -1, -1
+469, votlage, -1, -1
+470, votlage, -1, -1
+471, votlage, -1, -1
+472, votlage, -1, -1
+473, votlage, -1, -1
+474, votlage, -1, -1
+475, votlage, -1, -1
+476, votlage, -1, -1
+477, votlage, -1, -1
+478, votlage, -1, -1
+479, votlage, -1, -1
+480, votlage, -1, -1
+481, votlage, -1, -1
+482, votlage, -1, -1
+483, votlage, -1, -1
+484, votlage, -1, -1
+485, votlage, -1, -1
+486, votlage, -1, -1
+487, votlage, -1, -1
+488, votlage, -1, -1
+489, votlage, -1, -1
+490, votlage, -1, -1
+491, votlage, -1, -1
+492, votlage, -1, -1
+493, votlage, -1, -1
+494, votlage, -1, -1
+495, votlage, -1, -1
+496, votlage, -1, -1
+497, votlage, -1, -1
+498, votlage, -1, -1
+499, votlage, -1, -1
+500, votlage, -1, -1
+501, votlage, -1, -1
+502, votlage, -1, -1
+503, votlage, -1, -1
+504, votlage, -1, -1
+505, votlage, -1, -1
+506, votlage, -1, -1
+507, votlage, -1, -1
+508, votlage, -1, -1
+509, votlage, -1, -1
+510, votlage, -1, -1
+511, votlage, -1, -1
+512, votlage, -1, -1
+513, votlage, -1, -1
+514, votlage, -1, -1
+515, votlage, -1, -1
+516, votlage, -1, -1
+517, votlage, -1, -1
+518, votlage, -1, -1
+519, votlage, -1, -1
+520, votlage, -1, -1
+521, votlage, -1, -1
+522, votlage, -1, -1
+523, votlage, -1, -1
+524, votlage, -1, -1
+525, votlage, -1, -1
+526, votlage, -1, -1
+527, votlage, -1, -1
+528, votlage, -1, -1
+529, votlage, -1, -1
+530, votlage, -1, -1
+531, votlage, -1, -1
+532, votlage, -1, -1
+533, votlage, -1, -1
+534, votlage, -1, -1
+535, votlage, -1, -1
+536, votlage, -1, -1
+537, votlage, -1, -1
+538, votlage, -1, -1
+539, votlage, -1, -1
+540, votlage, -1, -1
+541, votlage, -1, -1
+542, votlage, -1, -1
+543, votlage, -1, -1
+544, votlage, -1, -1
+545, votlage, -1, -1
+546, votlage, -1, -1
+547, votlage, -1, -1
+548, votlage, -1, -1
+549, votlage, -1, -1
+550, votlage, -1, -1
+551, votlage, -1, -1
+552, votlage, -1, -1
+553, votlage, -1, -1
+554, votlage, -1, -1
+555, votlage, -1, -1
+556, votlage, -1, -1
+557, votlage, -1, -1
+558, votlage, -1, -1
+559, votlage, -1, -1
+560, votlage, -1, -1
+561, votlage, -1, -1
+562, votlage, -1, -1
+563, votlage, -1, -1
+564, votlage, -1, -1
+565, votlage, -1, -1
+566, votlage, -1, -1
+567, votlage, -1, -1
+568, votlage, -1, -1
+569, votlage, -1, -1
+570, votlage, -1, -1
+571, votlage, -1, -1
+572, votlage, -1, -1
+573, votlage, -1, -1
+574, votlage, -1, -1
+575, votlage, -1, -1
+576, votlage, -1, -1
+577, votlage, -1, -1
+578, votlage, -1, -1
+579, votlage, -1, -1
+580, votlage, -1, -1
+581, votlage, -1, -1
+582, votlage, -1, -1
+583, votlage, -1, -1
+584, votlage, -1, -1
+585, votlage, -1, -1
+586, votlage, -1, -1
+587, votlage, -1, -1
+588, votlage, -1, -1
+589, votlage, -1, -1
+590, votlage, -1, -1
+591, votlage, -1, -1
+592, votlage, -1, -1
+593, votlage, -1, -1
+594, votlage, -1, -1
+595, votlage, -1, -1
+596, votlage, -1, -1
+597, votlage, -1, -1
+598, votlage, -1, -1
+599, votlage, -1, -1
+600, votlage, -1, -1
+601, votlage, -1, -1
+602, votlage, -1, -1
+603, votlage, -1, -1
+604, votlage, -1, -1
+605, votlage, -1, -1
+606, votlage, -1, -1
+607, votlage, -1, -1
+608, votlage, -1, -1
+609, votlage, -1, -1
+610, votlage, -1, -1
+611, votlage, -1, -1
+612, votlage, -1, -1
+613, votlage, -1, -1
+614, votlage, -1, -1
+615, votlage, -1, -1
+616, votlage, -1, -1
+617, votlage, -1, -1
+618, votlage, -1, -1
+619, votlage, -1, -1
+620, votlage, -1, -1
+621, votlage, -1, -1
+622, votlage, -1, -1
+623, votlage, -1, -1
+624, votlage, -1, -1
+625, votlage, -1, -1
+626, votlage, -1, -1
+627, votlage, -1, -1
+628, votlage, -1, -1
+629, votlage, -1, -1
+630, votlage, -1, -1
+631, votlage, -1, -1
+632, votlage, -1, -1
+633, votlage, -1, -1
+634, votlage, -1, -1
+635, votlage, -1, -1
+636, votlage, -1, -1
+637, votlage, -1, -1
+638, votlage, -1, -1
+639, votlage, -1, -1
+640, votlage, -1, -1
+641, votlage, -1, -1
+642, votlage, -1, -1
+643, votlage, -1, -1
+644, votlage, -1, -1
+645, votlage, -1, -1
+646, votlage, -1, -1
+647, votlage, -1, -1
+648, votlage, -1, -1
+649, votlage, -1, -1
+650, votlage, -1, -1
+651, votlage, -1, -1
+652, votlage, -1, -1
+653, votlage, -1, -1
+654, votlage, -1, -1
+655, votlage, -1, -1
+656, votlage, -1, -1
+657, votlage, -1, -1
+658, votlage, -1, -1
+659, votlage, -1, -1
+660, votlage, -1, -1
+661, votlage, -1, -1
+662, votlage, -1, -1
+663, votlage, -1, -1
+664, votlage, -1, -1
+665, votlage, -1, -1
+666, votlage, -1, -1
+667, votlage, -1, -1
+668, votlage, -1, -1
+669, votlage, -1, -1
+670, votlage, -1, -1
+671, votlage, -1, -1
+672, votlage, -1, -1
+673, votlage, -1, -1
+674, votlage, -1, -1
+675, votlage, -1, -1
+676, votlage, -1, -1
+677, votlage, -1, -1
+678, votlage, -1, -1
+679, votlage, -1, -1
+680, votlage, -1, -1
+681, votlage, -1, -1
+682, votlage, -1, -1
+683, votlage, -1, -1
+684, votlage, -1, -1
+685, votlage, -1, -1
+686, votlage, -1, -1
+687, votlage, -1, -1
+688, votlage, -1, -1
+689, votlage, -1, -1
+690, votlage, -1, -1
+691, votlage, -1, -1
+692, votlage, -1, -1
+693, votlage, -1, -1
+694, votlage, -1, -1
+695, votlage, -1, -1
+696, votlage, -1, -1
+697, votlage, -1, -1
+698, votlage, -1, -1
+699, votlage, -1, -1
+700, votlage, -1, -1
+701, votlage, -1, -1
+702, votlage, -1, -1
+703, votlage, -1, -1
+704, votlage, -1, -1
+705, votlage, -1, -1
+706, votlage, -1, -1
+707, votlage, -1, -1
+708, votlage, -1, -1
+709, votlage, -1, -1
+710, votlage, -1, -1
+711, votlage, -1, -1
+712, votlage, -1, -1
+713, votlage, -1, -1
+714, votlage, -1, -1
+715, votlage, -1, -1
+716, votlage, -1, -1
+717, votlage, -1, -1
+718, votlage, -1, -1
+719, votlage, -1, -1
+720, votlage, -1, -1
+721, votlage, -1, -1
+722, votlage, -1, -1
+723, votlage, -1, -1
+724, votlage, -1, -1
+725, votlage, -1, -1
+726, votlage, -1, -1
+727, votlage, -1, -1
+728, votlage, -1, -1
+729, votlage, -1, -1
+730, votlage, -1, -1
+731, votlage, -1, -1
+732, votlage, -1, -1
+733, votlage, -1, -1
+734, votlage, -1, -1
+735, votlage, -1, -1
+736, votlage, -1, -1
+737, votlage, -1, -1
+738, votlage, -1, -1
+739, votlage, -1, -1
+740, votlage, -1, -1
+741, votlage, -1, -1
+742, votlage, -1, -1
+743, votlage, -1, -1
+744, votlage, -1, -1
+745, votlage, -1, -1
+746, votlage, -1, -1
+747, votlage, -1, -1
+748, votlage, -1, -1
+749, votlage, -1, -1
+750, votlage, -1, -1
+751, votlage, -1, -1
+752, votlage, -1, -1
+753, votlage, -1, -1
+754, votlage, -1, -1
+755, votlage, -1, -1
+756, votlage, -1, -1
+757, votlage, -1, -1
+758, votlage, -1, -1
+759, votlage, -1, -1
+760, votlage, -1, -1
+761, votlage, -1, -1
+762, votlage, -1, -1
+763, votlage, -1, -1
+764, votlage, -1, -1
+765, votlage, -1, -1
+766, votlage, -1, -1
+767, votlage, -1, -1
+768, votlage, -1, -1
+769, votlage, -1, -1
+770, votlage, -1, -1
+771, votlage, -1, -1
+772, votlage, -1, -1
+773, votlage, -1, -1
+774, votlage, -1, -1
+775, votlage, -1, -1
+776, votlage, -1, -1
+777, votlage, -1, -1
+778, votlage, -1, -1
+779, votlage, -1, -1
+780, votlage, -1, -1
+781, votlage, -1, -1
+782, votlage, -1, -1
+783, votlage, -1, -1
+784, votlage, -1, -1
+785, votlage, -1, -1
+786, votlage, -1, -1
+787, votlage, -1, -1
+788, votlage, -1, -1
+789, votlage, -1, -1
+790, votlage, -1, -1
+791, votlage, -1, -1
+792, votlage, -1, -1
+793, votlage, -1, -1
+794, votlage, -1, -1
+795, votlage, -1, -1
+796, votlage, -1, -1
+797, votlage, -1, -1
+798, votlage, -1, -1
+799, votlage, -1, -1
+800, votlage, -1, -1
+801, votlage, -1, -1
+802, votlage, -1, -1
+803, votlage, -1, -1
+804, votlage, -1, -1
+805, votlage, -1, -1
+806, votlage, -1, -1
+807, votlage, -1, -1
+808, votlage, -1, -1
+809, votlage, -1, -1
+810, votlage, -1, -1
+811, votlage, -1, -1
+812, votlage, -1, -1
+813, votlage, -1, -1
+814, votlage, -1, -1
+815, votlage, -1, -1
+816, votlage, -1, -1
+817, votlage, -1, -1
+818, votlage, -1, -1
+819, votlage, -1, -1
+820, votlage, -1, -1
+821, votlage, -1, -1
+822, votlage, -1, -1
+823, votlage, -1, -1
+824, votlage, -1, -1
+825, votlage, -1, -1
+826, votlage, -1, -1
+827, votlage, -1, -1
+828, votlage, -1, -1
+829, votlage, -1, -1
+830, votlage, -1, -1
+831, votlage, -1, -1
+832, votlage, -1, -1
+833, votlage, -1, -1
+834, votlage, -1, -1
+835, votlage, -1, -1
+836, votlage, -1, -1
+837, votlage, -1, -1
+838, votlage, -1, -1
+839, votlage, -1, -1
+840, votlage, -1, -1
+841, votlage, -1, -1
+842, votlage, -1, -1
+843, votlage, -1, -1
+844, votlage, -1, -1
+845, votlage, -1, -1
+846, votlage, -1, -1
+847, votlage, -1, -1
+848, votlage, -1, -1
+849, votlage, -1, -1
+850, votlage, -1, -1
+851, votlage, -1, -1
+852, votlage, -1, -1
+853, votlage, -1, -1
+854, votlage, -1, -1
+855, votlage, -1, -1
+856, votlage, -1, -1
+857, votlage, -1, -1
+858, votlage, -1, -1
+859, votlage, -1, -1
+860, votlage, -1, -1
+861, votlage, -1, -1
+862, votlage, -1, -1
+863, votlage, -1, -1
+864, votlage, -1, -1
+865, votlage, -1, -1
+866, votlage, -1, -1
+867, votlage, -1, -1
+868, votlage, -1, -1
+869, votlage, -1, -1
+870, votlage, -1, -1
+871, votlage, -1, -1
+872, votlage, -1, -1
+873, votlage, -1, -1
+874, votlage, -1, -1
+875, votlage, -1, -1
+876, votlage, -1, -1
+877, votlage, -1, -1
+878, votlage, -1, -1
+879, votlage, -1, -1
+880, votlage, -1, -1
+881, votlage, -1, -1
+882, votlage, -1, -1
+883, votlage, -1, -1
+884, votlage, -1, -1
+885, votlage, -1, -1
+886, votlage, -1, -1
+887, votlage, -1, -1
+888, votlage, -1, -1
+889, votlage, -1, -1
+890, votlage, -1, -1
+891, votlage, -1, -1
+892, votlage, -1, -1
+893, votlage, -1, -1
+894, votlage, -1, -1
+895, votlage, -1, -1
+896, votlage, -1, -1
+897, votlage, -1, -1
+898, votlage, -1, -1
+899, votlage, -1, -1
+900, votlage, -1, -1
+901, votlage, -1, -1
+902, votlage, -1, -1
+903, votlage, -1, -1
+904, votlage, -1, -1
+905, votlage, -1, -1
+906, votlage, -1, -1
+907, votlage, -1, -1
+908, votlage, -1, -1
+909, votlage, -1, -1
+910, votlage, -1, -1
+911, votlage, -1, -1
+912, votlage, -1, -1
+913, votlage, -1, -1
+914, votlage, -1, -1
+915, votlage, -1, -1
+916, votlage, -1, -1
+917, votlage, -1, -1
+918, votlage, -1, -1
+919, votlage, -1, -1
+920, votlage, -1, -1
+921, votlage, -1, -1
+922, votlage, -1, -1
+923, votlage, -1, -1
+924, votlage, -1, -1
+925, votlage, -1, -1
+926, votlage, -1, -1
+927, votlage, -1, -1
+928, votlage, -1, -1
+929, votlage, -1, -1
+930, votlage, -1, -1
+931, votlage, -1, -1
+932, votlage, -1, -1
+933, votlage, -1, -1
+934, votlage, -1, -1
+935, votlage, -1, -1
+936, votlage, -1, -1
+937, votlage, -1, -1
+938, votlage, -1, -1
+939, votlage, -1, -1
+940, votlage, -1, -1
+941, votlage, -1, -1
+942, votlage, -1, -1
+943, votlage, -1, -1
+944, votlage, -1, -1
+945, votlage, -1, -1
+946, votlage, -1, -1
+947, votlage, -1, -1
+948, votlage, -1, -1
+949, votlage, -1, -1
+950, votlage, -1, -1
+951, votlage, -1, -1
+952, votlage, -1, -1
+953, votlage, -1, -1
+954, votlage, -1, -1
+955, votlage, -1, -1
+956, votlage, -1, -1
+957, votlage, -1, -1
+958, votlage, -1, -1
+959, votlage, -1, -1
+960, votlage, -1, -1
+961, votlage, -1, -1
+962, votlage, -1, -1
+963, votlage, -1, -1
+1, , , 0.0, 16:18:26.182
+2, , , 0.0, 16:18:26.843
+3, , , 0.0, 16:18:26.536
+4, , , 0.0, 16:18:27.580
+5, , , 0.0, 16:18:27.164
+6, , , 0.0, 16:18:37.113
+7, , , 0.0, 16:18:36.757
+8, , , 0.0, 16:18:27.939
+9, , , 0.0, 16:19:03.240
+10, , , 0.0, 16:18:37.732
+11, , , 0.0, 16:19:03.557
+12, , , 0.0, 16:18:37.412
+13, , , 0.0, 16:19:03.896
+14, , , 0.0, 16:19:05.132
+15, , , 0.0, 16:19:04.523
+16, , , 0.0, 16:19:05.703
+17, , , 0.0, 16:19:09.957
+18, , , 0.0, 16:19:05.413
+19, , , 0.0, 16:19:04.188
+20, , , 0.0, 16:19:14.268
+21, , , 0.0, 16:19:04.806
+22, , , 0.0, 16:19:11.053
+23, , , 0.0, 16:19:06.000
+24, , , 0.0, 16:19:06.514
+25, , , 0.0, 16:19:06.801
+26, , , 0.0, 16:19:15.437
+27, , , 0.0, 16:19:07.479
+28, , , 0.0, 16:19:07.156
+29, , , 0.0, 16:19:07.764
+30, , , 0.0, 16:19:17.534
+31, , , 0.0, 16:19:18.090
+32, , , 0.0, 16:19:09.083
+33, , , 0.0, 16:19:09.464
+34, , , 0.0, 16:19:08.070
+35, , , 0.0, 16:19:08.372
+36, , , 0.0, 16:19:10.701
+37, , , 0.0, 16:19:22.888
+38, , , 0.0, 16:19:12.864
+39, , , 0.0, 16:19:13.158
+40, , , 0.0, 16:19:14.569
+41, , , 0.0, 16:19:16.059
+42, , , 0.0, 16:19:08.759
+43, , , 0.0, 16:19:11.860
+44, , , 0.0, 16:19:12.488
+45, , , 0.0, 16:19:11.361
+46, , , 0.0, 16:19:10.271
+47, , , 0.0, 16:19:29.069
+48, , , 0.0, 16:19:14.861
+49, , , 0.0, 16:19:12.172
+50, , , 0.0, 16:19:15.773
+51, , , 0.0, 16:19:30.049
+52, , , 0.0, 16:19:16.378
+53, , , 0.0, 16:19:16.681
+54, , , 0.0, 16:19:17.819
+55, , , 0.0, 16:19:18.680
+56, , , 0.0, 16:19:13.986
+57, , , 0.0, 16:19:18.971
+58, , , 0.0, 16:19:32.079
+59, , , 0.0, 16:19:21.055
+60, , , 0.0, 16:19:21.678
+61, , , 0.0, 16:19:22.311
+62, , , 0.0, 16:19:33.365
+63, , , 0.0, 16:19:19.975
+64, , , 0.0, 16:19:15.148
+65, , , 0.0, 16:19:38.341
+66, , , 0.0, 16:19:25.178
+67, , , 0.0, 16:19:25.754
+68, , , 0.0, 16:19:17.214
+69, , , 0.0, 16:19:21.360
+70, , , 0.0, 16:19:18.403
+71, , , 0.0, 16:19:21.960
+72, , , 0.0, 16:19:19.370
+73, , , 0.0, 16:19:26.384
+74, , , 0.0, 16:19:19.647
+75, , , 0.0, 16:19:22.604
+76, , , 0.0, 16:19:20.457
+77, , , 0.0, 16:19:20.757
+78, , , 0.0, 16:19:23.165
+79, , , 0.0, 16:19:26.086
+80, , , 0.0, 16:19:29.357
+81, , , 0.0, 16:19:30.520
+82, , , 0.0, 16:19:24.578
+83, , , 0.0, 16:19:41.908
+84, , , 0.0, 16:19:24.879
+85, , , 0.0, 16:19:23.691
+86, , , 0.0, 16:19:31.199
+87, , , 0.0, 16:19:31.782
+88, , , 0.0, 16:19:24.269
+89, , , 0.0, 16:19:26.675
+90, , , 0.0, 16:19:32.445
+91, , , 0.0, 16:19:27.226
+92, , , 0.0, 16:19:35.316
+93, , , 0.0, 16:19:25.475
+94, , , 0.0, 16:19:33.929
+95, , , 0.0, 16:19:35.639
+96, , , 0.0, 16:19:44.638
+97, , , 0.0, 16:19:37.146
+98, , , 0.0, 16:19:28.502
+99, , , 0.0, 16:19:35.939
+100, , , 0.0, 16:19:28.789
+101, , , 0.0, 16:19:47.162
+102, , , 0.0, 16:19:31.490
+103, , , 0.0, 16:19:27.538
+104, , , 0.0, 16:19:36.252
+105, , , 0.0, 16:19:27.916
+106, , , 0.0, 16:19:39.058
+107, , , 0.0, 16:19:39.382
+108, , , 0.0, 16:19:32.798
+109, , , 0.0, 16:19:33.085
+110, , , 0.0, 16:19:39.672
+111, , , 0.0, 16:19:37.461
+112, , , 0.0, 16:19:28.203
+113, , , 0.0, 16:19:34.979
+114, , , 0.0, 16:19:29.671
+115, , , 0.0, 16:19:30.921
+116, , , 0.0, 16:19:40.791
+117, , , 0.0, 16:19:40.248
+118, , , 0.0, 16:19:42.510
+119, , , 0.0, 16:19:49.896
+120, , , 0.0, 16:19:43.213
+121, , , 0.0, 16:19:43.545
+122, , , 0.0, 16:19:41.588
+123, , , 0.0, 16:19:36.552
+124, , , 0.0, 16:19:44.156
+125, , , 0.0, 16:19:45.912
+126, , , 0.0, 16:19:52.926
+127, , , 0.0, 16:19:36.854
+128, , , 0.0, 16:19:38.748
+129, , , 0.0, 16:19:53.810
+130, , , 0.0, 16:19:37.961
+131, , , 0.0, 16:19:48.590
+132, , , 0.0, 16:19:49.265
+133, , , 0.0, 16:19:50.568
+134, , , 0.0, 16:19:55.646
+135, , , 0.0, 16:19:39.976
+136, , , 0.0, 16:19:40.513
+137, , , 0.0, 16:19:57.322
+138, , , 0.0, 16:19:51.734
+139, , , 0.0, 16:19:57.625
+140, , , 0.0, 16:19:41.277
+141, , , 0.0, 16:19:52.580
+142, , , 0.0, 16:19:54.098
+143, , , 0.0, 16:19:42.211
+144, , , 0.0, 16:19:58.727
+145, , , 0.0, 16:19:59.690
+146, , , 0.0, 16:20:01.120
+147, , , 0.0, 16:19:46.835
+148, , , 0.0, 16:19:42.844
+149, , , 0.0, 16:19:53.529
+150, , , 0.0, 16:19:43.836
+151, , , 0.0, 16:19:56.301
+152, , , 0.0, 16:20:01.758
+153, , , 0.0, 16:19:54.956
+154, , , 0.0, 16:19:45.548
+155, , , 0.0, 16:20:02.578
+156, , , 0.0, 16:19:47.454
+157, , , 0.0, 16:20:06.877
+158, , , 0.0, 16:20:07.898
+159, , , 0.0, 16:19:48.950
+160, , , 0.0, 16:19:45.251
+161, , , 0.0, 16:19:59.069
+162, , , 0.0, 16:19:58.258
+163, , , 0.0, 16:19:49.601
+164, , , 0.0, 16:19:46.209
+165, , , 0.0, 16:20:10.617
+166, , , 0.0, 16:19:50.214
+167, , , 0.0, 16:19:46.525
+168, , , 0.0, 16:19:47.746
+169, , , 0.0, 16:20:11.534
+170, , , 0.0, 16:19:59.388
+171, , , 0.0, 16:19:48.272
+172, , , 0.0, 16:20:13.416
+173, , , 0.0, 16:20:01.452
+174, , , 0.0, 16:20:14.696
+175, , , 0.0, 16:20:15.707
+176, , , 0.0, 16:20:00.653
+177, , , 0.0, 16:19:50.864
+178, , , 0.0, 16:20:02.276
+179, , , 0.0, 16:19:51.187
+180, , , 0.0, 16:19:52.027
+181, , , 0.0, 16:19:52.304
+182, , , 0.0, 16:20:03.214
+183, , , 0.0, 16:20:05.967
+184, , , 0.0, 16:20:18.329
+185, , , 0.0, 16:20:03.867
+186, , , 0.0, 16:20:07.554
+187, , , 0.0, 16:20:19.786
+188, , , 0.0, 16:19:53.232
+189, , , 0.0, 16:20:20.459
+190, , , 0.0, 16:20:08.856
+191, , , 0.0, 16:20:00.346
+192, , , 0.0, 16:19:54.474
+193, , , 0.0, 16:19:55.927
+194, , , 0.0, 16:20:21.666
+195, , , 0.0, 16:19:56.969
+196, , , 0.0, 16:20:09.996
+197, , , 0.0, 16:20:02.882
+198, , , 0.0, 16:19:56.607
+199, , , 0.0, 16:20:03.583
+200, , , 0.0, 16:20:04.529
+201, , , 0.0, 16:20:23.520
+202, , , 0.0, 16:19:57.919
+203, , , 0.0, 16:20:11.889
+204, , , 0.0, 16:20:13.056
+205, , , 0.0, 16:20:13.709
+206, , , 0.0, 16:20:07.177
+207, , , 0.0, 16:20:24.712
+208, , , 0.0, 16:20:25.065
+209, , , 0.0, 16:20:12.232
+210, , , 0.0, 16:20:12.743
+211, , , 0.0, 16:20:26.579
+212, , , 0.0, 16:20:00.017
+213, , , 0.0, 16:20:27.337
+214, , , 0.0, 16:20:27.944
+215, , , 0.0, 16:20:16.743
+216, , , 0.0, 16:20:14.008
+217, , , 0.0, 16:20:17.988
+218, , , 0.0, 16:20:14.993
+219, , , 0.0, 16:20:15.297
+220, , , 0.0, 16:20:16.391
+221, , , 0.0, 16:20:20.738
+222, , , 0.0, 16:20:31.173
+223, , , 0.0, 16:20:18.917
+224, , , 0.0, 16:20:05.229
+225, , , 0.0, 16:20:04.185
+226, , , 0.0, 16:20:25.358
+227, , , 0.0, 16:20:04.818
+228, , , 0.0, 16:20:21.018
+229, , , 0.0, 16:20:25.650
+230, , , 0.0, 16:20:25.956
+231, , , 0.0, 16:20:31.796
+232, , , 0.0, 16:20:33.440
+233, , , 0.0, 16:20:23.822
+234, , , 0.0, 16:20:06.266
+235, , , 0.0, 16:20:24.415
+236, , , 0.0, 16:20:34.419
+237, , , 0.0, 16:20:28.548
+238, , , 0.0, 16:20:06.564
+239, , , 0.0, 16:20:35.957
+240, , , 0.0, 16:20:08.579
+241, , , 0.0, 16:20:30.609
+242, , , 0.0, 16:20:22.720
+243, , , 0.0, 16:20:09.399
+244, , , 0.0, 16:20:10.300
+245, , , 0.0, 16:20:11.253
+246, , , 0.0, 16:20:32.669
+247, , , 0.0, 16:20:33.143
+248, , , 0.0, 16:20:27.638
+249, , , 0.0, 16:20:29.933
+250, , , 0.0, 16:20:14.360
+251, , , 0.0, 16:20:08.294
+252, , , 0.0, 16:20:28.861
+253, , , 0.0, 16:20:40.722
+254, , , 0.0, 16:20:35.655
+255, , , 0.0, 16:20:17.075
+256, , , 0.0, 16:20:32.067
+257, , , 0.0, 16:20:30.895
+258, , , 0.0, 16:20:17.380
+259, , , 0.0, 16:20:32.350
+260, , , 0.0, 16:20:34.145
+261, , , 0.0, 16:20:09.712
+262, , , 0.0, 16:20:42.078
+263, , , 0.0, 16:20:10.900
+264, , , 0.0, 16:20:43.462
+265, , , 0.0, 16:20:35.014
+266, , , 0.0, 16:20:20.133
+267, , , 0.0, 16:20:33.870
+268, , , 0.0, 16:20:44.053
+269, , , 0.0, 16:20:35.366
+270, , , 0.0, 16:20:34.728
+271, , , 0.0, 16:20:44.952
+272, , , 0.0, 16:20:22.012
+273, , , 0.0, 16:20:17.663
+274, , , 0.0, 16:20:36.434
+275, , , 0.0, 16:20:43.767
+276, , , 0.0, 16:20:37.388
+277, , , 0.0, 16:20:18.619
+278, , , 0.0, 16:20:44.360
+279, , , 0.0, 16:20:24.120
+280, , , 0.0, 16:20:19.309
+281, , , 0.0, 16:20:37.965
+282, , , 0.0, 16:20:40.367
+283, , , 0.0, 16:20:38.247
+284, , , 0.0, 16:20:38.549
+285, , , 0.0, 16:20:21.314
+286, , , 0.0, 16:20:47.969
+287, , , 0.0, 16:20:49.328
+288, , , 0.0, 16:20:49.648
+289, , , 0.0, 16:20:41.403
+290, , , 0.0, 16:20:22.364
+291, , , 0.0, 16:20:41.753
+292, , , 0.0, 16:20:52.039
+293, , , 0.0, 16:20:23.206
+294, , , 0.0, 16:20:45.512
+295, , , 0.0, 16:20:51.749
+296, , , 0.0, 16:20:47.050
+297, , , 0.0, 16:20:47.645
+298, , , 0.0, 16:20:27.025
+299, , , 0.0, 16:20:45.810
+300, , , 0.0, 16:20:56.986
+301, , , 0.0, 16:20:28.235
+302, , , 0.0, 16:20:29.159
+303, , , 0.0, 16:20:57.292
+304, , , 0.0, 16:20:48.591
+305, , , 0.0, 16:20:57.592
+306, , , 0.0, 16:20:29.460
+307, , , 0.0, 16:20:55.287
+308, , , 0.0, 16:20:50.742
+309, , , 0.0, 16:20:59.343
+310, , , 0.0, 16:20:49.940
+311, , , 0.0, 16:20:30.302
+312, , , 0.0, 16:20:31.463
+313, , , 0.0, 16:20:50.439
+314, , , 0.0, 16:20:52.728
+315, , , 0.0, 16:20:51.122
+316, , , 0.0, 16:20:52.995
+317, , , 0.0, 16:21:00.874
+318, , , 0.0, 16:20:52.396
+319, , , 0.0, 16:20:54.983
+320, , , 0.0, 16:21:00.588
+321, , , 0.0, 16:21:01.189
+322, , , 0.0, 16:20:55.870
+323, , , 0.0, 16:21:04.939
+324, , , 0.0, 16:20:55.577
+325, , , 0.0, 16:21:03.193
+326, , , 0.0, 16:20:58.108
+327, , , 0.0, 16:21:06.522
+328, , , 0.0, 16:20:36.733
+329, , , 0.0, 16:20:37.682
+330, , , 0.0, 16:21:05.575
+331, , , 0.0, 16:21:01.476
+332, , , 0.0, 16:20:39.159
+333, , , 0.0, 16:21:01.824
+334, , , 0.0, 16:20:40.064
+335, , , 0.0, 16:20:38.874
+336, , , 0.0, 16:20:39.493
+337, , , 0.0, 16:21:07.326
+338, , , 0.0, 16:21:02.116
+339, , , 0.0, 16:21:11.410
+340, , , 0.0, 16:21:03.951
+341, , , 0.0, 16:20:41.079
+342, , , 0.0, 16:21:04.529
+343, , , 0.0, 16:20:42.373
+344, , , 0.0, 16:21:09.700
+345, , , 0.0, 16:20:42.662
+346, , , 0.0, 16:21:09.995
+347, , , 0.0, 16:20:42.962
+348, , , 0.0, 16:21:12.971
+349, , , 0.0, 16:21:10.327
+350, , , 0.0, 16:21:13.283
+351, , , 0.0, 16:20:48.969
+352, , , 0.0, 16:21:07.604
+353, , , 0.0, 16:20:44.654
+354, , , 0.0, 16:21:12.698
+355, , , 0.0, 16:20:45.225
+356, , , 0.0, 16:20:46.112
+357, , , 0.0, 16:20:51.416
+358, , , 0.0, 16:20:46.663
+359, , , 0.0, 16:21:08.649
+360, , , 0.0, 16:20:48.257
+361, , , 0.0, 16:21:15.095
+362, , , 0.0, 16:21:11.131
+363, , , 0.0, 16:21:09.000
+364, , , 0.0, 16:20:53.305
+365, , , 0.0, 16:21:18.446
+366, , , 0.0, 16:20:54.380
+367, , , 0.0, 16:21:11.730
+368, , , 0.0, 16:21:17.815
+369, , , 0.0, 16:21:15.704
+370, , , 0.0, 16:21:18.110
+371, , , 0.0, 16:21:12.036
+372, , , 0.0, 16:20:53.794
+373, , , 0.0, 16:21:16.004
+374, , , 0.0, 16:20:54.088
+375, , , 0.0, 16:21:12.379
+376, , , 0.0, 16:21:16.324
+377, , , 0.0, 16:21:20.412
+378, , , 0.0, 16:20:54.694
+379, , , 0.0, 16:21:20.745
+380, , , 0.0, 16:20:56.520
+381, , , 0.0, 16:20:58.436
+382, , , 0.0, 16:21:13.878
+383, , , 0.0, 16:20:59.715
+384, , , 0.0, 16:21:22.617
+385, , , 0.0, 16:21:21.684
+386, , , 0.0, 16:21:17.006
+387, , , 0.0, 16:20:56.223
+388, , , 0.0, 16:21:00.041
+389, , , 0.0, 16:21:19.764
+390, , , 0.0, 16:21:20.076
+391, , , 0.0, 16:20:58.730
+392, , , 0.0, 16:21:26.374
+393, , , 0.0, 16:21:27.617
+394, , , 0.0, 16:21:21.151
+395, , , 0.0, 16:21:28.521
+396, , , 0.0, 16:21:02.469
+397, , , 0.0, 16:20:59.037
+398, , , 0.0, 16:21:02.847
+399, , , 0.0, 16:21:26.958
+400, , , 0.0, 16:21:22.328
+401, , , 0.0, 16:21:03.472
+402, , , 0.0, 16:21:30.126
+403, , , 0.0, 16:21:04.235
+404, , , 0.0, 16:21:23.861
+405, , , 0.0, 16:21:22.031
+406, , , 0.0, 16:21:29.401
+407, , , 0.0, 16:21:05.215
+408, , , 0.0, 16:21:06.805
+409, , , 0.0, 16:21:23.206
+410, , , 0.0, 16:21:32.817
+411, , , 0.0, 16:21:31.677
+412, , , 0.0, 16:21:34.571
+413, , , 0.0, 16:21:05.919
+414, , , 0.0, 16:21:26.067
+415, , , 0.0, 16:21:06.233
+416, , , 0.0, 16:21:09.373
+417, , , 0.0, 16:21:33.746
+418, , , 0.0, 16:21:26.675
+419, , , 0.0, 16:21:10.595
+420, , , 0.0, 16:21:37.039
+421, , , 0.0, 16:21:07.949
+422, , , 0.0, 16:21:14.389
+423, , , 0.0, 16:21:14.693
+424, , , 0.0, 16:21:37.332
+425, , , 0.0, 16:21:42.483
+426, , , 0.0, 16:21:30.696
+427, , , 0.0, 16:21:38.298
+428, , , 0.0, 16:21:27.941
+429, , , 0.0, 16:21:16.630
+430, , , 0.0, 16:21:29.726
+431, , , 0.0, 16:21:31.048
+432, , , 0.0, 16:21:17.294
+433, , , 0.0, 16:21:31.338
+434, , , 0.0, 16:21:30.408
+435, , , 0.0, 16:21:13.577
+436, , , 0.0, 16:21:19.161
+437, , , 0.0, 16:21:32.176
+438, , , 0.0, 16:21:40.619
+439, , , 0.0, 16:21:36.037
+440, , , 0.0, 16:21:19.450
+441, , , 0.0, 16:21:15.406
+442, , , 0.0, 16:21:45.000
+443, , , 0.0, 16:21:37.966
+444, , , 0.0, 16:21:32.515
+445, , , 0.0, 16:21:22.921
+446, , , 0.0, 16:21:23.559
+447, , , 0.0, 16:21:38.605
+448, , , 0.0, 16:21:39.083
+449, , , 0.0, 16:21:48.915
+450, , , 0.0, 16:21:35.198
+451, , , 0.0, 16:21:35.712
+452, , , 0.0, 16:21:25.139
+453, , , 0.0, 16:21:40.931
+454, , , 0.0, 16:21:47.519
+455, , , 0.0, 16:21:47.884
+456, , , 0.0, 16:21:49.261
+457, , , 0.0, 16:21:50.183
+458, , , 0.0, 16:21:44.161
+459, , , 0.0, 16:21:51.375
+460, , , 0.0, 16:21:40.287
+461, , , 0.0, 16:21:28.828
+462, , , 0.0, 16:21:51.751
+463, , , 0.0, 16:21:24.194
+464, , , 0.0, 16:21:45.386
+465, , , 0.0, 16:21:42.154
+466, , , 0.0, 16:21:24.531
+467, , , 0.0, 16:21:56.116
+468, , , 0.0, 16:21:25.441
+469, , , 0.0, 16:21:25.752
+470, , , 0.0, 16:21:27.241
+471, , , 0.0, 16:21:33.132
+472, , , 0.0, 16:21:33.439
+473, , , 0.0, 16:21:44.640
+474, , , 0.0, 16:21:50.525
+475, , , 0.0, 16:21:46.492
+476, , , 0.0, 16:22:01.167
+477, , , 0.0, 16:21:34.886
+478, , , 0.0, 16:22:01.869
+479, , , 0.0, 16:21:48.574
+480, , , 0.0, 16:21:52.497
+481, , , 0.0, 16:22:04.843
+482, , , 0.0, 16:21:34.045
+483, , , 0.0, 16:22:05.244
+484, , , 0.0, 16:21:37.677
+485, , , 0.0, 16:21:55.769
+486, , , 0.0, 16:22:05.578
+487, , , 0.0, 16:21:56.466
+488, , , 0.0, 16:22:06.732
+489, , , 0.0, 16:21:53.885
+490, , , 0.0, 16:21:54.790
+491, , , 0.0, 16:21:39.410
+492, , , 0.0, 16:21:55.099
+493, , , 0.0, 16:21:58.357
+494, , , 0.0, 16:21:55.404
+495, , , 0.0, 16:21:36.394
+496, , , 0.0, 16:21:36.723
+497, , , 0.0, 16:21:41.374
+498, , , 0.0, 16:21:57.145
+499, , , 0.0, 16:22:07.713
+500, , , 0.0, 16:21:43.124
+501, , , 0.0, 16:22:08.468
+502, , , 0.0, 16:21:57.829
+503, , , 0.0, 16:21:43.469
+504, , , 0.0, 16:21:58.654
+505, , , 0.0, 16:22:08.888
+506, , , 0.0, 16:21:59.015
+507, , , 0.0, 16:21:39.986
+508, , , 0.0, 16:21:43.832
+509, , , 0.0, 16:22:09.212
+510, , , 0.0, 16:22:03.127
+511, , , 0.0, 16:22:04.430
+512, , , 0.0, 16:21:46.142
+513, , , 0.0, 16:21:41.695
+514, , , 0.0, 16:22:09.595
+515, , , 0.0, 16:21:48.239
+516, , , 0.0, 16:22:10.123
+517, , , 0.0, 16:22:10.414
+518, , , 0.0, 16:22:10.762
+519, , , 0.0, 16:22:05.904
+520, , , 0.0, 16:21:49.596
+521, , , 0.0, 16:22:12.128
+522, , , 0.0, 16:22:13.454
+523, , , 0.0, 16:22:14.090
+524, , , 0.0, 16:22:07.318
+525, , , 0.0, 16:22:14.401
+526, , , 0.0, 16:21:51.046
+527, , , 0.0, 16:22:13.117
+528, , , 0.0, 16:22:15.058
+529, , , 0.0, 16:22:15.432
+530, , , 0.0, 16:21:52.149
+531, , , 0.0, 16:21:45.731
+532, , , 0.0, 16:22:20.112
+533, , , 0.0, 16:22:17.594
+534, , , 0.0, 16:21:53.187
+535, , , 0.0, 16:21:47.214
+536, , , 0.0, 16:21:53.531
+537, , , 0.0, 16:22:20.812
+538, , , 0.0, 16:22:12.784
+539, , , 0.0, 16:22:22.691
+540, , , 0.0, 16:22:23.085
+541, , , 0.0, 16:21:54.239
+542, , , 0.0, 16:22:25.561
+543, , , 0.0, 16:22:19.770
+544, , , 0.0, 16:22:19.456
+545, , , 0.0, 16:22:26.373
+546, , , 0.0, 16:22:20.446
+547, , , 0.0, 16:21:52.854
+548, , , 0.0, 16:22:23.429
+549, , , 0.0, 16:22:18.764
+550, , , 0.0, 16:21:57.482
+551, , , 0.0, 16:22:28.275
+552, , , 0.0, 16:22:19.099
+553, , , 0.0, 16:22:23.854
+554, , , 0.0, 16:22:21.193
+555, , , 0.0, 16:21:56.809
+556, , , 0.0, 16:22:26.093
+557, , , 0.0, 16:22:22.356
+558, , , 0.0, 16:22:33.654
+559, , , 0.0, 16:21:59.687
+560, , , 0.0, 16:22:00.113
+561, , , 0.0, 16:22:02.324
+562, , , 0.0, 16:22:03.422
+563, , , 0.0, 16:22:29.017
+564, , , 0.0, 16:22:30.471
+565, , , 0.0, 16:21:59.382
+566, , , 0.0, 16:22:27.985
+567, , , 0.0, 16:22:38.469
+568, , , 0.0, 16:22:29.564
+569, , , 0.0, 16:22:04.100
+570, , , 0.0, 16:22:31.508
+571, , , 0.0, 16:22:01.497
+572, , , 0.0, 16:22:02.844
+573, , , 0.0, 16:22:32.817
+574, , , 0.0, 16:22:06.460
+575, , , 0.0, 16:22:31.973
+576, , , 0.0, 16:22:07.005
+577, , , 0.0, 16:22:03.752
+578, , , 0.0, 16:22:41.835
+579, , , 0.0, 16:22:34.148
+580, , , 0.0, 16:22:35.611
+581, , , 0.0, 16:22:39.431
+582, , , 0.0, 16:22:37.560
+583, , , 0.0, 16:22:08.042
+584, , , 0.0, 16:22:39.748
+585, , , 0.0, 16:22:46.633
+586, , , 0.0, 16:22:35.944
+587, , , 0.0, 16:22:36.287
+588, , , 0.0, 16:22:40.379
+589, , , 0.0, 16:22:41.132
+590, , , 0.0, 16:22:38.138
+591, , , 0.0, 16:22:12.451
+592, , , 0.0, 16:22:43.267
+593, , , 0.0, 16:22:11.402
+594, , , 0.0, 16:22:11.773
+595, , , 0.0, 16:22:46.312
+596, , , 0.0, 16:22:14.746
+597, , , 0.0, 16:22:15.977
+598, , , 0.0, 16:22:41.501
+599, , , 0.0, 16:22:16.806
+600, , , 0.0, 16:22:44.065
+601, , , 0.0, 16:22:16.389
+602, , , 0.0, 16:22:42.642
+603, , , 0.0, 16:22:18.161
+604, , , 0.0, 16:22:45.693
+605, , , 0.0, 16:22:53.507
+606, , , 0.0, 16:22:49.264
+607, , , 0.0, 16:22:17.148
+608, , , 0.0, 16:22:18.457
+609, , , 0.0, 16:22:50.928
+610, , , 0.0, 16:22:53.835
+611, , , 0.0, 16:22:51.284
+612, , , 0.0, 16:22:51.640
+613, , , 0.0, 16:22:46.938
+614, , , 0.0, 16:22:55.694
+615, , , 0.0, 16:22:44.496
+616, , , 0.0, 16:22:52.614
+617, , , 0.0, 16:22:52.889
+618, , , 0.0, 16:22:45.967
+619, , , 0.0, 16:22:48.018
+620, , , 0.0, 16:22:56.551
+621, , , 0.0, 16:22:24.231
+622, , , 0.0, 16:22:57.878
+623, , , 0.0, 16:22:47.227
+624, , , 0.0, 16:22:49.598
+625, , , 0.0, 16:22:26.650
+626, , , 0.0, 16:22:27.049
+627, , , 0.0, 16:22:49.942
+628, , , 0.0, 16:22:58.747
+629, , , 0.0, 16:22:24.582
+630, , , 0.0, 16:22:57.534
+631, , , 0.0, 16:22:24.909
+632, , , 0.0, 16:22:25.232
+633, , , 0.0, 16:22:58.253
+634, , , 0.0, 16:23:04.983
+635, , , 0.0, 16:22:55.374
+636, , , 0.0, 16:22:29.851
+637, , , 0.0, 16:22:59.435
+638, , , 0.0, 16:23:00.708
+639, , , 0.0, 16:23:06.420
+640, , , 0.0, 16:22:27.370
+641, , , 0.0, 16:22:56.011
+642, , , 0.0, 16:22:30.129
+643, , , 0.0, 16:22:56.841
+644, , , 0.0, 16:22:55.007
+645, , , 0.0, 16:22:27.688
+646, , , 0.0, 16:22:33.150
+647, , , 0.0, 16:22:28.613
+648, , , 0.0, 16:23:11.093
+649, , , 0.0, 16:22:34.902
+650, , , 0.0, 16:23:02.281
+651, , , 0.0, 16:22:36.637
+652, , , 0.0, 16:23:02.940
+653, , , 0.0, 16:23:13.078
+654, , , 0.0, 16:23:04.614
+655, , , 0.0, 16:22:37.010
+656, , , 0.0, 16:22:31.094
+657, , , 0.0, 16:22:32.532
+658, , , 0.0, 16:23:03.718
+659, , , 0.0, 16:23:15.139
+660, , , 0.0, 16:23:05.750
+661, , , 0.0, 16:22:34.577
+662, , , 0.0, 16:22:43.683
+663, , , 0.0, 16:23:16.944
+664, , , 0.0, 16:23:07.455
+665, , , 0.0, 16:23:19.078
+666, , , 0.0, 16:22:59.781
+667, , , 0.0, 16:23:01.868
+668, , , 0.0, 16:23:02.643
+669, , , 0.0, 16:23:09.373
+670, , , 0.0, 16:22:35.245
+671, , , 0.0, 16:23:03.226
+672, , , 0.0, 16:23:19.923
+673, , , 0.0, 16:23:06.748
+674, , , 0.0, 16:23:07.137
+675, , , 0.0, 16:23:21.191
+676, , , 0.0, 16:22:54.495
+677, , , 0.0, 16:22:37.864
+678, , , 0.0, 16:23:23.445
+679, , , 0.0, 16:23:11.946
+680, , , 0.0, 16:22:38.793
+681, , , 0.0, 16:22:57.146
+682, , , 0.0, 16:23:13.407
+683, , , 0.0, 16:23:08.668
+684, , , 0.0, 16:23:13.699
+685, , , 0.0, 16:23:26.090
+686, , , 0.0, 16:23:16.048
+687, , , 0.0, 16:23:10.058
+688, , , 0.0, 16:23:00.414
+689, , , 0.0, 16:23:12.642
+690, , , 0.0, 16:23:14.477
+691, , , 0.0, 16:22:39.114
+692, , , 0.0, 16:22:40.060
+693, , , 0.0, 16:23:14.812
+694, , , 0.0, 16:23:05.372
+695, , , 0.0, 16:23:16.326
+696, , , 0.0, 16:22:42.194
+697, , , 0.0, 16:23:15.492
+698, , , 0.0, 16:23:18.621
+699, , , 0.0, 16:23:22.111
+700, , , 0.0, 16:23:22.536
+701, , , 0.0, 16:23:17.267
+702, , , 0.0, 16:23:17.582
+703, , , 0.0, 16:23:20.829
+704, , , 0.0, 16:23:08.310
+705, , , 0.0, 16:23:32.168
+706, , , 0.0, 16:23:18.276
+707, , , 0.0, 16:23:21.515
+708, , , 0.0, 16:23:24.411
+709, , , 0.0, 16:23:09.701
+710, , , 0.0, 16:23:33.314
+711, , , 0.0, 16:22:44.837
+712, , , 0.0, 16:22:45.419
+713, , , 0.0, 16:23:36.141
+714, , , 0.0, 16:23:26.461
+715, , , 0.0, 16:23:36.465
+716, , , 0.0, 16:23:20.536
+717, , , 0.0, 16:23:10.752
+718, , , 0.0, 16:23:21.809
+719, , , 0.0, 16:23:36.975
+720, , , 0.0, 16:23:23.163
+721, , , 0.0, 16:23:37.800
+722, , , 0.0, 16:23:24.053
+723, , , 0.0, 16:23:25.076
+724, , , 0.0, 16:23:12.245
+725, , , 0.0, 16:23:25.370
+726, , , 0.0, 16:23:38.131
+727, , , 0.0, 16:23:39.323
+728, , , 0.0, 16:23:29.692
+729, , , 0.0, 16:23:30.788
+730, , , 0.0, 16:23:25.720
+731, , , 0.0, 16:23:27.367
+732, , , 0.0, 16:23:31.715
+733, , , 0.0, 16:22:47.685
+734, , , 0.0, 16:23:35.504
+735, , , 0.0, 16:22:48.393
+736, , , 0.0, 16:22:48.989
+737, , , 0.0, 16:23:29.375
+738, , , 0.0, 16:23:27.683
+739, , , 0.0, 16:23:38.702
+740, , , 0.0, 16:23:46.280
+741, , , 0.0, 16:23:28.393
+742, , , 0.0, 16:23:46.913
+743, , , 0.0, 16:23:48.232
+744, , , 0.0, 16:23:41.093
+745, , , 0.0, 16:23:50.256
+746, , , 0.0, 16:23:52.099
+747, , , 0.0, 16:23:17.899
+748, , , 0.0, 16:22:50.284
+749, , , 0.0, 16:22:50.600
+750, , , 0.0, 16:23:52.788
+751, , , 0.0, 16:23:32.559
+752, , , 0.0, 16:22:52.082
+753, , , 0.0, 16:23:42.303
+754, , , 0.0, 16:23:53.935
+755, , , 0.0, 16:22:54.169
+756, , , 0.0, 16:23:35.819
+757, , , 0.0, 16:23:33.708
+758, , , 0.0, 16:23:35.070
+759, , , 0.0, 16:22:59.074
+760, , , 0.0, 16:23:43.194
+761, , , 0.0, 16:23:44.247
+762, , , 0.0, 16:23:37.427
+763, , , 0.0, 16:23:01.012
+764, , , 0.0, 16:23:45.296
+765, , , 0.0, 16:23:01.391
+766, , , 0.0, 16:23:45.963
+767, , , 0.0, 16:23:28.715
+768, , , 0.0, 16:23:29.044
+769, , , 0.0, 16:24:00.566
+770, , , 0.0, 16:24:00.845
+771, , , 0.0, 16:23:31.084
+772, , , 0.0, 16:23:47.240
+773, , , 0.0, 16:23:39.986
+774, , , 0.0, 16:23:32.893
+775, , , 0.0, 16:23:41.435
+776, , , 0.0, 16:23:34.135
+777, , , 0.0, 16:23:06.071
+778, , , 0.0, 16:23:07.795
+779, , , 0.0, 16:23:34.679
+780, , , 0.0, 16:23:42.586
+781, , , 0.0, 16:23:40.322
+782, , , 0.0, 16:23:48.922
+783, , , 0.0, 16:23:40.748
+784, , , 0.0, 16:24:05.444
+785, , , 0.0, 16:23:49.863
+786, , , 0.0, 16:24:06.698
+787, , , 0.0, 16:23:43.859
+788, , , 0.0, 16:23:44.620
+789, , , 0.0, 16:24:07.058
+790, , , 0.0, 16:23:41.758
+791, , , 0.0, 16:23:54.570
+792, , , 0.0, 16:23:44.949
+793, , , 0.0, 16:24:09.928
+794, , , 0.0, 16:23:39.658
+795, , , 0.0, 16:23:47.883
+796, , , 0.0, 16:23:46.593
+797, , , 0.0, 16:23:48.599
+798, , , 0.0, 16:23:47.562
+799, , , 0.0, 16:23:08.961
+800, , , 0.0, 16:24:12.266
+801, , , 0.0, 16:23:56.204
+802, , , 0.0, 16:23:57.120
+803, , , 0.0, 16:23:10.404
+804, , , 0.0, 16:23:50.594
+805, , , 0.0, 16:23:58.089
+806, , , 0.0, 16:23:11.424
+807, , , 0.0, 16:23:59.008
+808, , , 0.0, 16:23:51.586
+809, , , 0.0, 16:23:43.525
+810, , , 0.0, 16:23:59.704
+811, , , 0.0, 16:23:53.665
+812, , , 0.0, 16:24:13.527
+813, , , 0.0, 16:24:01.177
+814, , , 0.0, 16:23:54.259
+815, , , 0.0, 16:24:15.742
+816, , , 0.0, 16:24:16.438
+817, , , 0.0, 16:23:16.623
+818, , , 0.0, 16:23:55.636
+819, , , 0.0, 16:24:01.871
+820, , , 0.0, 16:23:56.544
+821, , , 0.0, 16:24:02.190
+822, , , 0.0, 16:24:02.542
+823, , , 0.0, 16:23:57.406
+824, , , 0.0, 16:23:58.691
+825, , , 0.0, 16:23:57.708
+826, , , 0.0, 16:24:04.162
+827, , , 0.0, 16:23:58.391
+828, , , 0.0, 16:24:04.455
+829, , , 0.0, 16:24:23.611
+830, , , 0.0, 16:23:19.566
+831, , , 0.0, 16:23:20.240
+832, , , 0.0, 16:23:50.923
+833, , , 0.0, 16:23:51.256
+834, , , 0.0, 16:24:24.594
+835, , , 0.0, 16:23:23.723
+836, , , 0.0, 16:24:07.395
+837, , , 0.0, 16:24:26.039
+838, , , 0.0, 16:23:54.891
+839, , , 0.0, 16:24:00.034
+840, , , 0.0, 16:24:09.270
+841, , , 0.0, 16:24:03.266
+842, , , 0.0, 16:24:04.766
+843, , , 0.0, 16:23:27.024
+844, , , 0.0, 16:24:03.624
+845, , , 0.0, 16:23:27.999
+846, , , 0.0, 16:24:09.615
+847, , , 0.0, 16:24:05.094
+848, , , 0.0, 16:24:29.222
+849, , , 0.0, 16:24:29.503
+850, , , 0.0, 16:24:11.044
+851, , , 0.0, 16:24:29.897
+852, , , 0.0, 16:24:08.914
+853, , , 0.0, 16:24:07.786
+854, , , 0.0, 16:24:08.355
+855, , , 0.0, 16:24:31.060
+856, , , 0.0, 16:24:05.776
+857, , , 0.0, 16:23:30.092
+858, , , 0.0, 16:24:10.332
+859, , , 0.0, 16:23:31.376
+860, , , 0.0, 16:24:08.629
+861, , , 0.0, 16:24:13.846
+862, , , 0.0, 16:24:10.722
+863, , , 0.0, 16:24:12.888
+864, , , 0.0, 16:24:15.455
+865, , , 0.0, 16:24:21.446
+866, , , 0.0, 16:24:17.916
+867, , , 0.0, 16:24:14.257
+868, , , 0.0, 16:24:18.306
+869, , , 0.0, 16:24:17.588
+870, , , 0.0, 16:24:14.899
+871, , , 0.0, 16:24:18.954
+872, , , 0.0, 16:24:20.100
+873, , , 0.0, 16:24:22.456
+874, , , 0.0, 16:24:18.638
+875, , , 0.0, 16:24:20.741
+876, , , 0.0, 16:24:38.685
+877, , , 0.0, 16:24:28.914
+878, , , 0.0, 16:24:20.425
+879, , , 0.0, 16:24:39.608
+880, , , 0.0, 16:24:25.365
+881, , , 0.0, 16:24:21.772
+882, , , 0.0, 16:24:42.420
+883, , , 0.0, 16:23:39.003
+884, , , 0.0, 16:24:25.701
+885, , , 0.0, 16:24:30.752
+886, , , 0.0, 16:24:24.998
+887, , , 0.0, 16:24:31.747
+888, , , 0.0, 16:24:23.937
+889, , , 0.0, 16:24:28.232
+890, , , 0.0, 16:24:44.742
+891, , , 0.0, 16:23:42.865
+892, , , 0.0, 16:24:28.557
+893, , , 0.0, 16:24:26.569
+894, , , 0.0, 16:24:27.251
+895, , , 0.0, 16:24:45.765
+896, , , 0.0, 16:24:30.419
+897, , , 0.0, 16:24:47.507
+898, , , 0.0, 16:24:31.432
+899, , , 0.0, 16:24:35.269
+900, , , 0.0, 16:24:27.813
+901, , , 0.0, 16:24:32.105
+902, , , 0.0, 16:24:35.608
+903, , , 0.0, 16:24:32.478
+904, , , 0.0, 16:24:33.197
+905, , , 0.0, 16:24:49.969
+906, , , 0.0, 16:24:33.537
+907, , , 0.0, 16:24:34.039
+908, , , 0.0, 16:24:34.968
+909, , , 0.0, 16:24:36.282
+910, , , 0.0, 16:24:34.686
+911, , , 0.0, 16:24:34.379
+912, , , 0.0, 16:24:36.606
+913, , , 0.0, 16:24:35.972
+914, , , 0.0, 16:24:39.266
+915, , , 0.0, 16:23:49.556
+916, , , 0.0, 16:23:52.458
+917, , , 0.0, 16:24:37.775
+918, , , 0.0, 16:23:53.377
+919, , , 0.0, 16:24:38.958
+920, , , 0.0, 16:24:37.479
+921, , , 0.0, 16:24:43.119
+922, , , 0.0, 16:24:47.154
+923, , , 0.0, 16:24:55.441
+924, , , 0.0, 16:24:44.144
+925, , , 0.0, 16:24:38.367
+926, , , 0.0, 16:24:39.973
+927, , , 0.0, 16:24:49.624
+928, , , 0.0, 16:24:40.294
+929, , , 0.0, 16:23:55.212
+930, , , 0.0, 16:24:46.477
+931, , , 0.0, 16:24:50.324
+932, , , 0.0, 16:24:51.356
+933, , , 0.0, 16:23:59.359
+934, , , 0.0, 16:24:53.693
+935, , , 0.0, 16:24:01.502
+936, , , 0.0, 16:24:58.186
+937, , , 0.0, 16:24:59.128
+938, , , 0.0, 16:24:43.812
+939, , , 0.0, 16:24:47.879
+940, , , 0.0, 16:24:41.176
+941, , , 0.0, 16:24:02.892
+942, , , 0.0, 16:24:41.455
+943, , , 0.0, 16:24:41.730
+944, , , 0.0, 16:24:56.861
+945, , , 0.0, 16:24:51.011
+946, , , 0.0, 16:24:45.034
+947, , , 0.0, 16:24:57.174
+948, , , 0.0, 16:25:01.005
+949, , , 0.0, 16:24:42.066
+950, , , 0.0, 16:24:57.494
+951, , , 0.0, 16:24:56.522
+952, , , 0.0, 16:25:02.825
+953, , , 0.0, 16:24:51.758
+954, , , 0.0, 16:24:59.950
+955, , , 0.0, 16:25:03.774
+956, , , 0.0, 16:25:00.411
+957, , , 0.0, 16:24:53.020

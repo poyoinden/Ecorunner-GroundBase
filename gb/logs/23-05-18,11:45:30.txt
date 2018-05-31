@@ -1,0 +1,2248 @@
+1, throttle, -1, -1
+2, throttle, -1, -1
+3, throttle, -1, -1
+4, throttle, -1, -1
+5, throttle, -1, -1
+6, throttle, -1, -1
+7, throttle, -1, -1
+8, throttle, -1, -1
+9, throttle, -1, -1
+10, throttle, -1, -1
+11, throttle, -1, -1
+12, throttle, -1, -1
+13, throttle, -1, -1
+14, throttle, -1, -1
+15, throttle, -1, -1
+16, throttle, -1, -1
+17, throttle, -1, -1
+18, throttle, -1, -1
+19, throttle, -1, -1
+20, throttle, -1, -1
+21, throttle, -1, -1
+22, throttle, -1, -1
+23, throttle, -1, -1
+24, throttle, -1, -1
+25, throttle, -1, -1
+26, throttle, -1, -1
+27, throttle, -1, -1
+28, throttle, -1, -1
+29, throttle, -1, -1
+30, throttle, -1, -1
+31, throttle, -1, -1
+32, throttle, -1, -1
+33, throttle, -1, -1
+34, throttle, -1, -1
+35, throttle, -1, -1
+36, throttle, -1, -1
+37, throttle, -1, -1
+38, throttle, -1, -1
+39, throttle, -1, -1
+40, throttle, -1, -1
+41, throttle, -1, -1
+42, throttle, -1, -1
+43, throttle, -1, -1
+44, throttle, -1, -1
+45, throttle, -1, -1
+46, throttle, -1, -1
+47, throttle, -1, -1
+48, throttle, -1, -1
+49, throttle, -1, -1
+50, throttle, -1, -1
+51, throttle, -1, -1
+52, throttle, -1, -1
+53, throttle, -1, -1
+54, throttle, -1, -1
+55, throttle, -1, -1
+56, throttle, -1, -1
+57, throttle, -1, -1
+58, throttle, -1, -1
+59, throttle, -1, -1
+60, throttle, -1, -1
+61, throttle, -1, -1
+62, throttle, -1, -1
+63, throttle, -1, -1
+64, throttle, -1, -1
+65, throttle, -1, -1
+66, throttle, -1, -1
+67, throttle, -1, -1
+68, throttle, -1, -1
+69, throttle, -1, -1
+70, throttle, -1, -1
+71, throttle, -1, -1
+72, throttle, -1, -1
+73, throttle, -1, -1
+74, throttle, -1, -1
+75, throttle, -1, -1
+76, throttle, -1, -1
+77, throttle, -1, -1
+78, throttle, -1, -1
+79, throttle, -1, -1
+80, throttle, -1, -1
+81, throttle, -1, -1
+82, throttle, -1, -1
+83, throttle, -1, -1
+84, throttle, -1, -1
+85, throttle, -1, -1
+86, throttle, -1, -1
+87, throttle, -1, -1
+88, throttle, -1, -1
+89, throttle, -1, -1
+90, throttle, -1, -1
+91, throttle, -1, -1
+92, throttle, -1, -1
+93, throttle, -1, -1
+94, throttle, -1, -1
+95, throttle, -1, -1
+96, throttle, -1, -1
+97, throttle, -1, -1
+98, throttle, -1, -1
+99, throttle, -1, -1
+100, throttle, -1, -1
+101, throttle, -1, -1
+102, throttle, -1, -1
+103, throttle, -1, -1
+104, throttle, -1, -1
+105, throttle, -1, -1
+106, throttle, -1, -1
+107, throttle, -1, -1
+108, throttle, -1, -1
+109, throttle, -1, -1
+110, throttle, -1, -1
+111, throttle, -1, -1
+112, throttle, -1, -1
+113, throttle, -1, -1
+114, throttle, -1, -1
+115, throttle, -1, -1
+116, throttle, -1, -1
+117, throttle, -1, -1
+118, throttle, -1, -1
+119, throttle, -1, -1
+120, throttle, -1, -1
+121, throttle, -1, -1
+122, throttle, -1, -1
+123, throttle, -1, -1
+124, throttle, -1, -1
+125, throttle, -1, -1
+126, throttle, -1, -1
+127, throttle, -1, -1
+128, throttle, -1, -1
+129, throttle, -1, -1
+130, throttle, -1, -1
+131, throttle, -1, -1
+132, throttle, -1, -1
+133, throttle, -1, -1
+134, throttle, -1, -1
+135, throttle, -1, -1
+136, throttle, -1, -1
+137, throttle, -1, -1
+138, throttle, -1, -1
+139, throttle, -1, -1
+140, throttle, -1, -1
+141, throttle, -1, -1
+142, throttle, -1, -1
+143, throttle, -1, -1
+144, throttle, -1, -1
+145, throttle, -1, -1
+146, throttle, -1, -1
+147, throttle, -1, -1
+148, throttle, -1, -1
+149, throttle, -1, -1
+150, throttle, -1, -1
+151, throttle, -1, -1
+152, throttle, -1, -1
+153, throttle, -1, -1
+154, throttle, -1, -1
+155, throttle, -1, -1
+156, throttle, -1, -1
+157, throttle, -1, -1
+158, throttle, -1, -1
+159, throttle, -1, -1
+160, throttle, -1, -1
+161, throttle, -1, -1
+162, throttle, -1, -1
+163, throttle, -1, -1
+164, throttle, -1, -1
+165, throttle, -1, -1
+166, throttle, -1, -1
+167, throttle, -1, -1
+168, throttle, -1, -1
+169, throttle, -1, -1
+170, throttle, -1, -1
+171, throttle, -1, -1
+172, throttle, -1, -1
+173, throttle, -1, -1
+174, throttle, -1, -1
+175, throttle, -1, -1
+176, throttle, -1, -1
+177, throttle, -1, -1
+178, throttle, -1, -1
+179, throttle, -1, -1
+180, throttle, -1, -1
+181, throttle, -1, -1
+182, throttle, -1, -1
+183, throttle, -1, -1
+184, throttle, -1, -1
+185, throttle, -1, -1
+186, throttle, -1, -1
+187, throttle, -1, -1
+188, throttle, -1, -1
+189, throttle, -1, -1
+190, throttle, -1, -1
+191, throttle, -1, -1
+192, throttle, -1, -1
+193, throttle, -1, -1
+194, throttle, -1, -1
+195, throttle, -1, -1
+196, throttle, -1, -1
+197, throttle, -1, -1
+198, throttle, -1, -1
+199, throttle, -1, -1
+200, throttle, -1, -1
+201, throttle, -1, -1
+202, throttle, -1, -1
+203, throttle, -1, -1
+204, throttle, -1, -1
+205, throttle, -1, -1
+206, throttle, -1, -1
+207, throttle, -1, -1
+208, throttle, -1, -1
+209, throttle, -1, -1
+210, throttle, -1, -1
+211, throttle, -1, -1
+212, throttle, -1, -1
+213, throttle, -1, -1
+214, throttle, -1, -1
+215, throttle, -1, -1
+216, throttle, -1, -1
+217, throttle, -1, -1
+218, throttle, -1, -1
+219, throttle, -1, -1
+220, throttle, -1, -1
+221, throttle, -1, -1
+222, throttle, -1, -1
+223, throttle, -1, -1
+224, throttle, -1, -1
+225, throttle, -1, -1
+226, throttle, -1, -1
+227, throttle, -1, -1
+228, throttle, -1, -1
+229, throttle, -1, -1
+230, throttle, -1, -1
+231, throttle, -1, -1
+232, throttle, -1, -1
+233, throttle, -1, -1
+234, throttle, -1, -1
+235, throttle, -1, -1
+236, throttle, -1, -1
+237, throttle, -1, -1
+238, throttle, -1, -1
+239, throttle, -1, -1
+240, throttle, -1, -1
+241, throttle, -1, -1
+242, throttle, -1, -1
+243, throttle, -1, -1
+244, throttle, -1, -1
+245, throttle, -1, -1
+246, throttle, -1, -1
+247, throttle, -1, -1
+248, throttle, -1, -1
+249, throttle, -1, -1
+250, throttle, -1, -1
+251, throttle, -1, -1
+252, throttle, -1, -1
+253, throttle, -1, -1
+254, throttle, -1, -1
+255, throttle, -1, -1
+256, throttle, -1, -1
+257, throttle, -1, -1
+258, throttle, -1, -1
+259, throttle, -1, -1
+260, throttle, -1, -1
+261, throttle, -1, -1
+262, throttle, -1, -1
+263, throttle, -1, -1
+264, throttle, -1, -1
+265, throttle, -1, -1
+266, throttle, -1, -1
+267, throttle, -1, -1
+268, throttle, -1, -1
+269, throttle, -1, -1
+270, throttle, -1, -1
+271, throttle, -1, -1
+272, throttle, -1, -1
+273, throttle, -1, -1
+274, throttle, -1, -1
+275, throttle, -1, -1
+276, throttle, -1, -1
+277, throttle, -1, -1
+278, throttle, -1, -1
+279, throttle, -1, -1
+280, throttle, -1, -1
+281, throttle, -1, -1
+282, throttle, -1, -1
+283, throttle, -1, -1
+284, throttle, -1, -1
+285, throttle, -1, -1
+286, throttle, -1, -1
+287, throttle, -1, -1
+288, throttle, -1, -1
+289, throttle, -1, -1
+290, throttle, -1, -1
+291, throttle, -1, -1
+292, throttle, -1, -1
+293, throttle, -1, -1
+294, throttle, -1, -1
+295, throttle, -1, -1
+296, throttle, -1, -1
+297, throttle, -1, -1
+298, throttle, -1, -1
+299, throttle, -1, -1
+300, throttle, -1, -1
+301, throttle, -1, -1
+302, throttle, -1, -1
+303, throttle, -1, -1
+304, throttle, -1, -1
+305, throttle, -1, -1
+306, throttle, -1, -1
+307, throttle, -1, -1
+308, throttle, -1, -1
+309, throttle, -1, -1
+310, throttle, -1, -1
+311, throttle, -1, -1
+312, throttle, -1, -1
+313, throttle, -1, -1
+314, throttle, -1, -1
+315, throttle, -1, -1
+316, throttle, -1, -1
+317, throttle, -1, -1
+318, throttle, -1, -1
+319, throttle, -1, -1
+320, throttle, -1, -1
+321, throttle, -1, -1
+322, throttle, -1, -1
+323, throttle, -1, -1
+324, throttle, -1, -1
+325, throttle, -1, -1
+326, throttle, -1, -1
+327, throttle, -1, -1
+328, throttle, -1, -1
+329, throttle, -1, -1
+330, throttle, -1, -1
+331, throttle, -1, -1
+332, throttle, -1, -1
+333, throttle, -1, -1
+334, throttle, -1, -1
+335, throttle, -1, -1
+336, throttle, -1, -1
+337, throttle, -1, -1
+338, throttle, -1, -1
+339, throttle, -1, -1
+340, throttle, -1, -1
+341, throttle, -1, -1
+342, throttle, -1, -1
+343, throttle, -1, -1
+344, throttle, -1, -1
+345, throttle, -1, -1
+346, throttle, -1, -1
+347, throttle, -1, -1
+348, throttle, -1, -1
+349, throttle, -1, -1
+350, throttle, -1, -1
+351, throttle, -1, -1
+352, throttle, -1, -1
+353, throttle, -1, -1
+354, throttle, -1, -1
+355, throttle, -1, -1
+356, throttle, -1, -1
+357, throttle, -1, -1
+358, throttle, -1, -1
+359, throttle, -1, -1
+360, throttle, -1, -1
+361, throttle, -1, -1
+362, throttle, -1, -1
+363, throttle, -1, -1
+364, throttle, -1, -1
+365, throttle, -1, -1
+366, throttle, -1, -1
+367, throttle, -1, -1
+368, throttle, -1, -1
+369, throttle, -1, -1
+370, throttle, -1, -1
+371, throttle, -1, -1
+372, throttle, -1, -1
+373, throttle, -1, -1
+374, throttle, -1, -1
+375, throttle, -1, -1
+376, throttle, -1, -1
+377, throttle, -1, -1
+378, throttle, -1, -1
+379, throttle, -1, -1
+380, throttle, -1, -1
+381, throttle, -1, -1
+382, throttle, -1, -1
+383, throttle, -1, -1
+384, throttle, -1, -1
+385, throttle, -1, -1
+386, throttle, -1, -1
+387, throttle, -1, -1
+388, throttle, -1, -1
+389, throttle, -1, -1
+390, throttle, -1, -1
+391, throttle, -1, -1
+392, throttle, -1, -1
+393, throttle, -1, -1
+394, throttle, -1, -1
+395, throttle, -1, -1
+396, throttle, -1, -1
+397, throttle, -1, -1
+398, throttle, -1, -1
+399, throttle, -1, -1
+400, throttle, -1, -1
+401, throttle, -1, -1
+402, throttle, -1, -1
+403, throttle, -1, -1
+404, throttle, -1, -1
+405, throttle, -1, -1
+406, throttle, -1, -1
+407, throttle, -1, -1
+408, throttle, -1, -1
+409, throttle, -1, -1
+410, throttle, -1, -1
+411, throttle, -1, -1
+412, throttle, -1, -1
+413, throttle, -1, -1
+414, throttle, -1, -1
+415, throttle, -1, -1
+416, throttle, -1, -1
+417, throttle, -1, -1
+418, throttle, -1, -1
+419, throttle, -1, -1
+420, throttle, -1, -1
+421, throttle, -1, -1
+422, throttle, -1, -1
+423, throttle, -1, -1
+424, throttle, -1, -1
+425, throttle, -1, -1
+426, throttle, -1, -1
+427, throttle, -1, -1
+428, throttle, -1, -1
+429, throttle, -1, -1
+430, throttle, -1, -1
+431, throttle, -1, -1
+432, throttle, -1, -1
+433, throttle, -1, -1
+434, throttle, -1, -1
+435, throttle, -1, -1
+436, throttle, -1, -1
+437, throttle, -1, -1
+438, throttle, -1, -1
+439, throttle, -1, -1
+440, throttle, -1, -1
+441, throttle, -1, -1
+442, throttle, -1, -1
+443, throttle, -1, -1
+444, throttle, -1, -1
+445, throttle, -1, -1
+446, throttle, -1, -1
+447, throttle, -1, -1
+448, throttle, -1, -1
+449, throttle, -1, -1
+450, throttle, -1, -1
+1, rpm, -1, -1
+2, rpm, -1, -1
+3, rpm, -1, -1
+4, rpm, -1, -1
+5, rpm, -1, -1
+6, rpm, -1, -1
+7, rpm, -1, -1
+8, rpm, -1, -1
+9, rpm, -1, -1
+10, rpm, -1, -1
+11, rpm, -1, -1
+12, rpm, -1, -1
+13, rpm, -1, -1
+14, rpm, -1, -1
+15, rpm, -1, -1
+16, rpm, -1, -1
+17, rpm, -1, -1
+18, rpm, -1, -1
+19, rpm, -1, -1
+20, rpm, -1, -1
+21, rpm, -1, -1
+22, rpm, -1, -1
+23, rpm, -1, -1
+24, rpm, -1, -1
+25, rpm, -1, -1
+26, rpm, -1, -1
+27, rpm, -1, -1
+28, rpm, -1, -1
+29, rpm, -1, -1
+30, rpm, -1, -1
+31, rpm, -1, -1
+32, rpm, -1, -1
+33, rpm, -1, -1
+34, rpm, -1, -1
+35, rpm, -1, -1
+36, rpm, -1, -1
+37, rpm, -1, -1
+38, rpm, -1, -1
+39, rpm, -1, -1
+40, rpm, -1, -1
+41, rpm, -1, -1
+42, rpm, -1, -1
+43, rpm, -1, -1
+44, rpm, -1, -1
+45, rpm, -1, -1
+46, rpm, -1, -1
+47, rpm, -1, -1
+48, rpm, -1, -1
+49, rpm, -1, -1
+50, rpm, -1, -1
+51, rpm, -1, -1
+52, rpm, -1, -1
+53, rpm, -1, -1
+54, rpm, -1, -1
+55, rpm, -1, -1
+56, rpm, -1, -1
+57, rpm, -1, -1
+58, rpm, -1, -1
+59, rpm, -1, -1
+60, rpm, -1, -1
+61, rpm, -1, -1
+62, rpm, -1, -1
+63, rpm, -1, -1
+64, rpm, -1, -1
+65, rpm, -1, -1
+66, rpm, -1, -1
+67, rpm, -1, -1
+68, rpm, -1, -1
+69, rpm, -1, -1
+70, rpm, -1, -1
+71, rpm, -1, -1
+72, rpm, -1, -1
+73, rpm, -1, -1
+74, rpm, -1, -1
+75, rpm, -1, -1
+76, rpm, -1, -1
+77, rpm, -1, -1
+78, rpm, -1, -1
+79, rpm, -1, -1
+80, rpm, -1, -1
+81, rpm, -1, -1
+82, rpm, -1, -1
+83, rpm, -1, -1
+84, rpm, -1, -1
+85, rpm, -1, -1
+86, rpm, -1, -1
+87, rpm, -1, -1
+88, rpm, -1, -1
+89, rpm, -1, -1
+90, rpm, -1, -1
+91, rpm, -1, -1
+92, rpm, -1, -1
+93, rpm, -1, -1
+94, rpm, -1, -1
+95, rpm, -1, -1
+96, rpm, -1, -1
+97, rpm, -1, -1
+98, rpm, -1, -1
+99, rpm, -1, -1
+100, rpm, -1, -1
+101, rpm, -1, -1
+102, rpm, -1, -1
+103, rpm, -1, -1
+104, rpm, -1, -1
+105, rpm, -1, -1
+106, rpm, -1, -1
+107, rpm, -1, -1
+108, rpm, -1, -1
+109, rpm, -1, -1
+110, rpm, -1, -1
+111, rpm, -1, -1
+112, rpm, -1, -1
+113, rpm, -1, -1
+114, rpm, -1, -1
+115, rpm, -1, -1
+116, rpm, -1, -1
+117, rpm, -1, -1
+118, rpm, -1, -1
+119, rpm, -1, -1
+120, rpm, -1, -1
+121, rpm, -1, -1
+122, rpm, -1, -1
+123, rpm, -1, -1
+124, rpm, -1, -1
+125, rpm, -1, -1
+126, rpm, -1, -1
+127, rpm, -1, -1
+128, rpm, -1, -1
+129, rpm, -1, -1
+130, rpm, -1, -1
+131, rpm, -1, -1
+132, rpm, -1, -1
+133, rpm, -1, -1
+134, rpm, -1, -1
+135, rpm, -1, -1
+136, rpm, -1, -1
+137, rpm, -1, -1
+138, rpm, -1, -1
+139, rpm, -1, -1
+140, rpm, -1, -1
+141, rpm, -1, -1
+142, rpm, -1, -1
+143, rpm, -1, -1
+144, rpm, -1, -1
+145, rpm, -1, -1
+146, rpm, -1, -1
+147, rpm, -1, -1
+148, rpm, -1, -1
+149, rpm, -1, -1
+150, rpm, -1, -1
+151, rpm, -1, -1
+152, rpm, -1, -1
+153, rpm, -1, -1
+154, rpm, -1, -1
+155, rpm, -1, -1
+156, rpm, -1, -1
+157, rpm, -1, -1
+158, rpm, -1, -1
+159, rpm, -1, -1
+160, rpm, -1, -1
+161, rpm, -1, -1
+162, rpm, -1, -1
+163, rpm, -1, -1
+164, rpm, -1, -1
+165, rpm, -1, -1
+166, rpm, -1, -1
+167, rpm, -1, -1
+168, rpm, -1, -1
+169, rpm, -1, -1
+170, rpm, -1, -1
+171, rpm, -1, -1
+172, rpm, -1, -1
+173, rpm, -1, -1
+174, rpm, -1, -1
+175, rpm, -1, -1
+176, rpm, -1, -1
+177, rpm, -1, -1
+178, rpm, -1, -1
+179, rpm, -1, -1
+180, rpm, -1, -1
+181, rpm, -1, -1
+182, rpm, -1, -1
+183, rpm, -1, -1
+184, rpm, -1, -1
+185, rpm, -1, -1
+186, rpm, -1, -1
+187, rpm, -1, -1
+188, rpm, -1, -1
+189, rpm, -1, -1
+190, rpm, -1, -1
+191, rpm, -1, -1
+192, rpm, -1, -1
+193, rpm, -1, -1
+194, rpm, -1, -1
+195, rpm, -1, -1
+196, rpm, -1, -1
+197, rpm, -1, -1
+198, rpm, -1, -1
+199, rpm, -1, -1
+200, rpm, -1, -1
+201, rpm, -1, -1
+202, rpm, -1, -1
+203, rpm, -1, -1
+204, rpm, -1, -1
+205, rpm, -1, -1
+206, rpm, -1, -1
+207, rpm, -1, -1
+208, rpm, -1, -1
+209, rpm, -1, -1
+210, rpm, -1, -1
+211, rpm, -1, -1
+212, rpm, -1, -1
+213, rpm, -1, -1
+214, rpm, -1, -1
+215, rpm, -1, -1
+216, rpm, -1, -1
+217, rpm, -1, -1
+218, rpm, -1, -1
+219, rpm, -1, -1
+220, rpm, -1, -1
+221, rpm, -1, -1
+222, rpm, -1, -1
+223, rpm, -1, -1
+224, rpm, -1, -1
+225, rpm, -1, -1
+226, rpm, -1, -1
+227, rpm, -1, -1
+228, rpm, -1, -1
+229, rpm, -1, -1
+230, rpm, -1, -1
+231, rpm, -1, -1
+232, rpm, -1, -1
+233, rpm, -1, -1
+234, rpm, -1, -1
+235, rpm, -1, -1
+236, rpm, -1, -1
+237, rpm, -1, -1
+238, rpm, -1, -1
+239, rpm, -1, -1
+240, rpm, -1, -1
+241, rpm, -1, -1
+242, rpm, -1, -1
+243, rpm, -1, -1
+244, rpm, -1, -1
+245, rpm, -1, -1
+246, rpm, -1, -1
+247, rpm, -1, -1
+248, rpm, -1, -1
+249, rpm, -1, -1
+250, rpm, -1, -1
+251, rpm, -1, -1
+252, rpm, -1, -1
+253, rpm, -1, -1
+254, rpm, -1, -1
+255, rpm, -1, -1
+256, rpm, -1, -1
+257, rpm, -1, -1
+258, rpm, -1, -1
+259, rpm, -1, -1
+260, rpm, -1, -1
+261, rpm, -1, -1
+262, rpm, -1, -1
+263, rpm, -1, -1
+264, rpm, -1, -1
+265, rpm, -1, -1
+266, rpm, -1, -1
+267, rpm, -1, -1
+268, rpm, -1, -1
+269, rpm, -1, -1
+270, rpm, -1, -1
+271, rpm, -1, -1
+272, rpm, -1, -1
+273, rpm, -1, -1
+274, rpm, -1, -1
+275, rpm, -1, -1
+276, rpm, -1, -1
+277, rpm, -1, -1
+278, rpm, -1, -1
+279, rpm, -1, -1
+280, rpm, -1, -1
+281, rpm, -1, -1
+282, rpm, -1, -1
+283, rpm, -1, -1
+284, rpm, -1, -1
+285, rpm, -1, -1
+286, rpm, -1, -1
+287, rpm, -1, -1
+288, rpm, -1, -1
+289, rpm, -1, -1
+290, rpm, -1, -1
+291, rpm, -1, -1
+292, rpm, -1, -1
+293, rpm, -1, -1
+294, rpm, -1, -1
+295, rpm, -1, -1
+296, rpm, -1, -1
+297, rpm, -1, -1
+298, rpm, -1, -1
+299, rpm, -1, -1
+300, rpm, -1, -1
+301, rpm, -1, -1
+302, rpm, -1, -1
+303, rpm, -1, -1
+304, rpm, -1, -1
+305, rpm, -1, -1
+306, rpm, -1, -1
+307, rpm, -1, -1
+308, rpm, -1, -1
+309, rpm, -1, -1
+310, rpm, -1, -1
+311, rpm, -1, -1
+312, rpm, -1, -1
+313, rpm, -1, -1
+314, rpm, -1, -1
+315, rpm, -1, -1
+316, rpm, -1, -1
+317, rpm, -1, -1
+318, rpm, -1, -1
+319, rpm, -1, -1
+320, rpm, -1, -1
+321, rpm, -1, -1
+322, rpm, -1, -1
+323, rpm, -1, -1
+324, rpm, -1, -1
+325, rpm, -1, -1
+326, rpm, -1, -1
+327, rpm, -1, -1
+328, rpm, -1, -1
+329, rpm, -1, -1
+330, rpm, -1, -1
+331, rpm, -1, -1
+332, rpm, -1, -1
+333, rpm, -1, -1
+334, rpm, -1, -1
+335, rpm, -1, -1
+336, rpm, -1, -1
+337, rpm, -1, -1
+338, rpm, -1, -1
+339, rpm, -1, -1
+340, rpm, -1, -1
+341, rpm, -1, -1
+342, rpm, -1, -1
+343, rpm, -1, -1
+344, rpm, -1, -1
+345, rpm, -1, -1
+346, rpm, -1, -1
+347, rpm, -1, -1
+348, rpm, -1, -1
+349, rpm, -1, -1
+350, rpm, -1, -1
+351, rpm, -1, -1
+352, rpm, -1, -1
+353, rpm, -1, -1
+354, rpm, -1, -1
+355, rpm, -1, -1
+356, rpm, -1, -1
+357, rpm, -1, -1
+358, rpm, -1, -1
+359, rpm, -1, -1
+360, rpm, -1, -1
+361, rpm, -1, -1
+362, rpm, -1, -1
+363, rpm, -1, -1
+364, rpm, -1, -1
+365, rpm, -1, -1
+366, rpm, -1, -1
+367, rpm, -1, -1
+368, rpm, -1, -1
+369, rpm, -1, -1
+370, rpm, -1, -1
+371, rpm, -1, -1
+372, rpm, -1, -1
+373, rpm, -1, -1
+374, rpm, -1, -1
+375, rpm, -1, -1
+376, rpm, -1, -1
+377, rpm, -1, -1
+378, rpm, -1, -1
+379, rpm, -1, -1
+380, rpm, -1, -1
+381, rpm, -1, -1
+382, rpm, -1, -1
+383, rpm, -1, -1
+384, rpm, -1, -1
+385, rpm, -1, -1
+386, rpm, -1, -1
+387, rpm, -1, -1
+388, rpm, -1, -1
+389, rpm, -1, -1
+390, rpm, -1, -1
+391, rpm, -1, -1
+392, rpm, -1, -1
+393, rpm, -1, -1
+394, rpm, -1, -1
+395, rpm, -1, -1
+396, rpm, -1, -1
+397, rpm, -1, -1
+398, rpm, -1, -1
+399, rpm, -1, -1
+400, rpm, -1, -1
+401, rpm, -1, -1
+402, rpm, -1, -1
+403, rpm, -1, -1
+404, rpm, -1, -1
+405, rpm, -1, -1
+406, rpm, -1, -1
+407, rpm, -1, -1
+408, rpm, -1, -1
+409, rpm, -1, -1
+410, rpm, -1, -1
+411, rpm, -1, -1
+412, rpm, -1, -1
+413, rpm, -1, -1
+414, rpm, -1, -1
+415, rpm, -1, -1
+416, rpm, -1, -1
+417, rpm, -1, -1
+418, rpm, -1, -1
+419, rpm, -1, -1
+420, rpm, -1, -1
+421, rpm, -1, -1
+422, rpm, -1, -1
+423, rpm, -1, -1
+424, rpm, -1, -1
+425, rpm, -1, -1
+426, rpm, -1, -1
+427, rpm, -1, -1
+428, rpm, -1, -1
+429, rpm, -1, -1
+430, rpm, -1, -1
+431, rpm, -1, -1
+432, rpm, -1, -1
+433, rpm, -1, -1
+434, rpm, -1, -1
+435, rpm, -1, -1
+436, rpm, -1, -1
+437, rpm, -1, -1
+438, rpm, -1, -1
+439, rpm, -1, -1
+440, rpm, -1, -1
+441, rpm, -1, -1
+442, rpm, -1, -1
+443, rpm, -1, -1
+444, rpm, -1, -1
+445, rpm, -1, -1
+446, rpm, -1, -1
+447, rpm, -1, -1
+448, rpm, -1, -1
+449, rpm, -1, -1
+450, rpm, -1, -1
+1, current, -1, -1
+2, current, -1, -1
+3, current, -1, -1
+4, current, -1, -1
+5, current, -1, -1
+6, current, -1, -1
+7, current, -1, -1
+8, current, -1, -1
+9, current, -1, -1
+10, current, -1, -1
+11, current, -1, -1
+12, current, -1, -1
+13, current, -1, -1
+14, current, -1, -1
+15, current, -1, -1
+16, current, -1, -1
+17, current, -1, -1
+18, current, -1, -1
+19, current, -1, -1
+20, current, -1, -1
+21, current, -1, -1
+22, current, -1, -1
+23, current, -1, -1
+24, current, -1, -1
+25, current, -1, -1
+26, current, -1, -1
+27, current, -1, -1
+28, current, -1, -1
+29, current, -1, -1
+30, current, -1, -1
+31, current, -1, -1
+32, current, -1, -1
+33, current, -1, -1
+34, current, -1, -1
+35, current, -1, -1
+36, current, -1, -1
+37, current, -1, -1
+38, current, -1, -1
+39, current, -1, -1
+40, current, -1, -1
+41, current, -1, -1
+42, current, -1, -1
+43, current, -1, -1
+44, current, -1, -1
+45, current, -1, -1
+46, current, -1, -1
+47, current, -1, -1
+48, current, -1, -1
+49, current, -1, -1
+50, current, -1, -1
+51, current, -1, -1
+52, current, -1, -1
+53, current, -1, -1
+54, current, -1, -1
+55, current, -1, -1
+56, current, -1, -1
+57, current, -1, -1
+58, current, -1, -1
+59, current, -1, -1
+60, current, -1, -1
+61, current, -1, -1
+62, current, -1, -1
+63, current, -1, -1
+64, current, -1, -1
+65, current, -1, -1
+66, current, -1, -1
+67, current, -1, -1
+68, current, -1, -1
+69, current, -1, -1
+70, current, -1, -1
+71, current, -1, -1
+72, current, -1, -1
+73, current, -1, -1
+74, current, -1, -1
+75, current, -1, -1
+76, current, -1, -1
+77, current, -1, -1
+78, current, -1, -1
+79, current, -1, -1
+80, current, -1, -1
+81, current, -1, -1
+82, current, -1, -1
+83, current, -1, -1
+84, current, -1, -1
+85, current, -1, -1
+86, current, -1, -1
+87, current, -1, -1
+88, current, -1, -1
+89, current, -1, -1
+90, current, -1, -1
+91, current, -1, -1
+92, current, -1, -1
+93, current, -1, -1
+94, current, -1, -1
+95, current, -1, -1
+96, current, -1, -1
+97, current, -1, -1
+98, current, -1, -1
+99, current, -1, -1
+100, current, -1, -1
+101, current, -1, -1
+102, current, -1, -1
+103, current, -1, -1
+104, current, -1, -1
+105, current, -1, -1
+106, current, -1, -1
+107, current, -1, -1
+108, current, -1, -1
+109, current, -1, -1
+110, current, -1, -1
+111, current, -1, -1
+112, current, -1, -1
+113, current, -1, -1
+114, current, -1, -1
+115, current, -1, -1
+116, current, -1, -1
+117, current, -1, -1
+118, current, -1, -1
+119, current, -1, -1
+120, current, -1, -1
+121, current, -1, -1
+122, current, -1, -1
+123, current, -1, -1
+124, current, -1, -1
+125, current, -1, -1
+126, current, -1, -1
+127, current, -1, -1
+128, current, -1, -1
+129, current, -1, -1
+130, current, -1, -1
+131, current, -1, -1
+132, current, -1, -1
+133, current, -1, -1
+134, current, -1, -1
+135, current, -1, -1
+136, current, -1, -1
+137, current, -1, -1
+138, current, -1, -1
+139, current, -1, -1
+140, current, -1, -1
+141, current, -1, -1
+142, current, -1, -1
+143, current, -1, -1
+144, current, -1, -1
+145, current, -1, -1
+146, current, -1, -1
+147, current, -1, -1
+148, current, -1, -1
+149, current, -1, -1
+150, current, -1, -1
+151, current, -1, -1
+152, current, -1, -1
+153, current, -1, -1
+154, current, -1, -1
+155, current, -1, -1
+156, current, -1, -1
+157, current, -1, -1
+158, current, -1, -1
+159, current, -1, -1
+160, current, -1, -1
+161, current, -1, -1
+162, current, -1, -1
+163, current, -1, -1
+164, current, -1, -1
+165, current, -1, -1
+166, current, -1, -1
+167, current, -1, -1
+168, current, -1, -1
+169, current, -1, -1
+170, current, -1, -1
+171, current, -1, -1
+172, current, -1, -1
+173, current, -1, -1
+174, current, -1, -1
+175, current, -1, -1
+176, current, -1, -1
+177, current, -1, -1
+178, current, -1, -1
+179, current, -1, -1
+180, current, -1, -1
+181, current, -1, -1
+182, current, -1, -1
+183, current, -1, -1
+184, current, -1, -1
+185, current, -1, -1
+186, current, -1, -1
+187, current, -1, -1
+188, current, -1, -1
+189, current, -1, -1
+190, current, -1, -1
+191, current, -1, -1
+192, current, -1, -1
+193, current, -1, -1
+194, current, -1, -1
+195, current, -1, -1
+196, current, -1, -1
+197, current, -1, -1
+198, current, -1, -1
+199, current, -1, -1
+200, current, -1, -1
+201, current, -1, -1
+202, current, -1, -1
+203, current, -1, -1
+204, current, -1, -1
+205, current, -1, -1
+206, current, -1, -1
+207, current, -1, -1
+208, current, -1, -1
+209, current, -1, -1
+210, current, -1, -1
+211, current, -1, -1
+212, current, -1, -1
+213, current, -1, -1
+214, current, -1, -1
+215, current, -1, -1
+216, current, -1, -1
+217, current, -1, -1
+218, current, -1, -1
+219, current, -1, -1
+220, current, -1, -1
+221, current, -1, -1
+222, current, -1, -1
+223, current, -1, -1
+224, current, -1, -1
+225, current, -1, -1
+226, current, -1, -1
+227, current, -1, -1
+228, current, -1, -1
+229, current, -1, -1
+230, current, -1, -1
+231, current, -1, -1
+232, current, -1, -1
+233, current, -1, -1
+234, current, -1, -1
+235, current, -1, -1
+236, current, -1, -1
+237, current, -1, -1
+238, current, -1, -1
+239, current, -1, -1
+240, current, -1, -1
+241, current, -1, -1
+242, current, -1, -1
+243, current, -1, -1
+244, current, -1, -1
+245, current, -1, -1
+246, current, -1, -1
+247, current, -1, -1
+248, current, -1, -1
+249, current, -1, -1
+250, current, -1, -1
+251, current, -1, -1
+252, current, -1, -1
+253, current, -1, -1
+254, current, -1, -1
+255, current, -1, -1
+256, current, -1, -1
+257, current, -1, -1
+258, current, -1, -1
+259, current, -1, -1
+260, current, -1, -1
+261, current, -1, -1
+262, current, -1, -1
+263, current, -1, -1
+264, current, -1, -1
+265, current, -1, -1
+266, current, -1, -1
+267, current, -1, -1
+268, current, -1, -1
+269, current, -1, -1
+270, current, -1, -1
+271, current, -1, -1
+272, current, -1, -1
+273, current, -1, -1
+274, current, -1, -1
+275, current, -1, -1
+276, current, -1, -1
+277, current, -1, -1
+278, current, -1, -1
+279, current, -1, -1
+280, current, -1, -1
+281, current, -1, -1
+282, current, -1, -1
+283, current, -1, -1
+284, current, -1, -1
+285, current, -1, -1
+286, current, -1, -1
+287, current, -1, -1
+288, current, -1, -1
+289, current, -1, -1
+290, current, -1, -1
+291, current, -1, -1
+292, current, -1, -1
+293, current, -1, -1
+294, current, -1, -1
+295, current, -1, -1
+296, current, -1, -1
+297, current, -1, -1
+298, current, -1, -1
+299, current, -1, -1
+300, current, -1, -1
+301, current, -1, -1
+302, current, -1, -1
+303, current, -1, -1
+304, current, -1, -1
+305, current, -1, -1
+306, current, -1, -1
+307, current, -1, -1
+308, current, -1, -1
+309, current, -1, -1
+310, current, -1, -1
+311, current, -1, -1
+312, current, -1, -1
+313, current, -1, -1
+314, current, -1, -1
+315, current, -1, -1
+316, current, -1, -1
+317, current, -1, -1
+318, current, -1, -1
+319, current, -1, -1
+320, current, -1, -1
+321, current, -1, -1
+322, current, -1, -1
+323, current, -1, -1
+324, current, -1, -1
+325, current, -1, -1
+326, current, -1, -1
+327, current, -1, -1
+328, current, -1, -1
+329, current, -1, -1
+330, current, -1, -1
+331, current, -1, -1
+332, current, -1, -1
+333, current, -1, -1
+334, current, -1, -1
+335, current, -1, -1
+336, current, -1, -1
+337, current, -1, -1
+338, current, -1, -1
+339, current, -1, -1
+340, current, -1, -1
+341, current, -1, -1
+342, current, -1, -1
+343, current, -1, -1
+344, current, -1, -1
+345, current, -1, -1
+346, current, -1, -1
+347, current, -1, -1
+348, current, -1, -1
+349, current, -1, -1
+350, current, -1, -1
+351, current, -1, -1
+352, current, -1, -1
+353, current, -1, -1
+354, current, -1, -1
+355, current, -1, -1
+356, current, -1, -1
+357, current, -1, -1
+358, current, -1, -1
+359, current, -1, -1
+360, current, -1, -1
+361, current, -1, -1
+362, current, -1, -1
+363, current, -1, -1
+364, current, -1, -1
+365, current, -1, -1
+366, current, -1, -1
+367, current, -1, -1
+368, current, -1, -1
+369, current, -1, -1
+370, current, -1, -1
+371, current, -1, -1
+372, current, -1, -1
+373, current, -1, -1
+374, current, -1, -1
+375, current, -1, -1
+376, current, -1, -1
+377, current, -1, -1
+378, current, -1, -1
+379, current, -1, -1
+380, current, -1, -1
+381, current, -1, -1
+382, current, -1, -1
+383, current, -1, -1
+384, current, -1, -1
+385, current, -1, -1
+386, current, -1, -1
+387, current, -1, -1
+388, current, -1, -1
+389, current, -1, -1
+390, current, -1, -1
+391, current, -1, -1
+392, current, -1, -1
+393, current, -1, -1
+394, current, -1, -1
+395, current, -1, -1
+396, current, -1, -1
+397, current, -1, -1
+398, current, -1, -1
+399, current, -1, -1
+400, current, -1, -1
+401, current, -1, -1
+402, current, -1, -1
+403, current, -1, -1
+404, current, -1, -1
+405, current, -1, -1
+406, current, -1, -1
+407, current, -1, -1
+408, current, -1, -1
+409, current, -1, -1
+410, current, -1, -1
+411, current, -1, -1
+412, current, -1, -1
+413, current, -1, -1
+414, current, -1, -1
+415, current, -1, -1
+416, current, -1, -1
+417, current, -1, -1
+418, current, -1, -1
+419, current, -1, -1
+420, current, -1, -1
+421, current, -1, -1
+422, current, -1, -1
+423, current, -1, -1
+424, current, -1, -1
+425, current, -1, -1
+426, current, -1, -1
+427, current, -1, -1
+428, current, -1, -1
+429, current, -1, -1
+430, current, -1, -1
+431, current, -1, -1
+432, current, -1, -1
+433, current, -1, -1
+434, current, -1, -1
+435, current, -1, -1
+436, current, -1, -1
+437, current, -1, -1
+438, current, -1, -1
+439, current, -1, -1
+440, current, -1, -1
+441, current, -1, -1
+442, current, -1, -1
+443, current, -1, -1
+444, current, -1, -1
+445, current, -1, -1
+446, current, -1, -1
+447, current, -1, -1
+448, current, -1, -1
+449, current, -1, -1
+450, current, -1, -1
+1, votlage, -1, -1
+2, votlage, -1, -1
+3, votlage, -1, -1
+4, votlage, -1, -1
+5, votlage, -1, -1
+6, votlage, -1, -1
+7, votlage, -1, -1
+8, votlage, -1, -1
+9, votlage, -1, -1
+10, votlage, -1, -1
+11, votlage, -1, -1
+12, votlage, -1, -1
+13, votlage, -1, -1
+14, votlage, -1, -1
+15, votlage, -1, -1
+16, votlage, -1, -1
+17, votlage, -1, -1
+18, votlage, -1, -1
+19, votlage, -1, -1
+20, votlage, -1, -1
+21, votlage, -1, -1
+22, votlage, -1, -1
+23, votlage, -1, -1
+24, votlage, -1, -1
+25, votlage, -1, -1
+26, votlage, -1, -1
+27, votlage, -1, -1
+28, votlage, -1, -1
+29, votlage, -1, -1
+30, votlage, -1, -1
+31, votlage, -1, -1
+32, votlage, -1, -1
+33, votlage, -1, -1
+34, votlage, -1, -1
+35, votlage, -1, -1
+36, votlage, -1, -1
+37, votlage, -1, -1
+38, votlage, -1, -1
+39, votlage, -1, -1
+40, votlage, -1, -1
+41, votlage, -1, -1
+42, votlage, -1, -1
+43, votlage, -1, -1
+44, votlage, -1, -1
+45, votlage, -1, -1
+46, votlage, -1, -1
+47, votlage, -1, -1
+48, votlage, -1, -1
+49, votlage, -1, -1
+50, votlage, -1, -1
+51, votlage, -1, -1
+52, votlage, -1, -1
+53, votlage, -1, -1
+54, votlage, -1, -1
+55, votlage, -1, -1
+56, votlage, -1, -1
+57, votlage, -1, -1
+58, votlage, -1, -1
+59, votlage, -1, -1
+60, votlage, -1, -1
+61, votlage, -1, -1
+62, votlage, -1, -1
+63, votlage, -1, -1
+64, votlage, -1, -1
+65, votlage, -1, -1
+66, votlage, -1, -1
+67, votlage, -1, -1
+68, votlage, -1, -1
+69, votlage, -1, -1
+70, votlage, -1, -1
+71, votlage, -1, -1
+72, votlage, -1, -1
+73, votlage, -1, -1
+74, votlage, -1, -1
+75, votlage, -1, -1
+76, votlage, -1, -1
+77, votlage, -1, -1
+78, votlage, -1, -1
+79, votlage, -1, -1
+80, votlage, -1, -1
+81, votlage, -1, -1
+82, votlage, -1, -1
+83, votlage, -1, -1
+84, votlage, -1, -1
+85, votlage, -1, -1
+86, votlage, -1, -1
+87, votlage, -1, -1
+88, votlage, -1, -1
+89, votlage, -1, -1
+90, votlage, -1, -1
+91, votlage, -1, -1
+92, votlage, -1, -1
+93, votlage, -1, -1
+94, votlage, -1, -1
+95, votlage, -1, -1
+96, votlage, -1, -1
+97, votlage, -1, -1
+98, votlage, -1, -1
+99, votlage, -1, -1
+100, votlage, -1, -1
+101, votlage, -1, -1
+102, votlage, -1, -1
+103, votlage, -1, -1
+104, votlage, -1, -1
+105, votlage, -1, -1
+106, votlage, -1, -1
+107, votlage, -1, -1
+108, votlage, -1, -1
+109, votlage, -1, -1
+110, votlage, -1, -1
+111, votlage, -1, -1
+112, votlage, -1, -1
+113, votlage, -1, -1
+114, votlage, -1, -1
+115, votlage, -1, -1
+116, votlage, -1, -1
+117, votlage, -1, -1
+118, votlage, -1, -1
+119, votlage, -1, -1
+120, votlage, -1, -1
+121, votlage, -1, -1
+122, votlage, -1, -1
+123, votlage, -1, -1
+124, votlage, -1, -1
+125, votlage, -1, -1
+126, votlage, -1, -1
+127, votlage, -1, -1
+128, votlage, -1, -1
+129, votlage, -1, -1
+130, votlage, -1, -1
+131, votlage, -1, -1
+132, votlage, -1, -1
+133, votlage, -1, -1
+134, votlage, -1, -1
+135, votlage, -1, -1
+136, votlage, -1, -1
+137, votlage, -1, -1
+138, votlage, -1, -1
+139, votlage, -1, -1
+140, votlage, -1, -1
+141, votlage, -1, -1
+142, votlage, -1, -1
+143, votlage, -1, -1
+144, votlage, -1, -1
+145, votlage, -1, -1
+146, votlage, -1, -1
+147, votlage, -1, -1
+148, votlage, -1, -1
+149, votlage, -1, -1
+150, votlage, -1, -1
+151, votlage, -1, -1
+152, votlage, -1, -1
+153, votlage, -1, -1
+154, votlage, -1, -1
+155, votlage, -1, -1
+156, votlage, -1, -1
+157, votlage, -1, -1
+158, votlage, -1, -1
+159, votlage, -1, -1
+160, votlage, -1, -1
+161, votlage, -1, -1
+162, votlage, -1, -1
+163, votlage, -1, -1
+164, votlage, -1, -1
+165, votlage, -1, -1
+166, votlage, -1, -1
+167, votlage, -1, -1
+168, votlage, -1, -1
+169, votlage, -1, -1
+170, votlage, -1, -1
+171, votlage, -1, -1
+172, votlage, -1, -1
+173, votlage, -1, -1
+174, votlage, -1, -1
+175, votlage, -1, -1
+176, votlage, -1, -1
+177, votlage, -1, -1
+178, votlage, -1, -1
+179, votlage, -1, -1
+180, votlage, -1, -1
+181, votlage, -1, -1
+182, votlage, -1, -1
+183, votlage, -1, -1
+184, votlage, -1, -1
+185, votlage, -1, -1
+186, votlage, -1, -1
+187, votlage, -1, -1
+188, votlage, -1, -1
+189, votlage, -1, -1
+190, votlage, -1, -1
+191, votlage, -1, -1
+192, votlage, -1, -1
+193, votlage, -1, -1
+194, votlage, -1, -1
+195, votlage, -1, -1
+196, votlage, -1, -1
+197, votlage, -1, -1
+198, votlage, -1, -1
+199, votlage, -1, -1
+200, votlage, -1, -1
+201, votlage, -1, -1
+202, votlage, -1, -1
+203, votlage, -1, -1
+204, votlage, -1, -1
+205, votlage, -1, -1
+206, votlage, -1, -1
+207, votlage, -1, -1
+208, votlage, -1, -1
+209, votlage, -1, -1
+210, votlage, -1, -1
+211, votlage, -1, -1
+212, votlage, -1, -1
+213, votlage, -1, -1
+214, votlage, -1, -1
+215, votlage, -1, -1
+216, votlage, -1, -1
+217, votlage, -1, -1
+218, votlage, -1, -1
+219, votlage, -1, -1
+220, votlage, -1, -1
+221, votlage, -1, -1
+222, votlage, -1, -1
+223, votlage, -1, -1
+224, votlage, -1, -1
+225, votlage, -1, -1
+226, votlage, -1, -1
+227, votlage, -1, -1
+228, votlage, -1, -1
+229, votlage, -1, -1
+230, votlage, -1, -1
+231, votlage, -1, -1
+232, votlage, -1, -1
+233, votlage, -1, -1
+234, votlage, -1, -1
+235, votlage, -1, -1
+236, votlage, -1, -1
+237, votlage, -1, -1
+238, votlage, -1, -1
+239, votlage, -1, -1
+240, votlage, -1, -1
+241, votlage, -1, -1
+242, votlage, -1, -1
+243, votlage, -1, -1
+244, votlage, -1, -1
+245, votlage, -1, -1
+246, votlage, -1, -1
+247, votlage, -1, -1
+248, votlage, -1, -1
+249, votlage, -1, -1
+250, votlage, -1, -1
+251, votlage, -1, -1
+252, votlage, -1, -1
+253, votlage, -1, -1
+254, votlage, -1, -1
+255, votlage, -1, -1
+256, votlage, -1, -1
+257, votlage, -1, -1
+258, votlage, -1, -1
+259, votlage, -1, -1
+260, votlage, -1, -1
+261, votlage, -1, -1
+262, votlage, -1, -1
+263, votlage, -1, -1
+264, votlage, -1, -1
+265, votlage, -1, -1
+266, votlage, -1, -1
+267, votlage, -1, -1
+268, votlage, -1, -1
+269, votlage, -1, -1
+270, votlage, -1, -1
+271, votlage, -1, -1
+272, votlage, -1, -1
+273, votlage, -1, -1
+274, votlage, -1, -1
+275, votlage, -1, -1
+276, votlage, -1, -1
+277, votlage, -1, -1
+278, votlage, -1, -1
+279, votlage, -1, -1
+280, votlage, -1, -1
+281, votlage, -1, -1
+282, votlage, -1, -1
+283, votlage, -1, -1
+284, votlage, -1, -1
+285, votlage, -1, -1
+286, votlage, -1, -1
+287, votlage, -1, -1
+288, votlage, -1, -1
+289, votlage, -1, -1
+290, votlage, -1, -1
+291, votlage, -1, -1
+292, votlage, -1, -1
+293, votlage, -1, -1
+294, votlage, -1, -1
+295, votlage, -1, -1
+296, votlage, -1, -1
+297, votlage, -1, -1
+298, votlage, -1, -1
+299, votlage, -1, -1
+300, votlage, -1, -1
+301, votlage, -1, -1
+302, votlage, -1, -1
+303, votlage, -1, -1
+304, votlage, -1, -1
+305, votlage, -1, -1
+306, votlage, -1, -1
+307, votlage, -1, -1
+308, votlage, -1, -1
+309, votlage, -1, -1
+310, votlage, -1, -1
+311, votlage, -1, -1
+312, votlage, -1, -1
+313, votlage, -1, -1
+314, votlage, -1, -1
+315, votlage, -1, -1
+316, votlage, -1, -1
+317, votlage, -1, -1
+318, votlage, -1, -1
+319, votlage, -1, -1
+320, votlage, -1, -1
+321, votlage, -1, -1
+322, votlage, -1, -1
+323, votlage, -1, -1
+324, votlage, -1, -1
+325, votlage, -1, -1
+326, votlage, -1, -1
+327, votlage, -1, -1
+328, votlage, -1, -1
+329, votlage, -1, -1
+330, votlage, -1, -1
+331, votlage, -1, -1
+332, votlage, -1, -1
+333, votlage, -1, -1
+334, votlage, -1, -1
+335, votlage, -1, -1
+336, votlage, -1, -1
+337, votlage, -1, -1
+338, votlage, -1, -1
+339, votlage, -1, -1
+340, votlage, -1, -1
+341, votlage, -1, -1
+342, votlage, -1, -1
+343, votlage, -1, -1
+344, votlage, -1, -1
+345, votlage, -1, -1
+346, votlage, -1, -1
+347, votlage, -1, -1
+348, votlage, -1, -1
+349, votlage, -1, -1
+350, votlage, -1, -1
+351, votlage, -1, -1
+352, votlage, -1, -1
+353, votlage, -1, -1
+354, votlage, -1, -1
+355, votlage, -1, -1
+356, votlage, -1, -1
+357, votlage, -1, -1
+358, votlage, -1, -1
+359, votlage, -1, -1
+360, votlage, -1, -1
+361, votlage, -1, -1
+362, votlage, -1, -1
+363, votlage, -1, -1
+364, votlage, -1, -1
+365, votlage, -1, -1
+366, votlage, -1, -1
+367, votlage, -1, -1
+368, votlage, -1, -1
+369, votlage, -1, -1
+370, votlage, -1, -1
+371, votlage, -1, -1
+372, votlage, -1, -1
+373, votlage, -1, -1
+374, votlage, -1, -1
+375, votlage, -1, -1
+376, votlage, -1, -1
+377, votlage, -1, -1
+378, votlage, -1, -1
+379, votlage, -1, -1
+380, votlage, -1, -1
+381, votlage, -1, -1
+382, votlage, -1, -1
+383, votlage, -1, -1
+384, votlage, -1, -1
+385, votlage, -1, -1
+386, votlage, -1, -1
+387, votlage, -1, -1
+388, votlage, -1, -1
+389, votlage, -1, -1
+390, votlage, -1, -1
+391, votlage, -1, -1
+392, votlage, -1, -1
+393, votlage, -1, -1
+394, votlage, -1, -1
+395, votlage, -1, -1
+396, votlage, -1, -1
+397, votlage, -1, -1
+398, votlage, -1, -1
+399, votlage, -1, -1
+400, votlage, -1, -1
+401, votlage, -1, -1
+402, votlage, -1, -1
+403, votlage, -1, -1
+404, votlage, -1, -1
+405, votlage, -1, -1
+406, votlage, -1, -1
+407, votlage, -1, -1
+408, votlage, -1, -1
+409, votlage, -1, -1
+410, votlage, -1, -1
+411, votlage, -1, -1
+412, votlage, -1, -1
+413, votlage, -1, -1
+414, votlage, -1, -1
+415, votlage, -1, -1
+416, votlage, -1, -1
+417, votlage, -1, -1
+418, votlage, -1, -1
+419, votlage, -1, -1
+420, votlage, -1, -1
+421, votlage, -1, -1
+422, votlage, -1, -1
+423, votlage, -1, -1
+424, votlage, -1, -1
+425, votlage, -1, -1
+426, votlage, -1, -1
+427, votlage, -1, -1
+428, votlage, -1, -1
+429, votlage, -1, -1
+430, votlage, -1, -1
+431, votlage, -1, -1
+432, votlage, -1, -1
+433, votlage, -1, -1
+434, votlage, -1, -1
+435, votlage, -1, -1
+436, votlage, -1, -1
+437, votlage, -1, -1
+438, votlage, -1, -1
+439, votlage, -1, -1
+440, votlage, -1, -1
+441, votlage, -1, -1
+442, votlage, -1, -1
+443, votlage, -1, -1
+444, votlage, -1, -1
+445, votlage, -1, -1
+446, votlage, -1, -1
+447, votlage, -1, -1
+448, votlage, -1, -1
+449, votlage, -1, -1
+1, 00422.575030, 5159.973449, 0.0, 11:42:27.142
+2, 00422.574479, 5159.973485, 0.0, 11:42:27.489
+3, 00422.573976, 5159.973522, 0.0, 11:42:27.809
+4, 00422.573377, 5159.973653, 0.0, 11:42:28.120
+5, 00422.573377, 5159.973653, 0.0, 11:42:28.448
+6, 00422.573377, 5159.973653, 0.0, 11:42:28.841
+7, 00422.573377, 5159.973653, 0.0, 11:42:29.206
+8, 00422.573377, 5159.973653, 0.0, 11:42:29.549
+9, 00422.573377, 5159.973653, 0.0, 11:42:29.862
+10, 00422.573377, 5159.973653, 0.0, 11:42:30.180
+11, 00422.573377, 5159.973653, 0.0, 11:42:30.753
+12, 00422.573377, 5159.973653, 0.0, 11:42:31.085
+13, 00422.573377, 5159.973653, 0.0, 11:42:31.445
+14, 00422.573377, 5159.973653, 0.0, 11:42:31.756
+15, 00422.573377, 5159.973653, 0.0, 11:42:32.087
+16, 00422.573377, 5159.973653, 0.0, 11:42:32.405
+17, 00422.573377, 5159.973653, 0.0, 11:42:32.763
+18, 00422.573377, 5159.973653, 0.0, 11:42:33.079
+19, 00422.573377, 5159.973653, 0.0, 11:42:33.768
+20, 00422.573377, 5159.973653, 0.0, 11:42:33.417
+21, 00422.573377, 5159.973653, 0.0, 11:42:34.267
+22, 00422.573377, 5159.973653, 0.0, 11:42:34.608
+23, 00422.573377, 5159.973653, 0.0, 11:42:34.918
+24, 00422.573377, 5159.973653, 0.0, 11:42:35.256
+25, 00422.573377, 5159.973653, 0.0, 11:42:35.567
+26, 00422.573377, 5159.973653, 0.0, 11:42:36.565
+27, 00422.573377, 5159.973653, 0.0, 11:42:36.242
+28, 00422.573377, 5159.973653, 0.0, 11:42:35.876
+29, 00422.573377, 5159.973653, 0.0, 11:42:36.874
+30, 00422.573377, 5159.973653, 0.0, 11:42:39.062
+31, 00422.573377, 5159.973653, 0.0, 11:42:37.274
+32, 00422.573377, 5159.973653, 0.0, 11:42:39.736
+33, 00422.573377, 5159.973653, 0.0, 11:42:38.380
+34, 00422.573377, 5159.973653, 0.0, 11:42:38.693
+35, 00422.573377, 5159.973653, 0.0, 11:42:40.044
+36, 00422.573377, 5159.973653, 0.0, 11:42:40.387
+37, 00422.573377, 5159.973653, 0.0, 11:42:41.075
+38, 00422.573377, 5159.973653, 0.0, 11:42:38.055
+39, 00422.573377, 5159.973653, 0.0, 11:42:42.157
+40, 00422.573377, 5159.973653, 0.0, 11:42:42.887
+41, 00422.573377, 5159.973653, 0.0, 11:42:44.704
+42, 00422.573377, 5159.973653, 0.0, 11:42:43.200
+43, 00422.573377, 5159.973653, 0.0, 11:42:39.377
+44, 00422.573377, 5159.973653, 0.0, 11:42:43.582
+45, 00422.573377, 5159.973653, 0.0, 11:42:46.224
+46, 00422.573377, 5159.973653, 0.0, 11:42:45.202
+47, 00422.573377, 5159.973653, 0.0, 11:42:48.090
+48, 00422.573377, 5159.973653, 0.0, 11:42:42.551
+49, 00422.573377, 5159.973653, 0.0, 11:42:45.876
+50, 00422.573377, 5159.973653, 0.0, 11:42:47.521
+51, 00422.573377, 5159.973653, 0.0, 11:42:40.699
+52, 00422.573377, 5159.973653, 0.0, 11:42:51.120
+53, 00422.573377, 5159.973653, 0.0, 11:42:43.868
+54, 00422.573377, 5159.973653, 0.0, 11:42:50.414
+55, 00422.573377, 5159.973653, 0.0, 11:42:48.455
+56, 00422.573377, 5159.973653, 0.0, 11:42:44.145
+57, 00422.573377, 5159.973653, 0.0, 11:42:49.780
+58, 00422.573377, 5159.973653, 0.0, 11:42:49.006
+59, 00422.573377, 5159.973653, 0.0, 11:42:44.438
+60, 00422.573377, 5159.973653, 0.0, 11:42:49.425
+61, 00422.573377, 5159.973653, 0.0, 11:42:51.812
+62, 00422.573377, 5159.973653, 0.0, 11:42:41.580
+63, 00422.573377, 5159.973653, 0.0, 11:42:52.126
+64, 00422.573377, 5159.973653, 0.0, 11:42:54.716
+65, 00422.573377, 5159.973653, 0.0, 11:42:52.987
+66, 00422.573377, 5159.973653, 0.0, 11:42:56.303
+67, 00422.573377, 5159.973653, 0.0, 11:42:55.361
+68, 00422.573377, 5159.973653, 0.0, 11:42:50.786
+69, 00422.573377, 5159.973653, 0.0, 11:42:45.494
+70, 00422.573377, 5159.973653, 0.0, 11:42:57.401
+71, 00422.573377, 5159.973653, 0.0, 11:42:59.259
+72, 00422.573377, 5159.973653, 0.0, 11:42:46.531
+73, 00422.573377, 5159.973653, 0.0, 11:43:00.558
+74, 00422.573377, 5159.973653, 0.0, 11:42:54.403
+75, 00422.573377, 5159.973653, 0.0, 11:42:59.906
+76, 00422.573377, 5159.973653, 0.0, 11:42:50.096
+77, 00422.573377, 5159.973653, 0.0, 11:43:01.679
+78, 00422.573377, 5159.973653, 0.0, 11:42:55.720
+79, 00422.573377, 5159.973653, 0.0, 11:43:01.374
+80, 00422.573377, 5159.973653, 0.0, 11:42:56.702
+81, 00422.573377, 5159.973653, 0.0, 11:42:58.907
+82, 00422.573377, 5159.973653, 0.0, 11:42:46.873
+83, 00422.573377, 5159.973653, 0.0, 11:42:47.189
+84, 00422.573377, 5159.973653, 0.0, 11:43:02.659
+85, 00422.573377, 5159.973653, 0.0, 11:42:57.715
+86, 00422.573377, 5159.973653, 0.0, 11:42:51.434
+87, 00422.573377, 5159.973653, 0.0, 11:42:52.674
+88, 00422.573377, 5159.973653, 0.0, 11:43:03.341
+89, 00422.573377, 5159.973653, 0.0, 11:42:53.367
+90, 00422.573377, 5159.973653, 0.0, 11:43:03.686
+91, 00422.573377, 5159.973653, 0.0, 11:42:54.093
+92, 00422.573377, 5159.973653, 0.0, 11:42:53.707
+93, 00422.573377, 5159.973653, 0.0, 11:43:05.163
+94, 00422.573377, 5159.973653, 0.0, 11:43:04.876
+95, 00422.573377, 5159.973653, 0.0, 11:43:04.242
+96, 00422.573377, 5159.973653, 0.0, 11:43:05.481
+97, 00422.573377, 5159.973653, 0.0, 11:43:02.984
+98, 00422.573377, 5159.973653, 0.0, 11:42:57.020
+99, 00422.573377, 5159.973653, 0.0, 11:43:07.811
+100, 00422.573377, 5159.973653, 0.0, 11:42:55.026
+101, 00422.573377, 5159.973653, 0.0, 11:43:04.562
+102, 00422.573377, 5159.973653, 0.0, 11:43:07.259
+103, 00422.573377, 5159.973653, 0.0, 11:43:06.092
+104, 00422.573377, 5159.973653, 0.0, 11:42:58.028
+105, 00422.573377, 5159.973653, 0.0, 11:43:06.509
+106, 00422.573377, 5159.973653, 0.0, 11:42:59.590
+107, 00422.573377, 5159.973653, 0.0, 11:43:01.005
+108, 00422.573377, 5159.973653, 0.0, 11:43:09.907
+109, 00422.573377, 5159.973653, 0.0, 11:43:12.949
+110, 00422.573377, 5159.973653, 0.0, 11:43:13.347
+111, 00422.573377, 5159.973653, 0.0, 11:43:01.996
+112, 00422.573377, 5159.973653, 0.0, 11:43:02.333
+113, 00422.573377, 5159.973653, 0.0, 11:43:13.640
+114, 00422.573377, 5159.973653, 0.0, 11:43:10.243
+115, 00422.573377, 5159.973653, 0.0, 11:43:16.054
+116, 00422.573377, 5159.973653, 0.0, 11:43:05.787
+117, 00422.573377, 5159.973653, 0.0, 11:43:06.920
+118, 00422.573377, 5159.973653, 0.0, 11:43:11.853
+119, 00422.573377, 5159.973653, 0.0, 11:43:08.170
+120, 00422.573377, 5159.973653, 0.0, 11:43:10.928
+121, 00422.573377, 5159.973653, 0.0, 11:43:17.063
+122, 00422.573377, 5159.973653, 0.0, 11:43:08.889
+123, 00422.573377, 5159.973653, 0.0, 11:43:12.581
+124, 00422.573377, 5159.973653, 0.0, 11:43:11.508
+125, 00422.573377, 5159.973653, 0.0, 11:43:09.298
+126, 00422.573377, 5159.973653, 0.0, 11:43:13.940
+127, 00422.573377, 5159.973653, 0.0, 11:43:18.559
+128, 00422.573377, 5159.973653, 0.0, 11:43:09.589
+129, 00422.573377, 5159.973653, 0.0, 11:43:08.488
+130, 00422.573377, 5159.973653, 0.0, 11:43:19.529
+131, 00422.573377, 5159.973653, 0.0, 11:43:15.427
+132, 00422.573377, 5159.973653, 0.0, 11:43:12.202
+133, 00422.573377, 5159.973653, 0.0, 11:43:20.979
+134, 00422.573377, 5159.973653, 0.0, 11:43:16.378
+135, 00422.573377, 5159.973653, 0.0, 11:43:10.593
+136, 00422.573377, 5159.973653, 0.0, 11:43:14.290
+137, 00422.573377, 5159.973653, 0.0, 11:43:14.602
+138, 00422.573377, 5159.973653, 0.0, 11:43:21.967
+139, 00422.573377, 5159.973653, 0.0, 11:43:15.123
+140, 00422.573377, 5159.973653, 0.0, 11:43:15.750
+141, 00422.573377, 5159.973653, 0.0, 11:43:22.877
+142, 00422.573377, 5159.973653, 0.0, 11:43:17.702
+143, 00422.573377, 5159.973653, 0.0, 11:43:16.768
+144, 00422.573377, 5159.973653, 0.0, 11:43:18.051
+145, 00422.573377, 5159.973653, 0.0, 11:43:17.366
+146, 00422.573377, 5159.973653, 0.0, 11:43:19.874
+147, 00422.573377, 5159.973653, 0.0, 11:43:20.261
+148, 00422.573377, 5159.973653, 0.0, 11:43:21.305
+149, 00422.573377, 5159.973653, 0.0, 11:43:22.565
+150, 00422.573377, 5159.973653, 0.0, 11:43:27.360
+151, 00422.573377, 5159.973653, 0.0, 11:43:24.298
+152, 00422.573377, 5159.973653, 0.0, 11:43:18.923
+153, 00422.573377, 5159.973653, 0.0, 11:43:24.624
+154, 00422.573377, 5159.973653, 0.0, 11:43:24.963
+155, 00422.573377, 5159.973653, 0.0, 11:43:29.321
+156, 00422.573377, 5159.973653, 0.0, 11:43:28.131
+157, 00422.573377, 5159.973653, 0.0, 11:43:20.646
+158, 00422.573377, 5159.973653, 0.0, 11:43:30.748
+159, 00422.573377, 5159.973653, 0.0, 11:43:26.354
+160, 00422.573377, 5159.973653, 0.0, 11:43:26.649
+161, 00422.573377, 5159.973653, 0.0, 11:43:31.093
+162, 00422.573377, 5159.973653, 0.0, 11:43:21.620
+163, 00422.573377, 5159.973653, 0.0, 11:43:31.732
+164, 00422.573377, 5159.973653, 0.0, 11:43:30.199
+165, 00422.573377, 5159.973653, 0.0, 11:43:27.745
+166, 00422.573377, 5159.973653, 0.0, 11:43:32.079
+167, 00422.573377, 5159.973653, 0.0, 11:43:31.396
+168, 00422.573377, 5159.973653, 0.0, 11:43:23.230
+169, 00422.573377, 5159.973653, 0.0, 11:43:34.015
+170, 00422.573377, 5159.973653, 0.0, 11:43:23.573
+171, 00422.573377, 5159.973653, 0.0, 11:43:23.975
+172, 00422.573377, 5159.973653, 0.0, 11:43:32.667
+173, 00422.573377, 5159.973653, 0.0, 11:43:25.299
+174, 00422.573377, 5159.973653, 0.0, 11:43:35.625
+175, 00422.573377, 5159.973653, 0.0, 11:43:25.624
+176, 00422.573377, 5159.973653, 0.0, 11:43:34.685
+177, 00422.573377, 5159.973653, 0.0, 11:43:33.036
+178, 00422.573377, 5159.973653, 0.0, 11:43:33.363
+179, 00422.573377, 5159.973653, 0.0, 11:43:33.682
+180, 00422.573377, 5159.973653, 0.0, 11:43:36.314
+181, 00422.573377, 5159.973653, 0.0, 11:43:36.686
+182, 00422.573377, 5159.973653, 0.0, 11:43:37.051
+183, 00422.573377, 5159.973653, 0.0, 11:43:26.971
+184, 00422.573377, 5159.973653, 0.0, 11:43:28.533
+185, 00422.573377, 5159.973653, 0.0, 11:43:35.295
+186, 00422.573377, 5159.973653, 0.0, 11:43:35.952
+187, 00422.573377, 5159.973653, 0.0, 11:43:37.733
+188, 00422.573377, 5159.973653, 0.0, 11:43:38.344
+189, 00422.573377, 5159.973653, 0.0, 11:43:38.669
+190, 00422.573377, 5159.973653, 0.0, 11:43:38.941
+191, 00422.573377, 5159.973653, 0.0, 11:43:39.613
+192, 00422.573377, 5159.973653, 0.0, 11:43:37.371
+193, 00422.573377, 5159.973653, 0.0, 11:43:28.907
+194, 00422.573377, 5159.973653, 0.0, 11:43:40.077
+195, 00422.573377, 5159.973653, 0.0, 11:43:40.920
+196, 00422.573377, 5159.973653, 0.0, 11:43:41.698
+197, 00422.573377, 5159.973653, 0.0, 11:43:34.989
+198, 00422.573377, 5159.973653, 0.0, 11:43:42.304
+199, 00422.573377, 5159.973653, 0.0, 11:43:40.624
+200, 00422.573377, 5159.973653, 0.0, 11:43:41.347
+201, 00422.573377, 5159.973653, 0.0, 11:43:43.258
+202, 00422.573377, 5159.973653, 0.0, 11:43:44.581
+203, 00422.573377, 5159.973653, 0.0, 11:43:42.602
+204, 00422.573377, 5159.973653, 0.0, 11:43:43.604
+205, 00422.573377, 5159.973653, 0.0, 11:43:43.941
+206, 00422.573377, 5159.973653, 0.0, 11:43:44.260
+207, 00422.573377, 5159.973653, 0.0, 11:43:45.253
+208, 00422.573377, 5159.973653, 0.0, 11:43:44.921
+209, 00422.573377, 5159.973653, 0.0, 11:43:45.952
+210, 00422.573377, 5159.973653, 0.0, 11:43:46.283
+211, 00422.573377, 5159.973653, 0.0, 11:43:46.932
+212, 00422.573377, 5159.973653, 0.0, 11:43:46.586
+213, 00422.573377, 5159.973653, 0.0, 11:43:39.282
+214, 00422.573377, 5159.973653, 0.0, 11:43:47.294
+215, 00422.573377, 5159.973653, 0.0, 11:43:48.131
+216, 00422.573377, 5159.973653, 0.0, 11:43:50.190
+217, 00422.573377, 5159.973653, 0.0, 11:43:48.533
+218, 00422.573377, 5159.973653, 0.0, 11:43:42.892
+219, 00422.573377, 5159.973653, 0.0, 11:43:52.850
+220, 00422.573377, 5159.973653, 0.0, 11:43:52.176
+221, 00422.573377, 5159.973653, 0.0, 11:43:49.895
+222, 00422.573377, 5159.973653, 0.0, 11:43:53.240
+223, 00422.573377, 5159.973653, 0.0, 11:43:51.506
+224, 00422.573377, 5159.973653, 0.0, 11:43:50.745
+225, 00422.573377, 5159.973653, 0.0, 11:43:52.507
+226, 00422.573377, 5159.973653, 0.0, 11:43:51.149
+227, 00422.573377, 5159.973653, 0.0, 11:43:55.768
+228, 00422.573377, 5159.973653, 0.0, 11:43:51.840
+229, 00422.573377, 5159.973653, 0.0, 11:43:54.300
+230, 00422.573377, 5159.973653, 0.0, 11:43:55.029
+231, 00422.573377, 5159.973653, 0.0, 11:43:53.889
+232, 00422.573377, 5159.973653, 0.0, 11:43:47.764
+233, 00422.573377, 5159.973653, 0.0, 11:43:57.291
+234, 00422.573377, 5159.973653, 0.0, 11:43:48.892
+235, 00422.573377, 5159.973653, 0.0, 11:43:56.140
+236, 00422.573377, 5159.973653, 0.0, 11:43:49.241
+237, 00422.573377, 5159.973653, 0.0, 11:43:55.402
+238, 00422.573377, 5159.973653, 0.0, 11:43:56.907
+239, 00422.573377, 5159.973653, 0.0, 11:43:54.675
+240, 00422.573377, 5159.973653, 0.0, 11:43:57.933
+241, 00422.573377, 5159.973653, 0.0, 11:43:58.839
+242, 00422.573377, 5159.973653, 0.0, 11:43:59.564
+243, 00422.573377, 5159.973653, 0.0, 11:43:56.581
+244, 00422.573377, 5159.973653, 0.0, 11:43:59.189
+245, 00422.573377, 5159.973653, 0.0, 11:44:02.437
+246, 00422.573377, 5159.973653, 0.0, 11:44:00.241
+247, 00422.573377, 5159.973653, 0.0, 11:44:00.585
+248, 00422.573377, 5159.973653, 0.0, 11:43:59.903
+249, 00422.573377, 5159.973653, 0.0, 11:43:58.218
+250, 00422.573377, 5159.973653, 0.0, 11:44:03.911
+251, 00422.573377, 5159.973653, 0.0, 11:44:04.668
+252, 00422.573377, 5159.973653, 0.0, 11:44:00.912
+253, 00422.573377, 5159.973653, 0.0, 11:44:01.724
+254, 00422.573377, 5159.973653, 0.0, 11:44:02.092
+255, 00422.573377, 5159.973653, 0.0, 11:43:58.511
+256, 00422.573377, 5159.973653, 0.0, 11:44:02.785
+257, 00422.573377, 5159.973653, 0.0, 11:44:03.540
+258, 00422.573377, 5159.973653, 0.0, 11:44:04.289
+259, 00422.573377, 5159.973653, 0.0, 11:44:09.412
+260, 00422.573377, 5159.973653, 0.0, 11:44:07.444
+261, 00422.573377, 5159.973653, 0.0, 11:44:10.487
+262, 00422.573377, 5159.973653, 0.0, 11:44:08.833
+263, 00422.573377, 5159.973653, 0.0, 11:44:05.004
+264, 00422.573377, 5159.973653, 0.0, 11:44:05.663
+265, 00422.573377, 5159.973653, 0.0, 11:44:07.808
+266, 00422.573377, 5159.973653, 0.0, 11:44:05.958
+267, 00422.573377, 5159.973653, 0.0, 11:44:06.254
+268, 00422.573377, 5159.973653, 0.0, 11:44:12.047
+269, 00422.573377, 5159.973653, 0.0, 11:44:08.149
+270, 00422.573377, 5159.973653, 0.0, 11:44:06.752
+271, 00422.573377, 5159.973653, 0.0, 11:44:07.093
+272, 00422.573377, 5159.973653, 0.0, 11:44:13.627
+273, 00422.573377, 5159.973653, 0.0, 11:44:03.148
+274, 00422.573377, 5159.973653, 0.0, 11:44:08.496
+275, 00422.573377, 5159.973653, 0.0, 11:44:09.735
+276, 00422.573377, 5159.973653, 0.0, 11:44:11.702
+277, 00422.573377, 5159.973653, 0.0, 11:44:16.596
+278, 00422.573377, 5159.973653, 0.0, 11:44:10.071
+279, 00422.573377, 5159.973653, 0.0, 11:44:18.367
+280, 00422.573377, 5159.973653, 0.0, 11:44:11.139
+281, 00422.573377, 5159.973653, 0.0, 11:44:17.009
+282, 00422.573377, 5159.973653, 0.0, 11:44:12.380
+283, 00422.573377, 5159.973653, 0.0, 11:44:10.808
+284, 00422.573377, 5159.973653, 0.0, 11:44:13.279
+285, 00422.573377, 5159.973653, 0.0, 11:44:12.710
+286, 00422.573377, 5159.973653, 0.0, 11:44:13.967
+287, 00422.573377, 5159.973653, 0.0, 11:44:14.863
+288, 00422.573377, 5159.973653, 0.0, 11:44:17.675
+289, 00422.573377, 5159.973653, 0.0, 11:44:14.266
+290, 00422.573377, 5159.973653, 0.0, 11:44:15.181
+291, 00422.573377, 5159.973653, 0.0, 11:44:15.492
+292, 00422.573377, 5159.973653, 0.0, 11:44:22.750
+293, 00422.573377, 5159.973653, 0.0, 11:44:14.571
+294, 00422.573377, 5159.973653, 0.0, 11:44:20.402
+295, 00422.573377, 5159.973653, 0.0, 11:44:15.795
+296, 00422.573377, 5159.973653, 0.0, 11:44:16.098
+297, 00422.573377, 5159.973653, 0.0, 11:44:21.590
+298, 00422.573377, 5159.973653, 0.0, 11:44:23.909
+299, 00422.573377, 5159.973653, 0.0, 11:44:19.544
+300, 00422.573377, 5159.973653, 0.0, 11:44:17.332
+301, 00422.573377, 5159.973653, 0.0, 11:44:24.215
+302, 00422.573377, 5159.973653, 0.0, 11:44:19.893
+303, 00422.573377, 5159.973653, 0.0, 11:44:25.163
+304, 00422.573377, 5159.973653, 0.0, 11:44:18.051
+305, 00422.573377, 5159.973653, 0.0, 11:44:18.741
+306, 00422.573377, 5159.973653, 0.0, 11:44:25.835
+307, 00422.573377, 5159.973653, 0.0, 11:44:19.158
+308, 00422.573377, 5159.973653, 0.0, 11:44:26.556
+309, 00422.573377, 5159.973653, 0.0, 11:44:24.842
+310, 00422.573377, 5159.973653, 0.0, 11:44:27.502
+311, 00422.573377, 5159.973653, 0.0, 11:44:27.835
+312, 00422.573377, 5159.973653, 0.0, 11:44:20.690
+313, 00422.573377, 5159.973653, 0.0, 11:44:20.985
+314, 00422.573377, 5159.973653, 0.0, 11:44:21.310
+315, 00422.573377, 5159.973653, 0.0, 11:44:28.526
+316, 00422.573377, 5159.973653, 0.0, 11:44:28.849
+317, 00422.573377, 5159.973653, 0.0, 11:44:23.106
+318, 00422.573377, 5159.973653, 0.0, 11:44:23.380
+319, 00422.573377, 5159.973653, 0.0, 11:44:30.139
+320, 00422.573377, 5159.973653, 0.0, 11:44:24.535
+321, 00422.573377, 5159.973653, 0.0, 11:44:26.199
+322, 00422.573377, 5159.973653, 0.0, 11:44:31.606
+323, 00422.573377, 5159.973653, 0.0, 11:44:22.116
+324, 00422.573377, 5159.973653, 0.0, 11:44:22.456
+325, 00422.573377, 5159.973653, 0.0, 11:44:25.485
+326, 00422.573377, 5159.973653, 0.0, 11:44:32.491
+327, 00422.573377, 5159.973653, 0.0, 11:44:28.164
+328, 00422.573377, 5159.973653, 0.0, 11:44:26.956
+329, 00422.573377, 5159.973653, 0.0, 11:44:31.924
+330, 00422.573377, 5159.973653, 0.0, 11:44:33.129
+331, 00422.573377, 5159.973653, 0.0, 11:44:33.446
+332, 00422.573377, 5159.973653, 0.0, 11:44:32.808
+333, 00422.573377, 5159.973653, 0.0, 11:44:30.439
+334, 00422.573377, 5159.973653, 0.0, 11:44:33.789
+335, 00422.573377, 5159.973653, 0.0, 11:44:29.817
+336, 00422.573377, 5159.973653, 0.0, 11:44:31.322
+337, 00422.573377, 5159.973653, 0.0, 11:44:31.034
+338, 00422.573377, 5159.973653, 0.0, 11:44:35.560
+339, 00422.573377, 5159.973653, 0.0, 11:44:34.927
+340, 00422.573377, 5159.973653, 0.0, 11:44:35.251
+341, 00422.573377, 5159.973653, 0.0, 11:44:35.865
+342, 00422.573377, 5159.973653, 0.0, 11:44:29.153
+343, 00422.573377, 5159.973653, 0.0, 11:44:29.473
+344, 00422.573377, 5159.973653, 0.0, 11:44:34.104
+345, 00422.573377, 5159.973653, 0.0, 11:44:34.633
+346, 00422.573377, 5159.973653, 0.0, 11:44:36.500
+347, 00422.573377, 5159.973653, 0.0, 11:44:38.400
+348, 00422.573377, 5159.973653, 0.0, 11:44:36.213
+349, 00422.573377, 5159.973653, 0.0, 11:44:37.455
+350, 00422.573377, 5159.973653, 0.0, 11:44:38.053
+351, 00422.573377, 5159.973653, 0.0, 11:44:41.790
+352, 00422.573377, 5159.973653, 0.0, 11:44:38.703
+353, 00422.573377, 5159.973653, 0.0, 11:44:39.382
+354, 00422.573377, 5159.973653, 0.0, 11:44:37.093
+355, 00422.573377, 5159.973653, 0.0, 11:44:39.977
+356, 00422.573377, 5159.973653, 0.0, 11:44:36.805
+357, 00422.573377, 5159.973653, 0.0, 11:44:39.051
+358, 00422.573377, 5159.973653, 0.0, 11:44:43.459
+359, 00422.573377, 5159.973653, 0.0, 11:44:44.823
+360, 00422.573377, 5159.973653, 0.0, 11:44:40.305
+361, 00422.573377, 5159.973653, 0.0, 11:44:43.799
+362, 00422.573377, 5159.973653, 0.0, 11:44:40.609
+363, 00422.573377, 5159.973653, 0.0, 11:44:44.130
+364, 00422.573377, 5159.973653, 0.0, 11:44:44.507
+365, 00422.573377, 5159.973653, 0.0, 11:44:45.912
+366, 00422.573377, 5159.973653, 0.0, 11:44:46.556
+367, 00422.573377, 5159.973653, 0.0, 11:44:39.685
+368, 00422.573377, 5159.973653, 0.0, 11:44:40.902
+369, 00422.573377, 5159.973653, 0.0, 11:44:46.942
+370, 00422.573377, 5159.973653, 0.0, 11:44:47.919
+371, 00422.573377, 5159.973653, 0.0, 11:44:48.502
+372, 00422.573377, 5159.973653, 0.0, 11:44:41.421
+373, 00422.573377, 5159.973653, 0.0, 11:44:49.020
+374, 00422.573377, 5159.973653, 0.0, 11:44:42.140
+375, 00422.573377, 5159.973653, 0.0, 11:44:43.148
+376, 00422.573377, 5159.973653, 0.0, 11:44:49.333
+377, 00422.573377, 5159.973653, 0.0, 11:44:50.314
+378, 00422.573377, 5159.973653, 0.0, 11:44:51.337
+379, 00422.573377, 5159.973653, 0.0, 11:44:45.113
+380, 00422.573377, 5159.973653, 0.0, 11:44:51.021
+381, 00422.573377, 5159.973653, 0.0, 11:44:50.693
+382, 00422.573377, 5159.973653, 0.0, 11:44:52.518
+383, 00422.573377, 5159.973653, 0.0, 11:44:53.130
+384, 00422.573377, 5159.973653, 0.0, 11:44:53.940
+385, 00422.573377, 5159.973653, 0.0, 11:44:45.612
+386, 00422.573377, 5159.973653, 0.0, 11:44:53.642
+387, 00422.573377, 5159.973653, 0.0, 11:44:54.413
+388, 00422.573377, 5159.973653, 0.0, 11:44:49.642
+389, 00422.573377, 5159.973653, 0.0, 11:44:55.089
+390, 00422.573377, 5159.973653, 0.0, 11:44:46.224
+391, 00422.573377, 5159.973653, 0.0, 11:44:55.699
+392, 00422.573377, 5159.973653, 0.0, 11:44:57.865
+393, 00422.573377, 5159.973653, 0.0, 11:44:57.155
+394, 00422.573377, 5159.973653, 0.0, 11:44:47.264
+395, 00422.573377, 5159.973653, 0.0, 11:44:47.618
+396, 00422.573377, 5159.973653, 0.0, 11:44:58.223
+397, 00422.573377, 5159.973653, 0.0, 11:44:48.206
+398, 00422.573377, 5159.973653, 0.0, 11:44:58.905
+399, 00422.573377, 5159.973653, 0.0, 11:44:51.653
+400, 00422.573377, 5159.973653, 0.0, 11:44:59.838
+401, 00422.573377, 5159.973653, 0.0, 11:44:49.984
+402, 00422.573377, 5159.973653, 0.0, 11:44:51.965
+403, 00422.573377, 5159.973653, 0.0, 11:45:00.659
+404, 00422.573377, 5159.973653, 0.0, 11:44:52.826
+405, 00422.573377, 5159.973653, 0.0, 11:45:02.048
+406, 00422.573377, 5159.973653, 0.0, 11:45:01.376
+407, 00422.573377, 5159.973653, 0.0, 11:45:02.395
+408, 00422.573377, 5159.973653, 0.0, 11:45:01.686
+409, 00422.573377, 5159.973653, 0.0, 11:44:54.736
+410, 00422.573377, 5159.973653, 0.0, 11:45:01.062
+411, 00422.573377, 5159.973653, 0.0, 11:45:04.103
+412, 00422.573377, 5159.973653, 0.0, 11:45:04.471
+413, 00422.573377, 5159.973653, 0.0, 11:44:55.393
+414, 00422.573377, 5159.973653, 0.0, 11:45:02.739
+415, 00422.573377, 5159.973653, 0.0, 11:45:03.586
+416, 00422.573377, 5159.973653, 0.0, 11:44:56.200
+417, 00422.573377, 5159.973653, 0.0, 11:45:08.360
+418, 00422.573377, 5159.973653, 0.0, 11:44:56.514
+419, 00422.573377, 5159.973653, 0.0, 11:45:09.294
+420, 00422.573377, 5159.973653, 0.0, 11:45:08.077
+421, 00422.573377, 5159.973653, 0.0, 11:45:05.466
+422, 00422.573377, 5159.973653, 0.0, 11:44:57.490
+423, 00422.573377, 5159.973653, 0.0, 11:45:08.646
+424, 00422.573377, 5159.973653, 0.0, 11:45:08.937
+425, 00422.573377, 5159.973653, 0.0, 11:44:56.837
+426, 00422.573377, 5159.973653, 0.0, 11:45:06.225
+427, 00422.573377, 5159.973653, 0.0, 11:45:09.564
+428, 00422.573377, 5159.973653, 0.0, 11:45:10.143
+429, 00422.573377, 5159.973653, 0.0, 11:45:10.672
+430, 00422.573377, 5159.973653, 0.0, 11:45:11.837
+431, 00422.573377, 5159.973653, 0.0, 11:44:58.567
+432, 00422.573377, 5159.973653, 0.0, 11:45:12.141
+433, 00422.573377, 5159.973653, 0.0, 11:45:11.234
+434, 00422.573377, 5159.973653, 0.0, 11:44:59.294
+435, 00422.573377, 5159.973653, 0.0, 11:45:13.107
+436, 00422.573377, 5159.973653, 0.0, 11:45:04.802
+437, 00422.573377, 5159.973653, 0.0, 11:45:00.244
+438, 00422.573377, 5159.973653, 0.0, 11:45:03.060
+439, 00422.573377, 5159.973653, 0.0, 11:45:05.116
+440, 00422.573377, 5159.973653, 0.0, 11:45:07.762
+441, 00422.573377, 5159.973653, 0.0, 11:45:05.866
+442, 00422.573377, 5159.973653, 0.0, 11:45:06.592
+443, 00422.573377, 5159.973653, 0.0, 11:45:09.844
+444, 00422.573377, 5159.973653, 0.0, 11:45:06.907
+445, 00422.573377, 5159.973653, 0.0, 11:45:07.441
+446, 00422.573377, 5159.973653, 0.0, 11:45:12.756
+447, 00422.573377, 5159.973653, 0.0, 11:45:10.952
+448, 00422.573377, 5159.973653, 0.0, 11:45:11.543
+449, 00422.573377, 5159.973653, 0.0, 11:45:12.429
